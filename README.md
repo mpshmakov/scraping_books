@@ -41,7 +41,6 @@ pytest
 
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/moatsystems/imdb_scrapy/tags).
 
-
 ### License
 
 This project is licensed under the [BSD 3-Clause License](LICENSE) - see the file for details.
