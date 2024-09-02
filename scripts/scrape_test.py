@@ -1,6 +1,8 @@
 # figuring out beautiful soup
 import logging
-from wiki import BeautifulSoup as bs, fetchPage
+
+from sbooks import BeautifulSoup as bs
+from sbooks import fetchPage
 
 # 1) extract links of categories
 #     1. extract links of books
@@ -8,6 +10,8 @@ from wiki import BeautifulSoup as bs, fetchPage
 #       1. add books to the dataframe with the respective category
 
 url = "https://books.toscrape.com/"
+
+
 def scrape_books():
     try:
         response = fetchPage(url)

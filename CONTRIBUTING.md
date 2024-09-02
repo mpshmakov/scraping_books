@@ -5,7 +5,7 @@ I appreciate your interest in contributing to my Python project! This guide will
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone git@github.com:mpshmakov/wikipedia_film_data_acquirer.git`
+2. Clone your fork: `git clone git@github.com:mpshmakov/scraping_books.git`
 3. Create your feature branch: `git checkout -b super-new-feature`
 4. Set up a virtual environment:
 

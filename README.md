@@ -1,6 +1,6 @@
-## Wikipedia Film Data Acquirer
+## Scraping Books
 
-This project, the `Wikipedia Film Data Acquirer`, is a sophisticated tool designed to systematically harvest and collate information about films from Wikipedia, providing cinephiles and researchers with a rich dataset for analysis and exploration of cinematic history and trends.
+...
 
 ### Install Dependencies
 
@@ -19,7 +19,7 @@ deactivate
 
 ```python
 ## Actual Application
-python3 -m scripts.wikipedia_uuid
+python3 -m scripts.scraping_books
 
 ## Unit Test with Coverage
 coverage run -m unittest discover
@@ -35,17 +35,7 @@ pytest
 
 ### Current Code Coverage
 
-| Name | Stmts | Miss | Cover | Missing |
-|------|-------|------|-------|---------|
-| database/__init__.py | 17 | 0 | 100% | |
-| database/operations.py | 77 | 7 | 91% | 128-131, 134-136 |
-| database/schema.py | 24 | 0 | 100% | |
-| scripts/wikipedia_uuid.py | 67 | 12 | 82% | 35, 51, 54, 71-72, 84-85, 101-104, 107 |
-| tests/__init__.py | 205 | 12 | 94% | 21-24, 27-28, 31-32, 35-36, 39, 247 |
-| wiki/__init__.py | 19 | 2 | 89% | 44-45 |
-| wiki/export_functions.py | 15 | 0 | 100% | |
-| wiki/utils.py | 19 | 2 | 89% | 21-22 |
-| **TOTAL** | **440** | **35** | **92%** | |
+...
 
 ### Versioning
 
