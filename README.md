@@ -1,6 +1,6 @@
 ## Scraping Books
 
-...
+Books to Scrape is a mock online bookstore designed for web scraping activities. It offers a diverse catalog of books across various genres, complete with pricing, availability, and star ratings, making it an excellent resource for engineers to sharpen their data extraction skills.
 
 ### Install Dependencies
 
