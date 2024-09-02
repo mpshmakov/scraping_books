@@ -1,4 +1,4 @@
-name: Execute Wikipedia Script
+name: Execute Scraping Books Script
 
 on:
   push:
@@ -96,5 +96,5 @@ jobs:
       - name: Run Tests
         run: pytest
 
-      - name: Run Wikipedia UUID Script
-        run: python3 -m scripts.wikipedia_uuid
+      - name: Run Scraping Books Script
+        run: python3 -m scripts.scraping_books

@@ -1,8 +1,8 @@
 # figuring out beautiful soup
 import logging
 
-from wiki import BeautifulSoup as bs
-from wiki import fetchPage
+from sbooks import BeautifulSoup as bs
+from sbooks import fetchPage
 
 # 1) extract links of categories
 #     1. extract links of books

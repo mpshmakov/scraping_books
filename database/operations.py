@@ -12,7 +12,7 @@ from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 
 from . import Base, Session, engine
-from .schema import AcademyAwardWinningFilms, TestTable
+from .schema import Books, TestTable
 
 # Setup logging
 logging.basicConfig(
@@ -31,9 +31,9 @@ def initialize_schema():
         metadata = MetaData()
         # Explicitly define tables
         Table(
-            "academy_award_winning_films",
+            "books",
             metadata,
-            *[c.copy() for c in AcademyAwardWinningFilms.__table__.columns],
+            *[c.copy() for c in Books.__table__.columns],
         )
         Table("TestTable", metadata, *[c.copy() for c in TestTable.__table__.columns])
         # Create tables
@@ -45,7 +45,7 @@ def initialize_schema():
         tables = inspector.get_table_names()
         logging.info(f"Tables in the database: {tables}")
 
-        if "academy_award_winning_films" in tables and "TestTable" in tables:
+        if "books" in tables and "TestTable" in tables:
             logging.info("All required tables have been created successfully.")
         else:
             logging.error("Not all required tables were created.")
@@ -63,7 +63,7 @@ def check_tables_exist():
     """
     inspector = inspect(engine)
     existing_tables = inspector.get_table_names()
-    required_tables = ["academy_award_winning_films", "TestTable"]
+    required_tables = ["books", "TestTable"]
     return all(table in existing_tables for table in required_tables)
 
 
@@ -77,7 +77,7 @@ def truncate_tables(session):
     Raises:
         SQLAlchemyError: If there's an error during table truncation.
     """
-    for table in [AcademyAwardWinningFilms, TestTable]:
+    for table in [Books, TestTable]:
         session.query(table).delete()
     logging.info("All tables truncated successfully.")
 

@@ -1,6 +1,5 @@
 import logging
 import os
-
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
@@ -12,7 +11,7 @@ logging.basicConfig(
 
 # Define the path to the database file
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
-DB_PATH = os.path.join(DATA_DIR, "wiki_films.db")
+DB_PATH = os.path.join(DATA_DIR, "scraping_books.db")
 
 # Ensure data directory exists
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -30,7 +29,7 @@ Base = declarative_base()
 
 # Import operations and schema after engine and Base are defined
 from .operations import initDB, insertRow
-from .schema import AcademyAwardWinningFilms, TestTable
+from .schema import Books, TestTable
 
 # Expose commonly used functions and classes
 __all__ = [
@@ -39,6 +38,6 @@ __all__ = [
     "Base",
     "initDB",
     "insertRow",
-    "AcademyAwardWinningFilms",
+    "Books",
     "TestTable",
 ]
