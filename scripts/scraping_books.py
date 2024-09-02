@@ -10,11 +10,11 @@ import uuid
 import pandas as pd
 from database import AcademyAwardWinningFilms, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
-from sqlalchemy.exc import SQLAlchemyError
 from sbooks import BeautifulSoup as bs
 from sbooks import fetchPage, requests
 from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric
+from sqlalchemy.exc import SQLAlchemyError
 
 
 def scrape_books():

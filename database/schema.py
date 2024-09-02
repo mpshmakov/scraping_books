@@ -2,65 +2,80 @@
 Database schema module.
 This module defines the SQLAlchemy ORM models for the database tables.
 """
-from sqlalchemy import CheckConstraint, Column, Integer, String, DECIMAL
+
+from sqlalchemy import DECIMAL, CheckConstraint, Column, Integer, String
 from sqlalchemy.ext.declarative import declarative_base
 
 Base = declarative_base()
 
+
 class Books(Base):
-   """
-   SQLAlchemy ORM model for the books table.
-   """
-   __tablename__ = "books"
+    """
+    SQLAlchemy ORM model for the books table.
+    """
 
-   id = Column(String(36), primary_key=True)
-   title = Column(String(255), nullable=False)
-   price = Column(DECIMAL(10, 2), nullable=False)
-   availability = Column(Integer, nullable=False)
-   star_rating = Column(DECIMAL(3, 2), nullable=True)
-   category = Column(String(70), nullable=False)
+    __tablename__ = "books"
 
-   __table_args__ = (
-       CheckConstraint("price >= 0", name="check_price"),
-       CheckConstraint("availability >= 0", name="check_availability"),
-       CheckConstraint("star_rating >= 0 AND star_rating <= 5", name="check_star_rating"),
-   )
+    id = Column(String(36), primary_key=True)
+    title = Column(String(255), nullable=False)
+    price = Column(DECIMAL(10, 2), nullable=False)
+    availability = Column(Integer, nullable=False)
+    star_rating = Column(DECIMAL(3, 2), nullable=True)
+    category = Column(String(70), nullable=False)
 
-   def __init__(self, id: str, title: str, price: float, availability: int, category: str, star_rating: float = None):
-       """
-       Initialize a Books instance.
+    __table_args__ = (
+        CheckConstraint("price >= 0", name="check_price"),
+        CheckConstraint("availability >= 0", name="check_availability"),
+        CheckConstraint(
+            "star_rating >= 0 AND star_rating <= 5", name="check_star_rating"
+        ),
+    )
 
-       Args:
-           id (str): Unique identifier for the book.
-           title (str): Title of the book.
-           price (float): Price of the book.
-           availability (int): Number of copies available.
-           category (str): Category of the book.
-           star_rating (float, optional): Star rating of the book (0 to 5).
-       """
-       self.id = id
-       self.title = title
-       self.price = price
-       self.availability = availability
-       self.star_rating = star_rating
-       self.category = category
+    def __init__(
+        self,
+        id: str,
+        title: str,
+        price: float,
+        availability: int,
+        category: str,
+        star_rating: float = None,
+    ):
+        """
+        Initialize a Books instance.
+
+        Args:
+            id (str): Unique identifier for the book.
+            title (str): Title of the book.
+            price (float): Price of the book.
+            availability (int): Number of copies available.
+            category (str): Category of the book.
+            star_rating (float, optional): Star rating of the book (0 to 5).
+        """
+        self.id = id
+        self.title = title
+        self.price = price
+        self.availability = availability
+        self.star_rating = star_rating
+        self.category = category
+
 
 class TestTable(Base):
-   """
-   SQLAlchemy ORM model for the TestTable.
-   """
-   __tablename__ = "TestTable"
+    """
+    SQLAlchemy ORM model for the TestTable.
+    """
 
-   id = Column(String(36), primary_key=True)
-   text = Column(String(255), nullable=False)
+    __tablename__ = "TestTable"
 
-   def __init__(self, id: str, text: str):
-       """
-       Initialize a TestTable instance.
+    id = Column(String(36), primary_key=True)
+    text = Column(String(255), nullable=False)
 
-       Args:
-           id (str): Unique identifier for the test entry.
-           text (str): Text content for the test entry.
-       """
-       self.id = id
-       self.text = text
+    def __init__(self, id: str, text: str):
+        """
+        Initialize a TestTable instance.
+
+        Args:
+            id (str): Unique identifier for the test entry.
+            text (str): Text content for the test entry.
+        """
+        self.id = id
+        self.text = text
