@@ -1,6 +1,6 @@
 """
-Wikipedia Oscar-winning films scraper and database population script.
-This script scrapes data about Academy Award-winning films from Wikipedia,
+Books to Scrape scraper and database population script.
+This script scrapes book data from the Books to Scrape website,
 stores it in a database, and exports it to CSV and JSON formats.
 """
 

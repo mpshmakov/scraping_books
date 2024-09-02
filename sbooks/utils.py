@@ -1,5 +1,5 @@
 """
-Utility functions for the Wiki module.
+Utility functions for the Sbooks module.
 
 This module provides helper functions for file operations, UUID handling,
 and data cleaning.

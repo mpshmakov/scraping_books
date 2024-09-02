@@ -1,5 +1,5 @@
 """
-Export functions for the Wiki module.
+Export functions for the Sbooks module.
 
 This module provides functions to export data to CSV and JSON formats.
 """
