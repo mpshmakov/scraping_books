@@ -29,21 +29,25 @@ def scrape_books():
 
             if type(a_tag) is not int: # for some reason some of the results are -1
                 category_link = a_tag.get('href')
-                category_name = category
+                category_name = a_tag.string.strip()
+                print("category name: ",category_name)
         
                 category_page = bs(fetchPage(url+category_link).content, features="html.parser")
 
                 num_pages = 1
                 num_pages_tag = category_page.find(class_="current")
                 if(num_pages_tag is not None):
-                    print(num_pages_tag.text.split("of ",1)[1])
+                    # print(num_pages_tag.text.split("of ",1)[1])
 
                     num_pages = int(num_pages_tag.text.split("of ",1)[1])
                     
-                    
-                for i in range(num_pages):
-                    # page n is just page-n.html instead of index.html
-                    pritn('stub')
+                if num_pages == 1:
+                    print("stub")
+                else:    
+                    for i in range(num_pages):
+                        # page n is just page-n.html instead of index.html
+                        new_page_url = category_link.replace("index", "page-"+i)
+                        current_page = bs(fetchPage(url+new_page_url).content, features="html.parser")
             
        
         #return books
