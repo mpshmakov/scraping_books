@@ -141,7 +141,8 @@ def scrape_books():
                         price = get_price(main_div_tag)
                         availability = get_availability(main_div_tag)
                         rating = get_rating(main_div_tag)
-                        books.append([id, title, price, availability, rating])
+                        the_category = category_name
+                        books.append([id, title, price, availability, rating, the_category])
                         print("\n")
 
         return books
