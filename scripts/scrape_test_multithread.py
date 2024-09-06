@@ -1,68 +1,22 @@
 import concurrent.futures
-import time
-
-# def worker(number):
-#     for i in range (100):
-#         time.sleep(0.1)
-#         print(number, i)
-
-# import threading
-
-# print(threading.active_count())
-# print(threading.enumerate())
-
-# t1 = threading.Thread(target=worker, name='t1', args=(1,))
-# t2 = threading.Thread(target=worker, name='t2', args=(2,))
-
-# t1.start()
-# t2.start()
-
-# t1.join()
-# t2.join()
-
-
-# figuring out beautiful soup
 import logging
 import uuid
 
 from sbooks import BeautifulSoup as bs
 from sbooks import fetchPage
 
-###################################################################################################
-#                                                                                                 #
-#                                       Note from Finn                                            #
-#                                                                                                 #
-###################################################################################################
-## Strategy 1: Category-based Approach                                                            #
-###################################################################################################
-### a. Parse the main page to extract all category links from the sidebar.                        #
-### b. For each category, navigate to its page and extract book details                           #
-### (title, price, availability, star rating) from the product pods.                              #
-### c. Use pagination to iterate through all pages within each category,                          #
-### repeating the extraction process.                                                             #
-### d. Generate a UUID for each book and associate it with the current category.                  #
-### e. Store the collected data (UUID, title, price, availability, star rating, category)         #
-### in a structured format (e.g., list of dictionaries) for later processing.                     #
-### f. Export to CSV, JSON and store in the database                                              #
-###################################################################################################
-## Strategy 2: Book-centric Approach                                                              #
-###################################################################################################
-### a. Start from the main page and extract basic book information                                #
-### (title, price, availability, star rating) from the product pods.                              #
-### b. For each book, follow its link to the detailed product page to extract additional          #
-### information, including the category.                                                          #
-### c. Generate a UUID for each book and associate it with all collected data.                    #
-### d. Use pagination to navigate through all pages on the main site,                             #
-### repeating steps 1-3 for each page.                                                            #
-### e. Implement error handling and retry mechanisms to manage potential network issues           #
-### or inconsistencies in the page structure.                                                     #
-###################################################################################################
-
 # 1) extract links of categories
 #     1. extract links of books
 #     2. extract number of pages for this category
 #       1. extract links of books
 #           1. add book to the dataframe with the respective category
+
+# TODO:
+# dynamically allocate workers 
+# loguru, tqdm
+# db implementations
+# tests
+
 
 url = "https://books.toscrape.com/"
 

@@ -36,8 +36,7 @@ from sbooks import fetchPage
 ###################################################################################################
 
 # 1) extract links of categories
-#     1. extract links of books
-#     2. extract number of pages for this category
+#     1. extract number of pages for this category
 #       1. extract links of books
 #           1. add book to the dataframe with the respective category
 
