@@ -14,8 +14,9 @@ from sbooks import fetchPage
 #           1. add book to the dataframe with the respective category
 
 # TODO:
-# dynamically allocate workers 
-# loguru, tqdm
+# dynamically allocate workers - DONE
+# tqdm - DONE
+# loguru (implement using passing an additional -l argument when launching the script)
 
 # db implementations
 # tests
