@@ -43,7 +43,7 @@ def fetchPage(url):
     """
     try:
         res = requests.get(url)
-        logging.info("Successfully fetched the page")
+        #logging.info("Successfully fetched the page")
         return res
     except requests.RequestException:
         logging.error("Failed to fetch the page - No internet connection.")
