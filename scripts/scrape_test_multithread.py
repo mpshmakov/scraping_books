@@ -57,7 +57,7 @@ def category_worker(category):
             # get links of books
             books_tag = current_page.find('ol')
             books_a_tags = books_tag.find_all('a', title=True)
-            
+
             for book_a in books_a_tags:
                 book_url = book_a.get('href').split("/", 3)[3]
                 #print("book_url", book_url)
