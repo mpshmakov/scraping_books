@@ -19,7 +19,6 @@ from sbooks import fetchPage
 # database storage: db implementations
 # tests
 
-
 url = "https://books.toscrape.com/"
 
 def category_worker(category):
