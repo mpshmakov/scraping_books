@@ -12,9 +12,11 @@ from sbooks import fetchPage
 #           1. add book to the dataframe with the respective category
 
 # TODO:
-# dynamically allocate workers 
-# loguru, tqdm
-# db implementations
+# dynamically allocate workers
+# non-native logging: loguru
+# progress tracking: tqdm
+# flat files storage: .csv and .json
+# database storage: db implementations
 # tests
 
 
@@ -53,12 +55,12 @@ def category_worker(category):
             # get links of books
             books_tag = current_page.find('ol')
             books_a_tags = books_tag.find_all('a', title=True)
-            
+
             for book_a in books_a_tags:
                 book_url = book_a.get('href').split("/", 3)[3]
                 print("book_url", book_url)
 
-                # soup of the book -> parse the details into a dict 
+                # soup of the book -> parse the details into a dict
                 print("\nfound: ")
 
                 book_page = bs(fetchPage(url+"catalogue/"+book_url).content, features="html.parser")
@@ -99,7 +101,7 @@ def get_title(main_div_tag):
 def get_price(main_div_tag):
     price = main_div_tag.find(class_="price_color").text.strip()
     print("price: ", price)
-    return price 
+    return price
 
 def get_availability(main_div_tag):
     tmp_availability = main_div_tag.find(class_="instock availability").text.strip().split("(",1)[1]
@@ -135,7 +137,7 @@ def scrape_books():
 
         with concurrent.futures.ThreadPoolExecutor(max_workers=40) as executor:
             books_map = executor.map(category_worker, categories_list)
-        
+
         for book in books_map:
             if book != None:
                 print(book)
