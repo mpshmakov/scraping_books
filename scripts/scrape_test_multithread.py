@@ -16,7 +16,7 @@ from sbooks import logger
 # TODO:
 # dynamically allocate workers - DONE
 # tqdm - DONE
-# loguru (implement using passing an additional -l argument when launching the script or just write down logs in a separate file)
+# loguru - DONE
 
 # implement dataframe
 # db implementations
@@ -45,7 +45,7 @@ def category_worker(category):
         if(num_pages_tag is not None):
             logger.info("num_pages is not None")
             num_pages = int(num_pages_tag.text.split("of ",1)[1])
-        logger.info("pages: ", str(num_pages))
+        logger.info("pages: " + str(num_pages))
 
         new_page_url = category_url
         for i in range(num_pages):
@@ -111,7 +111,7 @@ def get_title(main_div_tag):
     return title
 
 def get_price(main_div_tag):
-    price = main_div_tag.find(class_="price_color").text.strip()
+    price = main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1]
     return price 
 
 def get_availability(main_div_tag):

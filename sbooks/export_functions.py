@@ -5,11 +5,10 @@ This module provides functions to export data to CSV and JSON formats.
 """
 
 import json
-from sbooks import logger
 
 import pandas as pd
 
-from .utils import create_data_folder, uuid_to_str
+from .utils import create_data_folder, uuid_to_str, logger
 
 
 def exportToCsv(df, filename="./data/output.csv"):
