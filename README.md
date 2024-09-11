@@ -45,6 +45,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 This project is licensed under the [BSD 3-Clause License](LICENSE) - see the file for details.
 
+
 ### Copyright
 
 (c) 2024 [Maksim Shmakov](https://coming.com).
