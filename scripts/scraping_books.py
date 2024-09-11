@@ -124,7 +124,7 @@ def get_title(main_div_tag):
     return title
 
 def get_price(main_div_tag):
-    price = main_div_tag.find(class_="price_color").text.strip()
+    price = main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1]
     return price 
 
 def get_availability(main_div_tag):
