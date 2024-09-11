@@ -7,7 +7,7 @@ stores it in a database, and exports it to CSV and JSON formats.
 import uuid
 
 import pandas as pd
-from database import AcademyAwardWinningFilms, Session, TestTable, initDB, insertRow
+from database import Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
 from sbooks import BeautifulSoup as bs
 from sbooks import fetchPage, requests, logger
@@ -168,7 +168,7 @@ def scrape_books():
         # removed max_workers. https://docs.python.org/3/library/concurrent.futures.html#:~:text=Changed%20in%20version%203.5%3A%20If,number%20of%20workers%20for%20ProcessPoolExecutor.
         with concurrent.futures.ThreadPoolExecutor() as executor:
             books_map = executor.map(category_worker, categories_list)
-            logger.debug("max workers: ", str(executor._max_workers)) 
+            logger.debug("max workers: "+ str(executor._max_workers)) 
         pbar_category.close()
 
         for book in books_map:
@@ -188,34 +188,34 @@ def main():
     """
     try:
 
-        # Initialize the database schema
-        initialize_schema()
+        # # Initialize the database schema
+        # initialize_schema()
 
-        # Verify tables exist
-        if not check_tables_exist():
-            logger.error("Tables do not exist after schema initialization. Exiting.")
-            return
+        # # Verify tables exist
+        # if not check_tables_exist():
+        #     logger.error("Tables do not exist after schema initialization. Exiting.")
+        #     return
 
         books_data = scrape_books()
 
-        # Create AcademyAwardWinningFilms objects
-        movies = [AcademyAwardWinningFilms(*movie) for movie in movies_data]
+        # # Create AcademyAwardWinningFilms objects
+        # movies = [AcademyAwardWinningFilms(*movie) for movie in movies_data]
 
-        # Initialize the database and insert all movies
-        initDB(movies)
+        # # Initialize the database and insert all movies
+        # initDB(movies)
 
-        # Verify tables exist again
-        if not check_tables_exist():
-            logger.error("Tables do not exist after initDB. Exiting.")
-            return
+        # # Verify tables exist again
+        # if not check_tables_exist():
+        #     logger.error("Tables do not exist after initDB. Exiting.")
+        #     return
 
-        # Test inserting individual rows
-        new_film = AcademyAwardWinningFilms(str(uuid.uuid4()), "Test Film", 2023, 1, 5)
-        new_test = TestTable(str(uuid.uuid4()), "Test entry")
-        insertRow(new_film)
-        print("Inserted new film.")
-        insertRow(new_test)
-        print("Inserted test entry.")
+        # # Test inserting individual rows
+        # new_film = AcademyAwardWinningFilms(str(uuid.uuid4()), "Test Film", 2023, 1, 5)
+        # new_test = TestTable(str(uuid.uuid4()), "Test entry")
+        # insertRow(new_film)
+        # print("Inserted new film.")
+        # insertRow(new_test)
+        # print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
         df = pd.DataFrame(
