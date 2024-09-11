@@ -6,7 +6,6 @@ and data processing operations.
 """
 
 import json
-import logging
 
 # Standard library imports
 import os
@@ -20,12 +19,7 @@ from bs4 import BeautifulSoup
 from .export_functions import exportToCsv, exportToJson
 
 # Local imports
-from .utils import create_data_folder, uuid_to_str
-
-# Setup logging
-logging.basicConfig(
-    level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s"
-)
+from .utils import create_data_folder, uuid_to_str, logger
 
 
 def fetchPage(url):
@@ -43,10 +37,10 @@ def fetchPage(url):
     """
     try:
         res = requests.get(url)
-        #logging.info("Successfully fetched the page")
+        logger.info("Successfully fetched the page")
         return res
     except requests.RequestException:
-        logging.error("Failed to fetch the page - No internet connection.")
+        logger.error("Failed to fetch the page - No internet connection.")
         raise Exception("Failed to fetch the page - No internet connection.")
 
 
@@ -55,11 +49,11 @@ __all__ = [
     "pd",
     "BeautifulSoup",
     "requests",
-    "logging",
     "uuid",
     "exportToCsv",
     "exportToJson",
     "create_data_folder",
     "uuid_to_str",
     "fetchPage",
+    "logger"
 ]

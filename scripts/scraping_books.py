@@ -4,7 +4,7 @@ This script scrapes book data from the Books to Scrape website,
 stores it in a database, and exports it to CSV and JSON formats.
 """
 
-import logging
+from sbooks import logger
 import uuid
 
 import pandas as pd
@@ -74,7 +74,7 @@ def main():
 
         # Verify tables exist
         if not check_tables_exist():
-            logging.error("Tables do not exist after schema initialization. Exiting.")
+            logger.error("Tables do not exist after schema initialization. Exiting.")
             return
 
         movies_data = scrape_books()
@@ -87,7 +87,7 @@ def main():
 
         # Verify tables exist again
         if not check_tables_exist():
-            logging.error("Tables do not exist after initDB. Exiting.")
+            logger.error("Tables do not exist after initDB. Exiting.")
             return
 
         # Test inserting individual rows
@@ -107,9 +107,9 @@ def main():
         print("CSV and JSON files created successfully.")
 
     except SQLAlchemyError as e:
-        logging.error(f"A database error occurred: {str(e)}")
+        logger.error(f"A database error occurred: {str(e)}")
     except Exception as e:
-        logging.error(f"An unexpected error occurred: {str(e)}")
+        logger.error(f"An unexpected error occurred: {str(e)}")
 
 
 if __name__ == "__main__":

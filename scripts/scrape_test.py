@@ -1,5 +1,5 @@
 # figuring out beautiful soup
-import logging
+from sbooks import logger
 import uuid
 
 from sbooks import BeautifulSoup as bs
@@ -88,7 +88,7 @@ def scrape_books():
             raise Exception("Failed to fetch the Books page")
 
         soup = bs(response.content, features="html.parser")
-        logging.info("Created the soup.")
+        logger.info("Created the soup.")
 
         categories = soup.find(class_="nav nav-list").find('ul')
 
@@ -145,7 +145,7 @@ def scrape_books():
 
         return books
     except Exception as e:
-        logging.error(f"Error scraping books: {str(e)}")
+        logger.error(f"Error scraping books: {str(e)}")
         raise
 
 

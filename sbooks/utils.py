@@ -5,10 +5,12 @@ This module provides helper functions for file operations, UUID handling,
 and data cleaning.
 """
 
-import logging
+from loguru import logger
 import os
 import uuid
 
+# Setup loguru
+logger.add("data/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}")
 
 def create_data_folder(filename):
     """
@@ -20,7 +22,7 @@ def create_data_folder(filename):
     data_dir = os.path.dirname(filename)
     if data_dir and not os.path.exists(data_dir):
         os.makedirs(data_dir)
-        logging.info(f"Created directory: {data_dir}")
+        logger.info(f"Created directory: {data_dir}")
 
 
 def uuid_to_str(obj):

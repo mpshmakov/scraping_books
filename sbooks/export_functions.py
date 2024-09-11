@@ -5,7 +5,7 @@ This module provides functions to export data to CSV and JSON formats.
 """
 
 import json
-import logging
+from sbooks import logger
 
 import pandas as pd
 
@@ -23,7 +23,7 @@ def exportToCsv(df, filename="./data/output.csv"):
     """
     create_data_folder(filename)
     df.to_csv(filename, index=False)
-    logging.info(f"Data exported to {filename}")
+    logger.info(f"Data exported to {filename}")
 
 
 def exportToJson(df, filename="./data/output.json"):
@@ -42,4 +42,4 @@ def exportToJson(df, filename="./data/output.json"):
 
     with open(filename, "w") as f:
         json.dump(json_data, f, indent=2)
-    logging.info(f"Data exported to {filename}")
+    logger.info(f"Data exported to {filename}")
