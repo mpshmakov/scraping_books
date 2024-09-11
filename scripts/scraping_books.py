@@ -58,7 +58,7 @@ def category_worker(category):
         if(num_pages_tag is not None):
             logger.info("num_pages is not None")
             num_pages = int(num_pages_tag.text.split("of ",1)[1])
-        logger.info("pages: ", str(num_pages))
+        logger.info("pages: "+ str(num_pages))
 
         new_page_url = category_url
         for i in range(num_pages):
