@@ -18,7 +18,7 @@ from sbooks import logger
 # tqdm - DONE
 # loguru - DONE
 
-# implement dataframe
+# implement dataframe - Done
 # db implementations
 # tests
 

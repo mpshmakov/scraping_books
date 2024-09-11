@@ -219,7 +219,7 @@ def main():
 
         # Create DataFrame for CSV and JSON export
         df = pd.DataFrame(
-            books_data, columns=["id", "title", "price", "availability", "category"]
+            books_data, columns=["id", "title", "price", "availability", "rating", "category"]
         )
         exportToCsv(df)
         exportToJson(df)
