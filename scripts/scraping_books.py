@@ -7,7 +7,7 @@ stores it in a database, and exports it to CSV and JSON formats.
 import uuid
 
 import pandas as pd
-from database import Session, TestTable, initDB, insertRow
+from database import Session, TestTable, initDB, insertRow, Books
 from database.operations import check_tables_exist, initialize_schema
 from sbooks import BeautifulSoup as bs
 from sbooks import fetchPage, requests, logger
@@ -35,7 +35,8 @@ from tqdm import tqdm
 # db implementations
 # tests
 
-pbar_category = tqdm(total=50) # TODO: ideally this number should be dynamic
+pbar_category = tqdm(total=50, desc="categories") # TODO: ideally this number should be dynamic
+pbar_books = tqdm(total=1000, desc="books")
 
 url = "https://books.toscrape.com/"
 
@@ -100,6 +101,7 @@ def category_worker(category):
                 the_category = category_name
                 logger.info("category: "+category_name)
                 books.append([id, title, price, availability, rating, the_category])
+                pbar_books.update(1)
     else:
         return
 
@@ -188,42 +190,41 @@ def main():
     """
     try:
 
-        # # Initialize the database schema
-        # initialize_schema()
+        # Initialize the database schema
+        initialize_schema()
 
-        # # Verify tables exist
-        # if not check_tables_exist():
-        #     logger.error("Tables do not exist after schema initialization. Exiting.")
-        #     return
+        # Verify tables exist
+        if not check_tables_exist():
+            logger.error("Tables do not exist after schema initialization. Exiting.")
+            return
 
         books_data = scrape_books()
 
-        # # Create AcademyAwardWinningFilms objects
-        # movies = [AcademyAwardWinningFilms(*movie) for movie in movies_data]
+        # Create AcademyAwardWinningFilms objects
+        books = [Books(*book) for book in books_data]
 
-        # # Initialize the database and insert all movies
-        # initDB(movies)
+        # Initialize the database and insert all movies
+        initDB(books)
 
-        # # Verify tables exist again
-        # if not check_tables_exist():
-        #     logger.error("Tables do not exist after initDB. Exiting.")
-        #     return
+        # Verify tables exist again
+        if not check_tables_exist():
+            logger.error("Tables do not exist after initDB. Exiting.")
+            return
 
-        # # Test inserting individual rows
-        # new_film = AcademyAwardWinningFilms(str(uuid.uuid4()), "Test Film", 2023, 1, 5)
-        # new_test = TestTable(str(uuid.uuid4()), "Test entry")
-        # insertRow(new_film)
-        # print("Inserted new film.")
-        # insertRow(new_test)
-        # print("Inserted test entry.")
+        # Test inserting individual rows
+        new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
+        new_test = TestTable(str(uuid.uuid4()), "Test entry")
+        insertRow(new_book)
+        print("Inserted new film.")
+        insertRow(new_test)
+        print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
         df = pd.DataFrame(
-            books_data, columns=["id", "title", "price", "availability", "rating", "category"]
+            books_data, columns=["id", "title", "price", "availability", "star_rating", "category"]
         )
         exportToCsv(df)
         exportToJson(df)
-        print("CSV and JSON files created successfully.")
 
     except SQLAlchemyError as e:
         logger.error(f"A database error occurred: {str(e)}")

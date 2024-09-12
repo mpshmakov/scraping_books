@@ -19,10 +19,14 @@ from sbooks import logger
 # loguru - DONE
 
 # implement dataframe - Done
+
+# NEXT:
 # db implementations
+
 # tests
 
 pbar_category = tqdm(total=50) # TODO: ideally this number should be dynamic
+pbar_books = tqdm(total=1000)
 
 url = "https://books.toscrape.com/"
 
@@ -87,6 +91,7 @@ def category_worker(category):
                 the_category = category_name
                 logger.info("category: "+category_name)
                 books.append([id, title, price, availability, rating, the_category])
+                pbar_books.update(1)
     else:
         return
 
