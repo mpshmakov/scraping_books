@@ -161,6 +161,8 @@ def scrape_books():
         logger.info("Created the soup.")
 
         categories = soup.find(class_="nav nav-list").find('ul')
+        if categories is None:
+            raise Exception("Page structure has changed.")
 
         categories_list = []
 

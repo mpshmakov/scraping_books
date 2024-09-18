@@ -1,0 +1,22 @@
+2024-09-18T12:35:15.927002+0100 INFO 10180 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
+2024-09-18T12:35:15.960751+0100 INFO 10180 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
+2024-09-18T12:35:16.007162+0100 INFO 10180 All tables truncated successfully.
+2024-09-18T12:35:16.008162+0100 INFO 10180 2 records inserted successfully.
+2024-09-18T12:35:16.008162+0100 INFO 10180 Database initialized successfully with new records.
+2024-09-18T12:35:16.009162+0100 ERROR 10180 Tables were not created successfully.
+2024-09-18T12:35:16.011845+0100 INFO 10180 Database schema initialized successfully.
+2024-09-18T12:35:16.013351+0100 INFO 10180 Tables in the database: <MagicMock name='engine._sa_instance_state.get_table_names()' id='2147701878672'>
+2024-09-18T12:35:16.013351+0100 ERROR 10180 Not all required tables were created.
+2024-09-18T12:35:16.021362+0100 ERROR 10180 Error initializing database schema: ()
+2024-09-18T12:35:16.023361+0100 INFO 10180 Row inserted successfully into test_table.
+2024-09-18T12:35:16.024872+0100 ERROR 10180 Error inserting row into test_table: ()
+2024-09-18T12:35:16.025871+0100 ERROR 10180 Tables do not exist. Cannot insert row.
+2024-09-18T12:35:16.026324+0100 INFO 10180 2 records inserted successfully.
+2024-09-18T12:35:16.027337+0100 ERROR 10180 Error inserting records: ()
+2024-09-18T12:35:16.030417+0100 INFO 10180 Data exported to test.csv
+2024-09-18T12:35:16.033956+0100 INFO 10180 Data exported to test.json
+2024-09-18T12:35:16.037963+0100 INFO 10180 Database schema initialized successfully.
+2024-09-18T12:35:16.038963+0100 INFO 10180 Tables in the database: ['TestTable', 'books']
+2024-09-18T12:35:16.038963+0100 INFO 10180 All required tables have been created successfully.
+2024-09-18T12:35:16.041961+0100 ERROR 10180 Error scraping books: Failed to fetch the Books page
+2024-09-18T12:35:16.041961+0100 INFO 10180 Successfully fetched the page

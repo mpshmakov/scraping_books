@@ -4,7 +4,7 @@ This module defines the SQLAlchemy ORM models for the database tables.
 """
 
 from sqlalchemy import DECIMAL, CheckConstraint, Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
 
