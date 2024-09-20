@@ -1,0 +1,32 @@
+name: Build and Run
+
+on:
+  workflow_run:
+    workflows: ["Formatting Check and Fix"]
+    types:
+      - completed
+
+jobs:
+  build-and-run:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.x"
+      - name: Print Current Time
+        run: |
+          echo "Current time: $(date)"
+          echo "Current time (UTC): $(date -u)"
+          echo "TimeZone: $TZ"
+      - name: Install Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip --version
+          pip install -r requirements.txt
+      - name: Run Tests
+        run: pytest
+      - name: Run Scrape Books Script
+        run: python3 -m scripts.scraping_books

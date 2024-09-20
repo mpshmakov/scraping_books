@@ -1,5 +1,4 @@
-"""
-Books to Scrape scraper and database population script.
+"""Books to Scrape scraper and database population script.
 This script scrapes book data from the Books to Scrape website,
 stores it in a database, and exports it to CSV and JSON formats.
 """
@@ -7,7 +6,7 @@ stores it in a database, and exports it to CSV and JSON formats.
 import uuid
 
 import pandas as pd
-from database import Session, TestTable, initDB, insertRow
+from database import Session, TestTable, initDB, insertRow, Books
 from database.operations import check_tables_exist, initialize_schema
 from sbooks import BeautifulSoup as bs
 from sbooks import fetchPage, requests, logger
@@ -35,7 +34,8 @@ from tqdm import tqdm
 # db implementations
 # tests
 
-pbar_category = tqdm(total=50) # TODO: ideally this number should be dynamic
+pbar_category = tqdm(total=50, desc="categories") # TODO: ideally this number should be dynamic
+pbar_books = tqdm(total=1000, desc="books")
 
 url = "https://books.toscrape.com/"
 
@@ -78,7 +78,7 @@ def category_worker(category):
                 book_url = book_a.get('href').split("/", 3)[3]
                 logger.info("current book url: " + book_url)
 
-                # soup of the book -> parse the details into a dict 
+                # soup of the book -> parse the details into a dict
                 book_page = bs(fetchPage(url+"catalogue/"+book_url).content, features="html.parser")
                 main_div_tag = book_page.find(class_="col-sm-6 product_main")
 
@@ -93,13 +93,14 @@ def category_worker(category):
 
                 availability = get_availability(main_div_tag)
                 logger.info("availability: " + str(availability))
-                
+
                 rating = get_rating(main_div_tag)
                 logger.info("rating: " + str(rating))
 
                 the_category = category_name
                 logger.info("category: "+category_name)
                 books.append([id, title, price, availability, rating, the_category])
+                pbar_books.update(1)
     else:
         return
 
@@ -125,7 +126,7 @@ def get_title(main_div_tag):
 
 def get_price(main_div_tag):
     price = main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1]
-    return price 
+    return price
 
 def get_availability(main_div_tag):
     tmp_availability = main_div_tag.find(class_="instock availability").text.strip().split("(",1)[1]
@@ -159,6 +160,8 @@ def scrape_books():
         logger.info("Created the soup.")
 
         categories = soup.find(class_="nav nav-list").find('ul')
+        if categories is None:
+            raise Exception("Page structure has changed.")
 
         categories_list = []
 
@@ -168,14 +171,14 @@ def scrape_books():
         # removed max_workers. https://docs.python.org/3/library/concurrent.futures.html#:~:text=Changed%20in%20version%203.5%3A%20If,number%20of%20workers%20for%20ProcessPoolExecutor.
         with concurrent.futures.ThreadPoolExecutor() as executor:
             books_map = executor.map(category_worker, categories_list)
-            logger.debug("max workers: "+ str(executor._max_workers)) 
+            logger.debug("max workers: "+ str(executor._max_workers))
         pbar_category.close()
 
         for book in books_map:
             if book != None:
                 for j in range(len(book)):
                     books.append(book[j])
-        
+
 
         return books
     except Exception as e:
@@ -188,42 +191,41 @@ def main():
     """
     try:
 
-        # # Initialize the database schema
-        # initialize_schema()
+        # Initialize the database schema
+        initialize_schema()
 
-        # # Verify tables exist
-        # if not check_tables_exist():
-        #     logger.error("Tables do not exist after schema initialization. Exiting.")
-        #     return
+        # Verify tables exist
+        if not check_tables_exist():
+            logger.error("Tables do not exist after schema initialization. Exiting.")
+            return
 
         books_data = scrape_books()
 
-        # # Create AcademyAwardWinningFilms objects
-        # movies = [AcademyAwardWinningFilms(*movie) for movie in movies_data]
+        # Create AcademyAwardWinningFilms objects
+        books = [Books(*book) for book in books_data]
 
-        # # Initialize the database and insert all movies
-        # initDB(movies)
+        # Initialize the database and insert all movies
+        initDB(books)
 
-        # # Verify tables exist again
-        # if not check_tables_exist():
-        #     logger.error("Tables do not exist after initDB. Exiting.")
-        #     return
+        # Verify tables exist again
+        if not check_tables_exist():
+            logger.error("Tables do not exist after initDB. Exiting.")
+            return
 
-        # # Test inserting individual rows
-        # new_film = AcademyAwardWinningFilms(str(uuid.uuid4()), "Test Film", 2023, 1, 5)
-        # new_test = TestTable(str(uuid.uuid4()), "Test entry")
-        # insertRow(new_film)
-        # print("Inserted new film.")
-        # insertRow(new_test)
-        # print("Inserted test entry.")
+        # Test inserting individual rows
+        new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
+        new_test = TestTable(str(uuid.uuid4()), "Test entry")
+        insertRow(new_book)
+        print("Inserted new film.")
+        insertRow(new_test)
+        print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
         df = pd.DataFrame(
-            books_data, columns=["id", "title", "price", "availability", "rating", "category"]
+            books_data, columns=["id", "title", "price", "availability", "star_rating", "category"]
         )
         exportToCsv(df)
         exportToJson(df)
-        print("CSV and JSON files created successfully.")
 
     except SQLAlchemyError as e:
         logger.error(f"A database error occurred: {str(e)}")

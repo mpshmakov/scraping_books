@@ -22,3 +22,5 @@ test.json
 .coverage
 wikipedia_uuid.prof
 .pytest_cache
+test.py
+tttt.py

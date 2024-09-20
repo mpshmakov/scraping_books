@@ -16,17 +16,17 @@ from database.operations import (
     insert_records,
     insertRow,
 )
-from database.schema import AcademyAwardWinningFilms, TestTable
+from database.schema import Books, TestTable
 from scripts.scraping_books import main, scrape_books
 from sqlalchemy.exc import SQLAlchemyError
-from wiki import BeautifulSoup, fetchPage
-from wiki.export_functions import exportToCsv, exportToJson
-from wiki.utils import clean_numeric, create_data_folder, uuid_to_str
+from sbooks import BeautifulSoup, fetchPage
+from sbooks.export_functions import exportToCsv, exportToJson
+from sbooks.utils import clean_numeric, create_data_folder, uuid_to_str
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 
-# Test Wiki Functions
+# Test sbooks Functions
 @patch("requests.get")
 def test_fetchPage(mock_get):
     mock_response = MagicMock()
@@ -90,7 +90,7 @@ def test_clean_numeric():
 @patch("sqlalchemy.inspect")
 def test_check_tables_exist(mock_inspect):
     mock_inspect.return_value.get_table_names.return_value = [
-        "academy_award_winning_films",
+        "Books",
         "TestTable",
     ]
     assert check_tables_exist() == True
@@ -207,13 +207,14 @@ def test_initialize_schema_exception(mock_engine, mock_MetaData):
 
 
 # Test Database Schema
-def test_AcademyAwardWinningFilms():
-    film = AcademyAwardWinningFilms("test-id", "Test Film", 2020, 1, 5)
+def test_Books():
+    film = Books("test-id", "Test Title", 222.2, 1, 5, "category")
     assert film.id == "test-id"
-    assert film.film == "Test Film"
-    assert film.year == 2020
+    assert film.film == "Test Title"
+    assert film.year == 222.2
     assert film.awards == 1
     assert film.nominations == 5
+    assert film.category == "category"
 
 
 def test_TestTable():
@@ -222,10 +223,10 @@ def test_TestTable():
     assert test_entry.text == "Test Entry"
 
 
-# Test Wikipedia UUID
-@patch("wiki.fetchPage")
+# Test Books
+@patch("sbooks.fetchPage")
 @patch("bs4.BeautifulSoup")
-def test_scrape_oscar_winning_films(mock_bs, mock_fetchPage):
+def test_scrape_books(mock_bs, mock_fetchPage):
     mock_response = MagicMock()
     mock_fetchPage.return_value = mock_response
     mock_soup = MagicMock()
@@ -241,30 +242,37 @@ def test_scrape_oscar_winning_films(mock_bs, mock_fetchPage):
     mock_soup.find.return_value.find.return_value.find_all.return_value = [mock_tr]
 
     results = scrape_books()
-    assert len(results) == 1373
-    assert len(results[0]) == 5  # id, film, year, awards, nominations
+    assert len(results) == 1000
+    assert len(results[0]) == 6  # id, film, year, awards, nominations
 
 
-@patch("scripts.wikipedia_uuid.fetchPage")
-def test_scrape_oscar_winning_films_exception(mock_fetchPage):
+@patch("scripts.scraping_books.fetchPage")
+def test_scrape_books_fetch_exception(mock_fetchPage):
     mock_fetchPage.return_value = None
     with pytest.raises(Exception) as excinfo:
         scrape_books()
 
-    assert "Failed to fetch the Wikipedia page" in str(excinfo.value)
+    assert "Failed to fetch the Books page" in str(excinfo.value)
 
+@patch("sbooks.BeautifulSoup")
+def test_scrape_books_page_structure_exception(mock_bs):
+    # mock_soup = MagicMock()
+    mock_bs.return_value = None
+    with pytest.raises(Exception):
+        scrape_books()
+    
 
-@patch("scripts.wikipedia_uuid.scrape_oscar_winning_films")
-@patch("scripts.wikipedia_uuid.initDB")
-@patch("scripts.wikipedia_uuid.insertRow")
-@patch("scripts.wikipedia_uuid.exportToCsv")
-@patch("scripts.wikipedia_uuid.exportToJson")
+@patch("scripts.scraping_books.scrape_books")
+@patch("scripts.scraping_books.initDB")
+@patch("scripts.scraping_books.insertRow")
+@patch("scripts.scraping_books.exportToCsv")
+@patch("scripts.scraping_books.exportToJson")
 def test_main(
     mock_exportToJson, mock_exportToCsv, mock_insertRow, mock_initDB, mock_scrape
 ):
     mock_scrape.return_value = [
-        ("id1", "Film 1", 2021, 1, 3),
-        ("id2", "Film 2", 2022, 2, 5),
+        ("id1", "Book 1", 2021, 1, 3, "category 1"),
+        ("id2", "Book 2", 2022, 2, 5, "category 2"),
     ]
     main()
     mock_scrape.assert_called_once()

@@ -1,5 +1,4 @@
-"""
-Wiki module initialization.
+"""SBooks module initialization.
 
 This module sets up logging and imports necessary components for web scraping
 and data processing operations.

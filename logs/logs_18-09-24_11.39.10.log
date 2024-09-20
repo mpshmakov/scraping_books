@@ -1,0 +1,18 @@
+2024-09-18T11:39:11.050663+0100 INFO 9248 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
+2024-09-18T11:39:11.081916+0100 INFO 9248 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
+2024-09-18T11:39:11.134986+0100 INFO 9248 All tables truncated successfully.
+2024-09-18T11:39:11.134986+0100 INFO 9248 2 records inserted successfully.
+2024-09-18T11:39:11.134986+0100 INFO 9248 Database initialized successfully with new records.
+2024-09-18T11:39:11.139301+0100 ERROR 9248 Tables were not created successfully.
+2024-09-18T11:39:11.149794+0100 INFO 9248 Database schema initialized successfully.
+2024-09-18T11:39:11.151793+0100 INFO 9248 Tables in the database: <MagicMock name='engine._sa_instance_state.get_table_names()' id='1958475782896'>
+2024-09-18T11:39:11.151793+0100 ERROR 9248 Not all required tables were created.
+2024-09-18T11:39:11.158071+0100 ERROR 9248 Error initializing database schema: ()
+2024-09-18T11:39:11.159071+0100 INFO 9248 Row inserted successfully into test_table.
+2024-09-18T11:39:11.160070+0100 ERROR 9248 Error inserting row into test_table: ()
+2024-09-18T11:39:11.161070+0100 ERROR 9248 Tables do not exist. Cannot insert row.
+2024-09-18T11:39:11.162071+0100 INFO 9248 2 records inserted successfully.
+2024-09-18T11:39:11.164015+0100 ERROR 9248 Error inserting records: ()
+2024-09-18T11:39:11.174578+0100 INFO 9248 Data exported to test.csv
+2024-09-18T11:39:11.174578+0100 INFO 9248 Data exported to test.json
+2024-09-18T11:39:11.174578+0100 INFO 9248 Successfully fetched the page

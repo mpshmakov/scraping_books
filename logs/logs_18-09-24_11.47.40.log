@@ -1,0 +1,18 @@
+2024-09-18T11:47:41.254432+0100 INFO 1360 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
+2024-09-18T11:47:41.285682+0100 INFO 1360 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
+2024-09-18T11:47:41.316931+0100 INFO 1360 All tables truncated successfully.
+2024-09-18T11:47:41.316931+0100 INFO 1360 2 records inserted successfully.
+2024-09-18T11:47:41.316931+0100 INFO 1360 Database initialized successfully with new records.
+2024-09-18T11:47:41.316931+0100 ERROR 1360 Tables were not created successfully.
+2024-09-18T11:47:41.328839+0100 INFO 1360 Database schema initialized successfully.
+2024-09-18T11:47:41.329940+0100 INFO 1360 Tables in the database: <MagicMock name='engine._sa_instance_state.get_table_names()' id='2248408445632'>
+2024-09-18T11:47:41.329940+0100 ERROR 1360 Not all required tables were created.
+2024-09-18T11:47:41.332399+0100 ERROR 1360 Error initializing database schema: ()
+2024-09-18T11:47:41.336764+0100 INFO 1360 Row inserted successfully into test_table.
+2024-09-18T11:47:41.336764+0100 ERROR 1360 Error inserting row into test_table: ()
+2024-09-18T11:47:41.336764+0100 ERROR 1360 Tables do not exist. Cannot insert row.
+2024-09-18T11:47:41.336764+0100 INFO 1360 2 records inserted successfully.
+2024-09-18T11:47:41.336764+0100 ERROR 1360 Error inserting records: ()
+2024-09-18T11:47:41.351118+0100 INFO 1360 Data exported to test.csv
+2024-09-18T11:47:41.354123+0100 INFO 1360 Data exported to test.json
+2024-09-18T11:47:41.355123+0100 INFO 1360 Successfully fetched the page

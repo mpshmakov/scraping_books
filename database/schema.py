@@ -1,10 +1,10 @@
-"""
-Database schema module.
+"""Database schema module.
+
 This module defines the SQLAlchemy ORM models for the database tables.
 """
 
 from sqlalchemy import DECIMAL, CheckConstraint, Column, Integer, String
-from sqlalchemy.ext.declarative import declarative_base
+from sqlalchemy.orm import declarative_base
 
 Base = declarative_base()
 
@@ -20,7 +20,7 @@ class Books(Base):
     title = Column(String(255), nullable=False)
     price = Column(DECIMAL(10, 2), nullable=False)
     availability = Column(Integer, nullable=False)
-    star_rating = Column(DECIMAL(3, 2), nullable=True)
+    star_rating = Column(Integer, nullable=True)
     category = Column(String(70), nullable=False)
 
     __table_args__ = (
@@ -37,8 +37,8 @@ class Books(Base):
         title: str,
         price: float,
         availability: int,
+        star_rating: int,
         category: str,
-        star_rating: float = None,
     ):
         """
         Initialize a Books instance.
@@ -48,8 +48,8 @@ class Books(Base):
             title (str): Title of the book.
             price (float): Price of the book.
             availability (int): Number of copies available.
-            category (str): Category of the book.
             star_rating (float, optional): Star rating of the book (0 to 5).
+            category (str): Category of the book.
         """
         self.id = id
         self.title = title
