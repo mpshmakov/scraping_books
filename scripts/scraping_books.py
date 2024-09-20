@@ -1,5 +1,4 @@
-"""
-Books to Scrape scraper and database population script.
+"""Books to Scrape scraper and database population script.
 This script scrapes book data from the Books to Scrape website,
 stores it in a database, and exports it to CSV and JSON formats.
 """
@@ -79,7 +78,7 @@ def category_worker(category):
                 book_url = book_a.get('href').split("/", 3)[3]
                 logger.info("current book url: " + book_url)
 
-                # soup of the book -> parse the details into a dict 
+                # soup of the book -> parse the details into a dict
                 book_page = bs(fetchPage(url+"catalogue/"+book_url).content, features="html.parser")
                 main_div_tag = book_page.find(class_="col-sm-6 product_main")
 
@@ -94,7 +93,7 @@ def category_worker(category):
 
                 availability = get_availability(main_div_tag)
                 logger.info("availability: " + str(availability))
-                
+
                 rating = get_rating(main_div_tag)
                 logger.info("rating: " + str(rating))
 
@@ -127,7 +126,7 @@ def get_title(main_div_tag):
 
 def get_price(main_div_tag):
     price = main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1]
-    return price 
+    return price
 
 def get_availability(main_div_tag):
     tmp_availability = main_div_tag.find(class_="instock availability").text.strip().split("(",1)[1]
@@ -172,14 +171,14 @@ def scrape_books():
         # removed max_workers. https://docs.python.org/3/library/concurrent.futures.html#:~:text=Changed%20in%20version%203.5%3A%20If,number%20of%20workers%20for%20ProcessPoolExecutor.
         with concurrent.futures.ThreadPoolExecutor() as executor:
             books_map = executor.map(category_worker, categories_list)
-            logger.debug("max workers: "+ str(executor._max_workers)) 
+            logger.debug("max workers: "+ str(executor._max_workers))
         pbar_category.close()
 
         for book in books_map:
             if book != None:
                 for j in range(len(book)):
                     books.append(book[j])
-        
+
 
         return books
     except Exception as e:

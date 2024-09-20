@@ -1,5 +1,5 @@
-"""
-Database schema module.
+"""Database schema module.
+
 This module defines the SQLAlchemy ORM models for the database tables.
 """
 

@@ -1,5 +1,4 @@
-"""
-Database operations module.
+"""Database operations module.
 
 This module provides functions for initializing the database schema,
 checking table existence, inserting records into the database, and truncating tables.
