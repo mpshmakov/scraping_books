@@ -14,18 +14,17 @@ from database.operations import (
     insert_records,
     insertRow,
 )
-from database.schema import TestTable, Books
-from scripts.scraping_books import main, scrape_books
-from sqlalchemy.exc import SQLAlchemyError
+from database.schema import Books, TestTable
 from sbooks import BeautifulSoup, fetchPage
 from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric, create_data_folder, uuid_to_str
+from scripts.scraping_books import main, scrape_books
+from sqlalchemy.exc import SQLAlchemyError
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 
 from tttt import bs, main2
-
 
 
 class sbooksFilmDataTestResult(unittest.TextTestResult):
@@ -246,80 +245,80 @@ class sbooksFilmDataTestResult(unittest.TextTestResult):
 
 
 # class Testsbooks(unittest.TestCase):
-    # @patch("tttt.bs")
-    # def test_scrape_books_page_structure_exception(self, mock_bs):
-    #     # mock_soup = MagicMock()
-    #     # mock_bs.return_value = mock_soup
-    #     # mock_soup.find.return_value.find.name = "notul"
-    #     # mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
+# @patch("tttt.bs")
+# def test_scrape_books_page_structure_exception(self, mock_bs):
+#     # mock_soup = MagicMock()
+#     # mock_bs.return_value = mock_soup
+#     # mock_soup.find.return_value.find.name = "notul"
+#     # mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
 
-    #     with self.assertRaises(Exception):
-    #         main2()
+#     with self.assertRaises(Exception):
+#         main2()
 
 
-    # @patch("sbooks.fetchPage")
-    # @patch("bs4.BeautifulSoup")
-    # def test_scraping_books(self, mock_bs, mock_fetchPage):
-    #     # these lines don't seem to do anything (the test works correctly without)
-    #     # mock_response = MagicMock()
-    #     # mock_fetchPage.return_value = mock_response
-    #     # mock_soup = MagicMock()
-    #     # mock_bs.return_value = mock_soup
+# @patch("sbooks.fetchPage")
+# @patch("bs4.BeautifulSoup")
+# def test_scraping_books(self, mock_bs, mock_fetchPage):
+#     # these lines don't seem to do anything (the test works correctly without)
+#     # mock_response = MagicMock()
+#     # mock_fetchPage.return_value = mock_response
+#     # mock_soup = MagicMock()
+#     # mock_bs.return_value = mock_soup
 
-    #     # mock_tr = MagicMock()
-    #     # mock_tr.find_all.return_value = [
-    #     #     MagicMock(text="Book"),
-    #     #     MagicMock(text="222.2"),
-    #     #     MagicMock(text="1"),
-    #     #     MagicMock(text="5"),
-    #     #     MagicMock(text="category")
-    #     # ]
-    #     # mock_soup.find.return_value.find.return_value.find_all.return_value = [mock_tr]
+#     # mock_tr = MagicMock()
+#     # mock_tr.find_all.return_value = [
+#     #     MagicMock(text="Book"),
+#     #     MagicMock(text="222.2"),
+#     #     MagicMock(text="1"),
+#     #     MagicMock(text="5"),
+#     #     MagicMock(text="category")
+#     # ]
+#     # mock_soup.find.return_value.find.return_value.find_all.return_value = [mock_tr]
 
-    #     results = scrape_books()
-    #     self.assertEqual(len(results), 1000)
-    #     self.assertEqual(len(results[0]), 6)  # id, title, price, availability, star_rating, category
+#     results = scrape_books()
+#     self.assertEqual(len(results), 1000)
+#     self.assertEqual(len(results[0]), 6)  # id, title, price, availability, star_rating, category
 
-    # @patch("scripts.scraping_books.fetchPage")
-    # def test_scraping_books_fetch_exception(self, mock_fetchPage):
-    #     mock_fetchPage.return_value = None
-    #     with self.assertRaises(Exception) as context:
-    #         scrape_books()
-    #         print("context.exception in fetch_exception ", str(context.exception))
-    #         self.assertTrue("Failed to fetch the page - No internet connection." in str(context.exception))
+# @patch("scripts.scraping_books.fetchPage")
+# def test_scraping_books_fetch_exception(self, mock_fetchPage):
+#     mock_fetchPage.return_value = None
+#     with self.assertRaises(Exception) as context:
+#         scrape_books()
+#         print("context.exception in fetch_exception ", str(context.exception))
+#         self.assertTrue("Failed to fetch the page - No internet connection." in str(context.exception))
 
-    # @patch("bs4.BeautifulSoup")
-    # def test_scrape_books_page_structure_exception(self, mock_bs):
-    #     mock_soup = MagicMock()
-    #     mock_bs.return_value = mock_soup
-    #     mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
+# @patch("bs4.BeautifulSoup")
+# def test_scrape_books_page_structure_exception(self, mock_bs):
+#     mock_soup = MagicMock()
+#     mock_bs.return_value = mock_soup
+#     mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
 
-    #     with self.assertRaises(Exception):
-    #         scrape_books()
+#     with self.assertRaises(Exception):
+#         scrape_books()
 
-    # @patch("scripts.scraping_books.scrape_books")
-    # @patch("scripts.scraping_books.initDB")
-    # @patch("scripts.scraping_books.insertRow")
-    # @patch("scripts.scraping_books.exportToCsv")
-    # @patch("scripts.scraping_books.exportToJson")
-    # def test_main(
-    #     self,
-    #     mock_exportToJson,
-    #     mock_exportToCsv,
-    #     mock_insertRow,
-    #     mock_initDB,
-    #     mock_scrape,
-    # ):
-    #     mock_scrape.return_value = [
-    #         ("id1", "Book 1", 2021.1, 1, 3, "category 1"),
-    #         ("id2", "Book 2", 2022.2, 2, 5, "category 2"),
-    #     ]
-    #     main()
-    #     mock_scrape.assert_called_once()
-    #     mock_initDB.assert_called_once()
-    #     self.assertEqual(mock_insertRow.call_count, 2)
-    #     mock_exportToCsv.assert_called_once()
-    #     mock_exportToJson.assert_called_once()
+# @patch("scripts.scraping_books.scrape_books")
+# @patch("scripts.scraping_books.initDB")
+# @patch("scripts.scraping_books.insertRow")
+# @patch("scripts.scraping_books.exportToCsv")
+# @patch("scripts.scraping_books.exportToJson")
+# def test_main(
+#     self,
+#     mock_exportToJson,
+#     mock_exportToCsv,
+#     mock_insertRow,
+#     mock_initDB,
+#     mock_scrape,
+# ):
+#     mock_scrape.return_value = [
+#         ("id1", "Book 1", 2021.1, 1, 3, "category 1"),
+#         ("id2", "Book 2", 2022.2, 2, 5, "category 2"),
+#     ]
+#     main()
+#     mock_scrape.assert_called_once()
+#     mock_initDB.assert_called_once()
+#     self.assertEqual(mock_insertRow.call_count, 2)
+#     mock_exportToCsv.assert_called_once()
+#     mock_exportToJson.assert_called_once()
 
 
 if __name__ == "__main__":

@@ -4,13 +4,17 @@ This module provides helper functions for file operations, UUID handling,
 and data cleaning.
 """
 
-from loguru import logger
 import os
 import uuid
 
+from loguru import logger
+
 # Setup loguru
-logger.remove() # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
-logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}") # write logs into a log file
+logger.remove()  # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
+logger.add(
+    "logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}"
+)  # write logs into a log file
+
 
 def create_data_folder(filename):
     """

@@ -1,9 +1,8 @@
 # figuring out beautiful soup
-from sbooks import logger
 import uuid
 
 from sbooks import BeautifulSoup as bs
-from sbooks import fetchPage
+from sbooks import fetchPage, logger
 
 ###################################################################################################
 #                                                                                                 #
@@ -42,6 +41,7 @@ from sbooks import fetchPage
 
 url = "https://books.toscrape.com/"
 
+
 def word_number_to_int(number):
     if number == "One":
         return 1
@@ -54,27 +54,33 @@ def word_number_to_int(number):
     if number == "Five":
         return 5
 
+
 # functions to get each of the books' parameters
 # (i believe it is easier to debug and maintain the code
 # this way because the parsing of the page may get very complicated)
 def get_title(main_div_tag):
-    title = main_div_tag.find('h1').text.strip()
+    title = main_div_tag.find("h1").text.strip()
     print("title: ", title)
     return title
+
 
 def get_price(main_div_tag):
     price = main_div_tag.find(class_="price_color").text.strip()
     print("price: ", price)
     return price
 
+
 def get_availability(main_div_tag):
-    tmp_availability = main_div_tag.find(class_="instock availability").text.strip().split("(",1)[1]
-    availability = tmp_availability.split("available",1)[0]
+    tmp_availability = (
+        main_div_tag.find(class_="instock availability").text.strip().split("(", 1)[1]
+    )
+    availability = tmp_availability.split("available", 1)[0]
     print("availability: ", availability)
     return availability
 
+
 def get_rating(main_div_tag):
-    tmp_star_rating = main_div_tag.find(class_="star-rating").get('class')[1]
+    tmp_star_rating = main_div_tag.find(class_="star-rating").get("class")[1]
     star_rating = word_number_to_int(tmp_star_rating)
     print("stars: ", star_rating)
     return star_rating
@@ -92,48 +98,57 @@ def scrape_books():
         soup = bs(response.content, features="html.parser")
         logger.info("Created the soup.")
 
-        categories = soup.find(class_="nav nav-list").find('ul')
+        categories = soup.find(class_="nav nav-list").find("ul")
 
         for category in categories:
-            a_tag = category.find('a')
+            a_tag = category.find("a")
 
-            if type(a_tag) is not int: # for some reason some of the results are -1
-                category_url = a_tag.get('href')
+            if type(a_tag) is not int:  # for some reason some of the results are -1
+                category_url = a_tag.get("href")
                 category_name = a_tag.string.strip()
-                print("category name: ",category_name)
+                print("category name: ", category_name)
 
-                category_page = bs(fetchPage(url+category_url).content, features="html.parser")
+                category_page = bs(
+                    fetchPage(url + category_url).content, features="html.parser"
+                )
 
                 num_pages = 1
                 num_pages_tag = category_page.find(class_="current")
 
-                if(num_pages_tag is not None):
+                if num_pages_tag is not None:
                     print("num_pages is not None")
-                    num_pages = int(num_pages_tag.text.split("of ",1)[1])
+                    num_pages = int(num_pages_tag.text.split("of ", 1)[1])
                 print("pages: ", num_pages)
 
                 new_page_url = category_url
                 for i in range(num_pages):
-                    iterator = i+1
+                    iterator = i + 1
 
                     # page n is just page-n.html instead of index.html
-                    if (iterator != 1):
-                        new_page_url = category_url.replace("index", "page-"+str(iterator))
-                    print("current url: ", url+new_page_url)
-                    current_page = bs(fetchPage(url+new_page_url).content, features="html.parser")
+                    if iterator != 1:
+                        new_page_url = category_url.replace(
+                            "index", "page-" + str(iterator)
+                        )
+                    print("current url: ", url + new_page_url)
+                    current_page = bs(
+                        fetchPage(url + new_page_url).content, features="html.parser"
+                    )
 
                     # get links of books
-                    books_tag = current_page.find('ol')
-                    books_a_tags = books_tag.find_all('a', title=True)
+                    books_tag = current_page.find("ol")
+                    books_a_tags = books_tag.find_all("a", title=True)
 
                     for book_a in books_a_tags:
-                        book_url = book_a.get('href').split("/", 3)[3]
+                        book_url = book_a.get("href").split("/", 3)[3]
                         print("book_url", book_url)
 
                         # soup of the book -> parse the details into a dict
                         print("\nfound: ")
 
-                        book_page = bs(fetchPage(url+"catalogue/"+book_url).content, features="html.parser")
+                        book_page = bs(
+                            fetchPage(url + "catalogue/" + book_url).content,
+                            features="html.parser",
+                        )
                         main_div_tag = book_page.find(class_="col-sm-6 product_main")
 
                         id = str(uuid.uuid4())
@@ -142,7 +157,9 @@ def scrape_books():
                         availability = get_availability(main_div_tag)
                         rating = get_rating(main_div_tag)
                         the_category = category_name
-                        books.append([id, title, price, availability, rating, the_category])
+                        books.append(
+                            [id, title, price, availability, rating, the_category]
+                        )
                         print("\n")
 
         return books

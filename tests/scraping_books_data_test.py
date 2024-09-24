@@ -17,11 +17,11 @@ from database.operations import (
     insertRow,
 )
 from database.schema import Books, TestTable
-from scripts.scraping_books import main, scrape_books
-from sqlalchemy.exc import SQLAlchemyError
 from sbooks import BeautifulSoup, fetchPage
 from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric, create_data_folder, uuid_to_str
+from scripts.scraping_books import main, scrape_books
+from sqlalchemy.exc import SQLAlchemyError
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
@@ -254,13 +254,14 @@ def test_scrape_books_fetch_exception(mock_fetchPage):
 
     assert "Failed to fetch the Books page" in str(excinfo.value)
 
+
 @patch("sbooks.BeautifulSoup")
 def test_scrape_books_page_structure_exception(mock_bs):
     # mock_soup = MagicMock()
     mock_bs.return_value = None
     with pytest.raises(Exception):
         scrape_books()
-    
+
 
 @patch("scripts.scraping_books.scrape_books")
 @patch("scripts.scraping_books.initDB")
