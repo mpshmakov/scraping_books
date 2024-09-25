@@ -6,7 +6,6 @@ stores it in a database, and exports it to CSV and JSON formats.
 import concurrent.futures
 import threading
 import uuid
-
 import pandas as pd
 from database import Books, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
