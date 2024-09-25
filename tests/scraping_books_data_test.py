@@ -1,12 +1,11 @@
-
 import os
 import sys
 import unittest
 import uuid
 from unittest.mock import MagicMock, patch
-import pytest
 
 import pandas as pd
+import pytest
 import requests
 from database.operations import (
     check_tables_exist,
@@ -16,18 +15,17 @@ from database.operations import (
     insert_records,
     insertRow,
 )
-from database.schema import TestTable, Books
-from scripts.scraping_books import main, scrape_books
-from sqlalchemy.exc import SQLAlchemyError
+from database.schema import Books, TestTable
 from sbooks import BeautifulSoup, fetchPage
 from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric, create_data_folder, uuid_to_str
+from scripts.scraping_books import main, scrape_books
+from sqlalchemy.exc import SQLAlchemyError
 
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 
 # from tttt import bs, main2
-
 
 
 class sbooksFilmDataTestResult(unittest.TextTestResult):
@@ -246,18 +244,16 @@ class TestDatabaseSchema(unittest.TestCase):
         self.assertEqual(test_entry.id, "test-id")
         self.assertEqual(test_entry.text, "Test Entry")
 
+    # class Testsbooks(unittest.TestCase):
+    #     @patch("tttt.bs")
+    #     def test_scrape_books_page_structure_exception(self, mock_bs):
+    #         # mock_soup = MagicMock()
+    #         # mock_bs.return_value = mock_soup
+    #         # mock_soup.find.return_value.find.name = "notul"
+    #         # mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
 
-# class Testsbooks(unittest.TestCase):
-#     @patch("tttt.bs")
-#     def test_scrape_books_page_structure_exception(self, mock_bs):
-#         # mock_soup = MagicMock()
-#         # mock_bs.return_value = mock_soup
-#         # mock_soup.find.return_value.find.name = "notul"
-#         # mock_soup.find(class_="nav nav-list").find('ul').name = "notul"
-
-#         with self.assertRaises(Exception):
-#             main2()
-
+    #         with self.assertRaises(Exception):
+    #             main2()
 
     @patch("sbooks.fetchPage")
     @patch("bs4.BeautifulSoup")
@@ -280,7 +276,9 @@ class TestDatabaseSchema(unittest.TestCase):
 
         results = scrape_books()
         self.assertEqual(len(results), 1000)
-        self.assertEqual(len(results[0]), 6)  # id, title, price, availability, star_rating, category
+        self.assertEqual(
+            len(results[0]), 6
+        )  # id, title, price, availability, star_rating, category
 
     @patch("scripts.scraping_books.fetchPage")
     def test_scraping_books_fetch_exception(self, mock_fetchPage):
@@ -288,11 +286,16 @@ class TestDatabaseSchema(unittest.TestCase):
         with self.assertRaises(Exception) as context:
             scrape_books()
             print("context.exception in fetch_exception ", str(context.exception))
-            self.assertTrue("Failed to fetch the page - No internet connection." in str(context.exception))
+            self.assertTrue(
+                "Failed to fetch the page - No internet connection."
+                in str(context.exception)
+            )
 
     @patch("scripts.scraping_books.bs")
     def test_scrape_books_page_structure_exception(self, mock_bs):
-        mock_soup = BeautifulSoup(fetchPage("https://www.google.com/").content, features="html.parser")
+        mock_soup = BeautifulSoup(
+            fetchPage("https://www.google.com/").content, features="html.parser"
+        )
         mock_bs.return_value = mock_soup
 
         with self.assertRaises(Exception):
