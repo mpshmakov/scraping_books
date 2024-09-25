@@ -6,7 +6,6 @@ stores it in a database, and exports it to CSV and JSON formats.
 import concurrent.futures
 import threading
 import uuid
-
 import pandas as pd
 from database import Books, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
@@ -195,10 +194,8 @@ def main():
     Main function to orchestrate the scraping, database population, and data export process.
     """
     try:
-
         # Initialize the database schema
         initialize_schema()
-
         # Verify tables exist
         if not check_tables_exist():
             logger.error("Tables do not exist after schema initialization. Exiting.")
