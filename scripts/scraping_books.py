@@ -22,14 +22,6 @@ from tqdm import tqdm
 #       1. extract links of books
 #           1. add book to the dataframe with the respective category
 
-# TODO:
-# dynamically allocate workers - DONE
-# tqdm - DONE
-# loguru - DONE
-
-# implement dataframe
-# db implementations
-# tests
 
 pbar_category = tqdm(
     total=50, desc="categories"
@@ -229,9 +221,9 @@ def main():
         new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
         new_test = TestTable(str(uuid.uuid4()), "Test entry")
         insertRow(new_book)
-        print("Inserted new film.")
+        # print("Inserted new film.")
         insertRow(new_test)
-        print("Inserted test entry.")
+        # print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
         df = pd.DataFrame(
