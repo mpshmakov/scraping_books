@@ -33,6 +33,6 @@ jobs:
       - name: Commit and push loguru retention changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: deleting old logs"
+          commit_message: "chore: updating logs and data"
           commit_user_name: loguru
           commit_user_email: loguru@loguru.dev
