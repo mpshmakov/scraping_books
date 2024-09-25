@@ -10,7 +10,7 @@ import os
 import uuid
 from datetime import timedelta
 
-# Setup loguru TODO: add rotation
+# Setup loguru TODO: test retention on gh actions. auto-commit if changes are not applied
 logger.remove() # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
 logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}", retention=timedelta(seconds=15)) # write logs into a log file
 
