@@ -18,7 +18,7 @@ from bs4 import BeautifulSoup
 from .export_functions import exportToCsv, exportToJson
 
 # Local imports
-from .utils import create_data_folder, uuid_to_str, logger
+from .utils import create_data_folder, logger, uuid_to_str
 
 
 def fetchPage(url):
@@ -54,5 +54,5 @@ __all__ = [
     "create_data_folder",
     "uuid_to_str",
     "fetchPage",
-    "logger"
+    "logger",
 ]

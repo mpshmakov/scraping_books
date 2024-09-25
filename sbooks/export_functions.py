@@ -7,7 +7,7 @@ import json
 
 import pandas as pd
 
-from .utils import create_data_folder, uuid_to_str, logger
+from .utils import create_data_folder, logger, uuid_to_str
 
 
 def exportToCsv(df, filename="./data/output.csv"):

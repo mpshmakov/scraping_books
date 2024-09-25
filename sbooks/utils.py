@@ -1,4 +1,5 @@
-"""Utility functions for the Sbooks module.
+"""
+Utility functions for the Sbooks module.
 
 This module provides helper functions for file operations, UUID handling,
 and data cleaning.
@@ -7,10 +8,11 @@ and data cleaning.
 from loguru import logger
 import os
 import uuid
+from datetime import timedelta
 
-# Setup loguru
+# Setup loguru TODO: add rotation
 logger.remove() # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
-logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}") # write logs into a log file
+logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}", retention=timedelta(seconds=15)) # write logs into a log file
 
 def create_data_folder(filename):
     """

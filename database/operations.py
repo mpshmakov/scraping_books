@@ -5,13 +5,13 @@ checking table existence, inserting records into the database, and truncating ta
 """
 
 from sbooks import logger
-
 from sqlalchemy import MetaData, Table, inspect
 from sqlalchemy.exc import SQLAlchemyError
 from sqlalchemy.orm import Session
 
 from . import Base, Session, engine
 from .schema import Books, TestTable
+
 
 def initialize_schema():
     """

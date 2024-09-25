@@ -1,9 +1,8 @@
-from sbooks import logger
 import os
 
+from sbooks import logger
 from sqlalchemy import create_engine
-from sqlalchemy.orm import declarative_base
-from sqlalchemy.orm import sessionmaker
+from sqlalchemy.orm import declarative_base, sessionmaker
 
 # Define the path to the database file
 DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
@@ -17,7 +16,7 @@ logger.info(f"Ensured data directory exists at {DATA_DIR}")
 engine = create_engine(f"sqlite:///{DB_PATH}")
 logger.info(f"Created database engine for {DB_PATH}")
 
-# Create a configured "Session" class 
+# Create a configured "Session" class
 Session = sessionmaker(bind=engine)
 
 # Create a base class for declarative class definitions
