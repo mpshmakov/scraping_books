@@ -4,3 +4,5 @@ pandas
 pytest
 requests
 sqlalchemy
+loguru
+tqdm
