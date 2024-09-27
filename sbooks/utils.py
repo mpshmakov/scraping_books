@@ -5,14 +5,21 @@ This module provides helper functions for file operations, UUID handling,
 and data cleaning.
 """
 
-from loguru import logger
 import os
 import uuid
 from datetime import timedelta
 
+from loguru import logger
+
 # TODO: test retention on gh actions. auto-commit if changes are not applied
-logger.remove() # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
-logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}", retention=timedelta(seconds=15)) # write logs into a log file
+logger.remove()  # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
+logger.add(
+    "logs/logs_{time:DD-MM-YY_HH.mm.ss}.log",
+    format="{time} {level} {thread} {message}",
+    retention=timedelta(seconds=15),
+)  # write logs into a log file
+
+
 def create_data_folder(filename):
     """
     Create a directory for the given filename if it doesn't exist.
@@ -24,6 +31,8 @@ def create_data_folder(filename):
     if data_dir and not os.path.exists(data_dir):
         os.makedirs(data_dir)
         logger.info(f"Created directory: {data_dir}")
+
+
 def uuid_to_str(obj):
     """
     Convert UUID objects to strings.
