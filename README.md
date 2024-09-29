@@ -22,7 +22,7 @@ deactivate
 python3 -m scripts.scraping_books
 
 ## Unit Test with Coverage
-coverage run -m unittest discover
+coverage run -m pytest
 
 ## Generate Coverage Report
 coverage report -m
@@ -35,7 +35,19 @@ pytest
 
 ### Current Code Coverage
 
-...
+| Name                              | Stmts   | Miss   | Cover   | Missing                                      |
+| --------------------------------- | ------- | ------ | ------- | -------------------------------------------- |
+| configuration.py                  | 7       | 0      | 100%    |                                              |
+| database\_\_init\*\*.py           | 16      | 0      | 100%    |                                              |
+| database\operations.py            | 76      | 7      | 91%     | 132-135, 138-142                             |
+| database\schema.py                | 26      | 0      | 100%    |
+| sbooks\_\_init\*\*.py             | 17      | 2      | 88%     | 42-43                                        |
+| sbooks\export_functions.py        | 17      | 0      | 100%    |                                              |
+| sbooks\utils.py                   | 23      | 2      | 91%     | 32-33                                        |
+| scripts\scraping_books.py         | 136     | 10     | 93%     | 168, 201-202, 214-215, 233-236, 240          |
+| tests\_\_init\_\_.py              | 0       | 0      | 100%    |                                              |
+| tests\scraping_books_data_test.py | 199     | 14     | 93%     | 33-36, 39-40, 43-44, 47-48, 51, 288-289, 330 |
+| **TOTAL**                         | **517** | **35** | **93%** |                                              |
 
 ### Versioning
 
@@ -44,7 +56,6 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ### License
 
 This project is licensed under the [BSD 3-Clause License](LICENSE) - see the file for details.
-
 
 ### Copyright
 
