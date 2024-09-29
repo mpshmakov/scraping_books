@@ -3,7 +3,7 @@ url = "https://books.toscrape.com/"
 
 # all paths must not have "/" in the end
 
-# i.e. data as csv and json output 
+# i.e. data as csv and json output
 save_data_path = "./data"
 
 logs_path = "./logs"

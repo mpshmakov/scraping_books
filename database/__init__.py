@@ -1,10 +1,9 @@
 import os
 
+from configuration import db_filename, db_path
 from sbooks import logger
 from sqlalchemy import create_engine
 from sqlalchemy.orm import declarative_base, sessionmaker
-
-from configuration import db_path, db_filename
 
 # Define the path to the database file
 # DATA_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data")
