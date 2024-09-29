@@ -4,7 +4,6 @@ Utility functions for the Sbooks module.
 This module provides helper functions for file operations, UUID handling,
 and data cleaning.
 """
-
 from loguru import logger
 import os
 import uuid
@@ -25,6 +24,8 @@ def create_data_folder(filename):
     if data_dir and not os.path.exists(data_dir):
         os.makedirs(data_dir)
         logger.info(f"Created directory: {data_dir}")
+
+
 def uuid_to_str(obj):
     """
     Convert UUID objects to strings.
