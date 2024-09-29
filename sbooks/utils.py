@@ -10,9 +10,10 @@ import os
 import uuid
 from datetime import timedelta
 
-# TODO: test retention on gh actions. auto-commit if changes are not applied
+from configuration import logs_path
+
 logger.remove() # so that the logs aren't being output in the terminal (necessary for the progress bar to work properly)
-logger.add("logs/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}", retention=timedelta(seconds=15)) # write logs into a log file
+logger.add(logs_path + "/logs_{time:DD-MM-YY_HH.mm.ss}.log", format="{time} {level} {thread} {message}", retention=timedelta(weeks=14)) # write logs into a log file
 def create_data_folder(filename):
     """
     Create a directory for the given filename if it doesn't exist.

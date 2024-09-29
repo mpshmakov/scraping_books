@@ -17,19 +17,18 @@ from sbooks.utils import clean_numeric
 from sqlalchemy.exc import SQLAlchemyError
 from tqdm import tqdm
 
+from configuration import url
+
 # 1) extract links of categories
 #     1. extract number of pages for this category
 #       1. extract links of books
-#           1. add book to the dataframe with the respective category
+#         1. add book to the dataframe with the respective category
 
 
 pbar_category = tqdm(
     total=50, desc="categories"
 )  # TODO: ideally this number should be dynamic
 pbar_books = tqdm(total=1000, desc="books")
-
-url = "https://books.toscrape.com/"
-
 
 def category_worker(category):
 

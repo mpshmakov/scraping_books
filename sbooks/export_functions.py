@@ -9,8 +9,12 @@ import pandas as pd
 
 from .utils import create_data_folder, logger, uuid_to_str
 
+from configuration import save_data_path, csv_filename, json_filename
 
-def exportToCsv(df, filename="./data/output.csv"):
+result_csv_path = save_data_path + "/" + csv_filename + ".csv"
+result_json_path = save_data_path + "/" + json_filename + ".json"
+
+def exportToCsv(df, filename=result_csv_path):
     """
     Export a DataFrame to a CSV file.
 
@@ -24,7 +28,7 @@ def exportToCsv(df, filename="./data/output.csv"):
     logger.info(f"Data exported to {filename}")
 
 
-def exportToJson(df, filename="./data/output.json"):
+def exportToJson(df, filename=result_json_path):
     """
     Export a DataFrame to a JSON file, handling UUID conversion.
 
