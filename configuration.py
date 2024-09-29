@@ -1,13 +1,12 @@
-
+# TODO: these could be customizable command line parameters
 url = "https://books.toscrape.com/"
 
-# all directories must not have "/" in the end
+# all paths must not have "/" in the end
 
 # i.e. data as csv and json output 
 save_data_path = "./data"
 
 logs_path = "./logs"
-
 db_path = "./data"
 
 # .csv and .json is added automatically. Specify ONLY filename here
