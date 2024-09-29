@@ -8,6 +8,7 @@ import threading
 import uuid
 
 import pandas as pd
+from configuration import url
 from database import Books, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
 from sbooks import BeautifulSoup as bs
@@ -16,8 +17,6 @@ from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric
 from sqlalchemy.exc import SQLAlchemyError
 from tqdm import tqdm
-
-from configuration import url
 
 # 1) extract links of categories
 #     1. extract number of pages for this category
@@ -29,6 +28,7 @@ pbar_category = tqdm(
     total=50, desc="categories"
 )  # TODO: ideally this number should be dynamic
 pbar_books = tqdm(total=1000, desc="books")
+
 
 def category_worker(category):
 

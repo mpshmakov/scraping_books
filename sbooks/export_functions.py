@@ -6,13 +6,13 @@ This module provides functions to export data to CSV and JSON formats.
 import json
 
 import pandas as pd
+from configuration import csv_filename, json_filename, save_data_path
 
 from .utils import create_data_folder, logger, uuid_to_str
 
-from configuration import save_data_path, csv_filename, json_filename
-
 result_csv_path = save_data_path + "/" + csv_filename + ".csv"
 result_json_path = save_data_path + "/" + json_filename + ".json"
+
 
 def exportToCsv(df, filename=result_csv_path):
     """
