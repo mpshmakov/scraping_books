@@ -1,0 +1,672 @@
+2024-10-01T21:47:55.291458+0100 INFO 17904 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
+2024-10-01T21:47:55.307085+0100 INFO 17904 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
+2024-10-01T21:47:55.322711+0100 INFO 17904 Database schema initialized successfully.
+2024-10-01T21:47:55.322711+0100 INFO 17904 Tables in the database: ['TestTable', 'books']
+2024-10-01T21:47:55.322711+0100 INFO 17904 All required tables have been created successfully.
+2024-10-01T21:47:55.918003+0100 INFO 17904 Successfully fetched the page
+2024-10-01T21:47:55.918003+0100 INFO 17904 Created the soup.
+2024-10-01T21:47:55.957789+0100 INFO 15600 category name: Travel
+2024-10-01T21:47:55.958789+0100 INFO 6272 category name: Mystery
+2024-10-01T21:47:55.958789+0100 INFO 13524 category name: Historical Fiction
+2024-10-01T21:47:55.960790+0100 INFO 2804 category name: Sequential Art
+2024-10-01T21:47:55.962147+0100 INFO 15972 category name: Classics
+2024-10-01T21:47:55.962147+0100 INFO 18036 category name: Philosophy
+2024-10-01T21:47:55.962147+0100 INFO 15480 category name: Romance
+2024-10-01T21:47:55.962147+0100 INFO 11736 category name: Womens Fiction
+2024-10-01T21:47:55.962147+0100 INFO 14832 category name: Fiction
+2024-10-01T21:47:55.962147+0100 INFO 7920 category name: Childrens
+2024-10-01T21:47:55.962147+0100 INFO 13328 category name: Religion
+2024-10-01T21:47:55.967182+0100 INFO 328 category name: Nonfiction
+2024-10-01T21:47:55.967350+0100 INFO 10544 category name: Music
+2024-10-01T21:47:55.968351+0100 INFO 2572 category name: Default
+2024-10-01T21:47:55.969349+0100 INFO 316 category name: Science Fiction
+2024-10-01T21:47:55.970352+0100 DEBUG 17904 max workers: 16
+2024-10-01T21:47:55.970352+0100 INFO 7788 category name: Sports and Games
+2024-10-01T21:47:56.426029+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:56.439611+0100 INFO 18036 pages: 1
+2024-10-01T21:47:56.439611+0100 INFO 18036 current category page url: https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html
+2024-10-01T21:47:56.449290+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:56.454559+0100 INFO 15600 pages: 1
+2024-10-01T21:47:56.454559+0100 INFO 15600 current category page url: https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+2024-10-01T21:47:56.454559+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:56.467475+0100 INFO 13328 pages: 1
+2024-10-01T21:47:56.467475+0100 INFO 13328 current category page url: https://books.toscrape.com/catalogue/category/books/religion_12/index.html
+2024-10-01T21:47:56.468748+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:56.478327+0100 INFO 7788 pages: 1
+2024-10-01T21:47:56.478327+0100 INFO 7788 current category page url: https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html
+2024-10-01T21:47:56.523240+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:56.560672+0100 INFO 15972 pages: 1
+2024-10-01T21:47:56.560672+0100 INFO 15972 current category page url: https://books.toscrape.com/catalogue/category/books/classics_6/index.html
+2024-10-01T21:47:56.561674+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:56.561674+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:56.561674+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:56.571339+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:47:56.579845+0100 INFO 11736 pages: 1
+2024-10-01T21:47:56.579845+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:56.589446+0100 INFO 14832 num_pages is not None
+2024-10-01T21:47:56.599327+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:56.607609+0100 INFO 10544 pages: 1
+2024-10-01T21:47:56.607609+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:56.615197+0100 INFO 15480 num_pages is not None
+2024-10-01T21:47:56.615197+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:56.615197+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:56.615197+0100 INFO 11736 current category page url: https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html
+2024-10-01T21:47:56.616196+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:56.616196+0100 INFO 14832 pages: 4
+2024-10-01T21:47:56.630102+0100 INFO 7920 num_pages is not None
+2024-10-01T21:47:56.640779+0100 INFO 10544 current category page url: https://books.toscrape.com/catalogue/category/books/music_14/index.html
+2024-10-01T21:47:56.643972+0100 INFO 6272 num_pages is not None
+2024-10-01T21:47:56.643972+0100 INFO 15480 pages: 2
+2024-10-01T21:47:56.655867+0100 INFO 316 pages: 1
+2024-10-01T21:47:56.669773+0100 INFO 2572 num_pages is not None
+2024-10-01T21:47:56.683646+0100 INFO 13524 num_pages is not None
+2024-10-01T21:47:56.683646+0100 INFO 14832 current category page url: https://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+2024-10-01T21:47:56.698561+0100 INFO 2804 num_pages is not None
+2024-10-01T21:47:56.698561+0100 INFO 7920 pages: 2
+2024-10-01T21:47:56.698561+0100 INFO 6272 pages: 2
+2024-10-01T21:47:56.698561+0100 INFO 15480 current category page url: https://books.toscrape.com/catalogue/category/books/romance_8/index.html
+2024-10-01T21:47:56.699564+0100 INFO 316 current category page url: https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html
+2024-10-01T21:47:56.699564+0100 INFO 2572 pages: 8
+2024-10-01T21:47:56.699564+0100 INFO 13524 pages: 2
+2024-10-01T21:47:56.699564+0100 INFO 2804 pages: 4
+2024-10-01T21:47:56.700563+0100 INFO 7920 current category page url: https://books.toscrape.com/catalogue/category/books/childrens_11/index.html
+2024-10-01T21:47:56.700563+0100 INFO 6272 current category page url: https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+2024-10-01T21:47:56.700563+0100 INFO 2572 current category page url: https://books.toscrape.com/catalogue/category/books/default_15/index.html
+2024-10-01T21:47:56.701564+0100 INFO 13524 current category page url: https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html
+2024-10-01T21:47:56.701564+0100 INFO 2804 current category page url: https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html
+2024-10-01T21:47:56.968071+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:56.979392+0100 INFO 15600 current book url: its-only-the-himalayas_981/index.html
+2024-10-01T21:47:56.980392+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:56.988257+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:56.991256+0100 INFO 18036 current book url: sophies-world_966/index.html
+2024-10-01T21:47:56.991256+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:56.996549+0100 INFO 7788 current book url: the-book-of-basketball-the-nba-according-to-the-sports-guy_232/index.html
+2024-10-01T21:47:57.002389+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:57.006395+0100 INFO 13328 current book url: dont-be-a-jerk-and-other-practical-advice-from-dogen-japans-greatest-zen-master_890/index.html
+2024-10-01T21:47:57.021602+0100 INFO 328 num_pages is not None
+2024-10-01T21:47:57.021602+0100 INFO 328 pages: 6
+2024-10-01T21:47:57.021602+0100 INFO 328 current category page url: https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html
+2024-10-01T21:47:57.204831+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:57.228656+0100 INFO 15972 current book url: the-secret-garden_413/index.html
+2024-10-01T21:47:57.260917+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:57.274054+0100 INFO 2804 current book url: scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html
+2024-10-01T21:47:57.274054+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:57.288340+0100 INFO 6272 current book url: sharp-objects_997/index.html
+2024-10-01T21:47:57.299872+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:57.311490+0100 INFO 11736 current book url: i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html
+2024-10-01T21:47:57.314391+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:57.329396+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:47:57.329396+0100 INFO 15480 current book url: chase-me-paris-nights-2_977/index.html
+2024-10-01T21:47:57.329396+0100 INFO 10544 current book url: rip-it-up-and-start-again_986/index.html
+2024-10-01T21:47:57.329396+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:57.345028+0100 INFO 316 current book url: mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html
+2024-10-01T21:47:57.345028+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:57.360653+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:57.360653+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:57.360653+0100 INFO 7920 current book url: birdsong-a-story-in-pictures_975/index.html
+2024-10-01T21:47:57.376279+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:57.423154+0100 INFO 2572 current book url: the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html
+2024-10-01T21:47:57.423154+0100 INFO 14832 current book url: soumission_998/index.html
+2024-10-01T21:47:57.438778+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:57.438778+0100 INFO 13524 current book url: tipping-the-velvet_999/index.html
+2024-10-01T21:47:57.454403+0100 INFO 15600 uuid: 4b22e397-5c57-429f-8c22-d4f30bb48f27
+2024-10-01T21:47:57.454403+0100 INFO 15600 title: It's Only the Himalayas
+2024-10-01T21:47:57.454403+0100 INFO 15600 price: 45.17
+2024-10-01T21:47:57.454403+0100 INFO 15600 availability: 19 
+2024-10-01T21:47:57.454403+0100 INFO 15600 rating: 2
+2024-10-01T21:47:57.454403+0100 INFO 15600 category: Travel
+2024-10-01T21:47:57.454403+0100 INFO 15600 category name: Add a comment
+2024-10-01T21:47:57.454403+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:57.454403+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:57.470028+0100 INFO 13328 uuid: 54cdc5f7-85c8-45c9-876f-19bc26bd5237
+2024-10-01T21:47:57.470028+0100 INFO 13328 title: Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master
+2024-10-01T21:47:57.470028+0100 INFO 13328 price: 37.97
+2024-10-01T21:47:57.470028+0100 INFO 13328 availability: 16 
+2024-10-01T21:47:57.470028+0100 INFO 18036 uuid: af037f14-c5b8-455a-a099-9868763ff4cc
+2024-10-01T21:47:57.470028+0100 INFO 13328 rating: 2
+2024-10-01T21:47:57.470028+0100 INFO 18036 title: Sophie's World
+2024-10-01T21:47:57.470028+0100 INFO 13328 category: Religion
+2024-10-01T21:47:57.470028+0100 INFO 18036 price: 15.94
+2024-10-01T21:47:57.470028+0100 INFO 13328 category name: Fantasy
+2024-10-01T21:47:57.470028+0100 INFO 18036 availability: 18 
+2024-10-01T21:47:57.470028+0100 INFO 18036 rating: 5
+2024-10-01T21:47:57.470028+0100 INFO 18036 category: Philosophy
+2024-10-01T21:47:57.470028+0100 INFO 18036 category name: New Adult
+2024-10-01T21:47:57.470028+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:57.470028+0100 INFO 7788 uuid: 31d4be69-1951-463b-b803-116600fbccc1
+2024-10-01T21:47:57.470028+0100 INFO 7788 title: The Book of Basketball: The NBA According to The Sports Guy
+2024-10-01T21:47:57.470028+0100 INFO 7788 price: 44.84
+2024-10-01T21:47:57.470028+0100 INFO 7788 availability: 3 
+2024-10-01T21:47:57.470028+0100 INFO 7788 rating: 5
+2024-10-01T21:47:57.470028+0100 INFO 7788 category: Sports and Games
+2024-10-01T21:47:57.470028+0100 INFO 7788 category name: Young Adult
+2024-10-01T21:47:57.563779+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:57.580509+0100 INFO 328 current book url: worlds-elsewhere-journeys-around-shakespeares-globe_972/index.html
+2024-10-01T21:47:57.689271+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:57.704896+0100 INFO 15972 uuid: ae166e44-adaf-4747-b61a-ed061a316a4e
+2024-10-01T21:47:57.704896+0100 INFO 15972 title: The Secret Garden
+2024-10-01T21:47:57.704896+0100 INFO 15972 price: 15.08
+2024-10-01T21:47:57.704896+0100 INFO 15972 availability: 5 
+2024-10-01T21:47:57.704896+0100 INFO 15972 rating: 4
+2024-10-01T21:47:57.704896+0100 INFO 15972 category: Classics
+2024-10-01T21:47:57.704896+0100 INFO 15972 category name: Science
+2024-10-01T21:47:57.767396+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:57.783021+0100 INFO 11736 uuid: 6b8fea7e-c28c-4f04-a26e-da93cab43517
+2024-10-01T21:47:57.783021+0100 INFO 11736 title: I Had a Nice Time And Other Lies...: How to find love & sh*t like that
+2024-10-01T21:47:57.783021+0100 INFO 11736 price: 57.36
+2024-10-01T21:47:57.783021+0100 INFO 11736 availability: 15 
+2024-10-01T21:47:57.783021+0100 INFO 11736 rating: 4
+2024-10-01T21:47:57.783021+0100 INFO 11736 category: Womens Fiction
+2024-10-01T21:47:57.783021+0100 INFO 11736 category name: Poetry
+2024-10-01T21:47:57.783021+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:57.783021+0100 INFO 2804 uuid: d458caf7-2360-4c9d-b540-b03cc0c205ef
+2024-10-01T21:47:57.783021+0100 INFO 2804 title: Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)
+2024-10-01T21:47:57.783021+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:57.783021+0100 INFO 2804 price: 52.29
+2024-10-01T21:47:57.783021+0100 INFO 2804 availability: 19 
+2024-10-01T21:47:57.798646+0100 INFO 6272 uuid: b64dd9e5-2013-453a-a726-10dfe6814a8f
+2024-10-01T21:47:57.798646+0100 INFO 2804 rating: 5
+2024-10-01T21:47:57.798646+0100 INFO 6272 title: Sharp Objects
+2024-10-01T21:47:57.798646+0100 INFO 2804 category: Sequential Art
+2024-10-01T21:47:57.798646+0100 INFO 6272 price: 47.82
+2024-10-01T21:47:57.798646+0100 INFO 2804 category name: Paranormal
+2024-10-01T21:47:57.798646+0100 INFO 6272 availability: 20 
+2024-10-01T21:47:57.798646+0100 INFO 6272 rating: 4
+2024-10-01T21:47:57.798646+0100 INFO 6272 category: Mystery
+2024-10-01T21:47:57.798646+0100 INFO 6272 category name: Art
+2024-10-01T21:47:57.869258+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:57.869258+0100 INFO 316 uuid: 5da92b3c-9acf-4c8d-bd74-31d484426896
+2024-10-01T21:47:57.869258+0100 INFO 316 title: Mesaerion: The Best Science Fiction Stories 1800-1849
+2024-10-01T21:47:57.869258+0100 INFO 316 price: 37.59
+2024-10-01T21:47:57.869258+0100 INFO 316 availability: 19 
+2024-10-01T21:47:57.869258+0100 INFO 316 rating: 1
+2024-10-01T21:47:57.869258+0100 INFO 316 category: Science Fiction
+2024-10-01T21:47:57.869258+0100 INFO 316 category name: Psychology
+2024-10-01T21:47:57.884883+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:57.884883+0100 INFO 7920 uuid: 424a8b3f-8afc-4acb-83e7-ba2cb0671dce
+2024-10-01T21:47:57.884883+0100 INFO 7920 title: Birdsong: A Story in Pictures
+2024-10-01T21:47:57.884883+0100 INFO 7920 price: 54.64
+2024-10-01T21:47:57.884883+0100 INFO 7920 availability: 19 
+2024-10-01T21:47:57.884883+0100 INFO 7920 rating: 3
+2024-10-01T21:47:57.884883+0100 INFO 7920 category: Childrens
+2024-10-01T21:47:57.884883+0100 INFO 7920 category name: Autobiography
+2024-10-01T21:47:57.916132+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:57.931758+0100 INFO 13524 uuid: 3248e243-dc14-4b68-8666-b036262b2ab5
+2024-10-01T21:47:57.931758+0100 INFO 13524 title: Tipping the Velvet
+2024-10-01T21:47:57.931758+0100 INFO 13524 price: 53.74
+2024-10-01T21:47:57.931758+0100 INFO 13524 availability: 20 
+2024-10-01T21:47:57.931758+0100 INFO 13524 rating: 1
+2024-10-01T21:47:57.931758+0100 INFO 13524 category: Historical Fiction
+2024-10-01T21:47:57.931758+0100 INFO 13524 category name: Parenting
+2024-10-01T21:47:57.931758+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:57.931758+0100 INFO 2572 uuid: 3f8018b5-c050-49d0-9ab2-dee500c842b1
+2024-10-01T21:47:57.931758+0100 INFO 2572 title: The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull
+2024-10-01T21:47:57.931758+0100 INFO 2572 price: 17.93
+2024-10-01T21:47:57.931758+0100 INFO 2572 availability: 19 
+2024-10-01T21:47:57.931758+0100 INFO 2572 rating: 3
+2024-10-01T21:47:57.931758+0100 INFO 2572 category: Default
+2024-10-01T21:47:57.931758+0100 INFO 2572 category name: Adult Fiction
+2024-10-01T21:47:57.963007+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:57.978636+0100 INFO 14832 uuid: de689397-2e33-4b62-b9ab-de7ec27fd8c7
+2024-10-01T21:47:57.978636+0100 INFO 14832 title: Soumission
+2024-10-01T21:47:57.978636+0100 INFO 14832 price: 50.10
+2024-10-01T21:47:57.978636+0100 INFO 14832 availability: 20 
+2024-10-01T21:47:57.978636+0100 INFO 14832 rating: 1
+2024-10-01T21:47:57.978636+0100 INFO 14832 category: Fiction
+2024-10-01T21:47:57.978636+0100 INFO 14832 category name: Humor
+2024-10-01T21:47:57.978636+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:57.978636+0100 INFO 18036 pages: 1
+2024-10-01T21:47:57.978636+0100 INFO 18036 current category page url: https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html
+2024-10-01T21:47:58.025511+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:58.041133+0100 INFO 13328 num_pages is not None
+2024-10-01T21:47:58.041133+0100 INFO 13328 pages: 3
+2024-10-01T21:47:58.041133+0100 INFO 13328 current category page url: https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html
+2024-10-01T21:47:58.041133+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:58.041133+0100 INFO 328 uuid: 4eb12efa-0a70-45ff-8944-027268e6e150
+2024-10-01T21:47:58.041133+0100 INFO 328 title: Worlds Elsewhere: Journeys Around Shakespeare’s Globe
+2024-10-01T21:47:58.041133+0100 INFO 328 price: 40.30
+2024-10-01T21:47:58.041133+0100 INFO 328 availability: 18 
+2024-10-01T21:47:58.041133+0100 INFO 328 rating: 5
+2024-10-01T21:47:58.041133+0100 INFO 328 category: Nonfiction
+2024-10-01T21:47:58.041133+0100 INFO 328 category name: Horror
+2024-10-01T21:47:58.072383+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:58.088013+0100 INFO 15480 uuid: 2a803176-cb67-4c27-b8d2-123fdfafc778
+2024-10-01T21:47:58.088013+0100 INFO 15480 title: Chase Me (Paris Nights #2)
+2024-10-01T21:47:58.088013+0100 INFO 15480 price: 25.27
+2024-10-01T21:47:58.088013+0100 INFO 15480 availability: 19 
+2024-10-01T21:47:58.088013+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:58.088013+0100 INFO 15480 rating: 5
+2024-10-01T21:47:58.088013+0100 INFO 15480 category: Romance
+2024-10-01T21:47:58.103633+0100 INFO 15480 category name: History
+2024-10-01T21:47:58.103633+0100 INFO 15600 num_pages is not None
+2024-10-01T21:47:58.103633+0100 INFO 15600 pages: 4
+2024-10-01T21:47:58.103633+0100 INFO 15600 current category page url: https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html
+2024-10-01T21:47:58.103633+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:58.119261+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:47:58.119261+0100 INFO 7788 num_pages is not None
+2024-10-01T21:47:58.119261+0100 INFO 7788 pages: 3
+2024-10-01T21:47:58.119261+0100 INFO 10544 uuid: 783a4a1a-7330-444a-ad98-bbd62f457c86
+2024-10-01T21:47:58.119261+0100 INFO 7788 current category page url: https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html
+2024-10-01T21:47:58.119261+0100 INFO 10544 title: Rip it Up and Start Again
+2024-10-01T21:47:58.119261+0100 INFO 10544 price: 35.02
+2024-10-01T21:47:58.119261+0100 INFO 10544 availability: 19 
+2024-10-01T21:47:58.119261+0100 INFO 10544 rating: 5
+2024-10-01T21:47:58.119261+0100 INFO 10544 category: Music
+2024-10-01T21:47:58.119261+0100 INFO 10544 category name: Food and Drink
+2024-10-01T21:47:58.251886+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:58.251886+0100 INFO 2804 pages: 1
+2024-10-01T21:47:58.251886+0100 INFO 2804 current category page url: https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html
+2024-10-01T21:47:58.293653+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:58.293653+0100 INFO 6272 pages: 1
+2024-10-01T21:47:58.293653+0100 INFO 6272 current category page url: https://books.toscrape.com/catalogue/category/books/art_25/index.html
+2024-10-01T21:47:58.308658+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:58.324291+0100 INFO 15972 pages: 1
+2024-10-01T21:47:58.324291+0100 INFO 15972 current category page url: https://books.toscrape.com/catalogue/category/books/science_22/index.html
+2024-10-01T21:47:58.324291+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:58.340297+0100 INFO 7920 pages: 1
+2024-10-01T21:47:58.340297+0100 INFO 7920 current category page url: https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html
+2024-10-01T21:47:58.340297+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:58.349490+0100 INFO 316 pages: 1
+2024-10-01T21:47:58.349490+0100 INFO 316 current category page url: https://books.toscrape.com/catalogue/category/books/psychology_26/index.html
+2024-10-01T21:47:58.376281+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:58.377024+0100 INFO 13524 pages: 1
+2024-10-01T21:47:58.377024+0100 INFO 13524 current category page url: https://books.toscrape.com/catalogue/category/books/parenting_28/index.html
+2024-10-01T21:47:58.377024+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:58.395919+0100 INFO 11736 pages: 1
+2024-10-01T21:47:58.395919+0100 INFO 11736 current category page url: https://books.toscrape.com/catalogue/category/books/poetry_23/index.html
+2024-10-01T21:47:58.397860+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:58.397860+0100 INFO 2572 pages: 1
+2024-10-01T21:47:58.397860+0100 INFO 2572 current category page url: https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html
+2024-10-01T21:47:58.418667+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:58.434294+0100 INFO 14832 pages: 1
+2024-10-01T21:47:58.434294+0100 INFO 14832 current category page url: https://books.toscrape.com/catalogue/category/books/humor_30/index.html
+2024-10-01T21:47:58.465544+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:58.465544+0100 INFO 18036 current book url: without-borders-wanderlove-1_956/index.html
+2024-10-01T21:47:58.604431+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:58.604431+0100 INFO 328 pages: 1
+2024-10-01T21:47:58.620057+0100 INFO 328 current category page url: https://books.toscrape.com/catalogue/category/books/horror_31/index.html
+2024-10-01T21:47:58.635681+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:58.651306+0100 INFO 13328 current book url: unicorn-tracks_951/index.html
+2024-10-01T21:47:58.685098+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:58.698953+0100 INFO 7788 current book url: the-requiem-red_995/index.html
+2024-10-01T21:47:58.698953+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:58.710655+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:47:58.783473+0100 INFO 15600 current book url: the-torch-is-passed-a-harding-family-story_945/index.html
+2024-10-01T21:47:58.783473+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:58.783473+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:58.799647+0100 INFO 10544 num_pages is not None
+2024-10-01T21:47:58.804730+0100 INFO 2804 current book url: vampire-knight-vol-1-vampire-knight-1_93/index.html
+2024-10-01T21:47:58.817534+0100 INFO 15480 pages: 1
+2024-10-01T21:47:58.817534+0100 INFO 10544 pages: 2
+2024-10-01T21:47:58.818533+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:58.818533+0100 INFO 15480 current category page url: https://books.toscrape.com/catalogue/category/books/history_32/index.html
+2024-10-01T21:47:58.818533+0100 INFO 10544 current category page url: https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html
+2024-10-01T21:47:58.826355+0100 INFO 6272 current book url: wall-and-piece_971/index.html
+2024-10-01T21:47:58.840197+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:58.846878+0100 INFO 316 current book url: the-lucifer-effect-understanding-how-good-people-turn-evil_758/index.html
+2024-10-01T21:47:58.847877+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:58.857386+0100 INFO 7920 current book url: the-argonauts_837/index.html
+2024-10-01T21:47:58.861179+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:58.866437+0100 INFO 13524 current book url: catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html
+2024-10-01T21:47:58.870399+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:58.877311+0100 INFO 2572 current book url: fifty-shades-freed-fifty-shades-3_156/index.html
+2024-10-01T21:47:58.943566+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:58.958571+0100 INFO 14832 current book url: the-long-haul-diary-of-a-wimpy-kid-9_757/index.html
+2024-10-01T21:47:58.958571+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:58.974203+0100 INFO 15972 current book url: the-most-perfect-thing-inside-and-outside-a-birds-egg_938/index.html
+2024-10-01T21:47:58.974203+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:58.989828+0100 INFO 11736 current book url: a-light-in-the-attic_1000/index.html
+2024-10-01T21:47:59.005453+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:59.005453+0100 INFO 18036 uuid: 2c6a4bfe-d3d7-444c-995c-ea4e0cf04de4
+2024-10-01T21:47:59.005453+0100 INFO 18036 title: Without Borders (Wanderlove #1)
+2024-10-01T21:47:59.005453+0100 INFO 18036 price: 45.07
+2024-10-01T21:47:59.005453+0100 INFO 18036 availability: 16 
+2024-10-01T21:47:59.005453+0100 INFO 18036 rating: 2
+2024-10-01T21:47:59.005453+0100 INFO 18036 category: New Adult
+2024-10-01T21:47:59.005453+0100 INFO 18036 category name: Christian Fiction
+2024-10-01T21:47:59.153684+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:59.153684+0100 INFO 13328 uuid: cc17a53c-2fe0-41fe-8579-1c2895497304
+2024-10-01T21:47:59.153684+0100 INFO 13328 title: Unicorn Tracks
+2024-10-01T21:47:59.153684+0100 INFO 13328 price: 18.78
+2024-10-01T21:47:59.153684+0100 INFO 13328 availability: 16 
+2024-10-01T21:47:59.153684+0100 INFO 13328 rating: 3
+2024-10-01T21:47:59.153684+0100 INFO 13328 category: Fantasy
+2024-10-01T21:47:59.153684+0100 INFO 13328 category name: Business
+2024-10-01T21:47:59.247434+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:59.247434+0100 INFO 328 current book url: security_925/index.html
+2024-10-01T21:47:59.263059+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:59.263059+0100 INFO 7788 uuid: 05fec5d7-ce79-4d3b-89df-bdec230b5912
+2024-10-01T21:47:59.263059+0100 INFO 7788 title: The Requiem Red
+2024-10-01T21:47:59.263059+0100 INFO 7788 price: 22.65
+2024-10-01T21:47:59.263059+0100 INFO 7788 availability: 19 
+2024-10-01T21:47:59.263059+0100 INFO 7788 rating: 1
+2024-10-01T21:47:59.263059+0100 INFO 7788 category: Young Adult
+2024-10-01T21:47:59.263059+0100 INFO 7788 category name: Biography
+2024-10-01T21:47:59.278684+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:59.294309+0100 INFO 6272 uuid: f64ba987-4bec-42fa-a554-de1b4b259119
+2024-10-01T21:47:59.294309+0100 INFO 6272 title: Wall and Piece
+2024-10-01T21:47:59.294309+0100 INFO 6272 price: 44.18
+2024-10-01T21:47:59.294309+0100 INFO 6272 availability: 18 
+2024-10-01T21:47:59.294309+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:59.294309+0100 INFO 6272 rating: 4
+2024-10-01T21:47:59.294309+0100 INFO 6272 category: Art
+2024-10-01T21:47:59.294309+0100 INFO 15600 uuid: 4b590de8-fc1d-474c-b665-6ce29140c9a8
+2024-10-01T21:47:59.294309+0100 INFO 6272 category name: Thriller
+2024-10-01T21:47:59.294309+0100 INFO 15600 title: The Torch Is Passed: A Harding Family Story
+2024-10-01T21:47:59.294309+0100 INFO 15600 price: 19.09
+2024-10-01T21:47:59.294309+0100 INFO 15600 availability: 16 
+2024-10-01T21:47:59.294309+0100 INFO 15600 rating: 1
+2024-10-01T21:47:59.294309+0100 INFO 15600 category: Add a comment
+2024-10-01T21:47:59.294309+0100 INFO 15600 category name: Contemporary
+2024-10-01T21:47:59.309934+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:59.309934+0100 INFO 2804 uuid: f6283225-96cc-4370-abfe-2ee35ccccd0c
+2024-10-01T21:47:59.309934+0100 INFO 2804 title: Vampire Knight, Vol. 1 (Vampire Knight #1)
+2024-10-01T21:47:59.309934+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:59.309934+0100 INFO 2804 price: 15.40
+2024-10-01T21:47:59.309934+0100 INFO 2804 availability: 1 
+2024-10-01T21:47:59.309934+0100 INFO 13524 uuid: d72b2590-dd00-4cfa-a014-dd3a571c2274
+2024-10-01T21:47:59.309934+0100 INFO 2804 rating: 1
+2024-10-01T21:47:59.309934+0100 INFO 13524 title: Catastrophic Happiness: Finding Joy in Childhood's Messy Years
+2024-10-01T21:47:59.309934+0100 INFO 2804 category: Paranormal
+2024-10-01T21:47:59.309934+0100 INFO 13524 price: 37.35
+2024-10-01T21:47:59.309934+0100 INFO 2804 category name: Spirituality
+2024-10-01T21:47:59.309934+0100 INFO 13524 availability: 3 
+2024-10-01T21:47:59.309934+0100 INFO 13524 rating: 2
+2024-10-01T21:47:59.309934+0100 INFO 13524 category: Parenting
+2024-10-01T21:47:59.309934+0100 INFO 13524 category name: Academic
+2024-10-01T21:47:59.325560+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:59.325560+0100 INFO 316 uuid: f9f27289-35e5-416d-a4df-b4a16df794ba
+2024-10-01T21:47:59.325560+0100 INFO 316 title: The Lucifer Effect: Understanding How Good People Turn Evil
+2024-10-01T21:47:59.325560+0100 INFO 316 price: 10.40
+2024-10-01T21:47:59.325560+0100 INFO 316 availability: 14 
+2024-10-01T21:47:59.325560+0100 INFO 316 rating: 1
+2024-10-01T21:47:59.325560+0100 INFO 316 category: Psychology
+2024-10-01T21:47:59.325560+0100 INFO 316 category name: Self Help
+2024-10-01T21:47:59.341184+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:59.341184+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:59.356809+0100 INFO 11736 uuid: 3123b75d-8097-4caf-a003-1e2ce50b7750
+2024-10-01T21:47:59.356809+0100 INFO 7920 uuid: a67bac2a-237d-4bdd-9189-610aa229ce70
+2024-10-01T21:47:59.356809+0100 INFO 11736 title: A Light in the Attic
+2024-10-01T21:47:59.356809+0100 INFO 7920 title: The Argonauts
+2024-10-01T21:47:59.356809+0100 INFO 11736 price: 51.77
+2024-10-01T21:47:59.356809+0100 INFO 7920 price: 10.93
+2024-10-01T21:47:59.356809+0100 INFO 11736 availability: 22 
+2024-10-01T21:47:59.356809+0100 INFO 7920 availability: 15 
+2024-10-01T21:47:59.356809+0100 INFO 11736 rating: 3
+2024-10-01T21:47:59.356809+0100 INFO 7920 rating: 2
+2024-10-01T21:47:59.356809+0100 INFO 11736 category: Poetry
+2024-10-01T21:47:59.356809+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:59.356809+0100 INFO 7920 category: Autobiography
+2024-10-01T21:47:59.356809+0100 INFO 11736 category name: Historical
+2024-10-01T21:47:59.356809+0100 INFO 7920 category name: Christian
+2024-10-01T21:47:59.356809+0100 INFO 2572 uuid: b605f658-cab2-4f61-b4d5-70f867f04437
+2024-10-01T21:47:59.356809+0100 INFO 2572 title: Fifty Shades Freed (Fifty Shades #3)
+2024-10-01T21:47:59.356809+0100 INFO 2572 price: 15.36
+2024-10-01T21:47:59.356809+0100 INFO 2572 availability: 3 
+2024-10-01T21:47:59.356809+0100 INFO 2572 rating: 5
+2024-10-01T21:47:59.372435+0100 INFO 2572 category: Adult Fiction
+2024-10-01T21:47:59.372435+0100 INFO 2572 category name: Suspense
+2024-10-01T21:47:59.372435+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:59.388059+0100 INFO 15480 current book url: sapiens-a-brief-history-of-humankind_996/index.html
+2024-10-01T21:47:59.406890+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:59.412011+0100 INFO 14832 uuid: dbdbdc31-11d7-4b46-996a-2c06a8a948c3
+2024-10-01T21:47:59.412011+0100 INFO 14832 title: The Long Haul (Diary of a Wimpy Kid #9)
+2024-10-01T21:47:59.412011+0100 INFO 14832 price: 44.07
+2024-10-01T21:47:59.412011+0100 INFO 14832 availability: 14 
+2024-10-01T21:47:59.412011+0100 INFO 14832 rating: 1
+2024-10-01T21:47:59.412011+0100 INFO 14832 category: Humor
+2024-10-01T21:47:59.412011+0100 INFO 14832 category name: Short Stories
+2024-10-01T21:47:59.419812+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:47:59.435459+0100 INFO 10544 current book url: foolproof-preserving-a-guide-to-small-batch-jams-jellies-pickles-condiments-and-more-a-foolproof-guide-to-making-small-batch-jams-jellies-pickles-condiments-and-more_978/index.html
+2024-10-01T21:47:59.435459+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:59.435459+0100 INFO 15972 uuid: 80c0ceaa-ac41-484c-be57-cd6e0f3063ce
+2024-10-01T21:47:59.435459+0100 INFO 15972 title: The Most Perfect Thing: Inside (and Outside) a Bird's Egg
+2024-10-01T21:47:59.435459+0100 INFO 15972 price: 42.96
+2024-10-01T21:47:59.435459+0100 INFO 15972 availability: 16 
+2024-10-01T21:47:59.435459+0100 INFO 15972 rating: 4
+2024-10-01T21:47:59.435459+0100 INFO 15972 category: Science
+2024-10-01T21:47:59.435459+0100 INFO 15972 category name: Novels
+2024-10-01T21:47:59.466708+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:47:59.466708+0100 INFO 18036 pages: 1
+2024-10-01T21:47:59.466708+0100 INFO 18036 current category page url: https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html
+2024-10-01T21:47:59.701084+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:47:59.716709+0100 INFO 13328 pages: 1
+2024-10-01T21:47:59.716709+0100 INFO 13328 current category page url: https://books.toscrape.com/catalogue/category/books/business_35/index.html
+2024-10-01T21:47:59.732334+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:47:59.732334+0100 INFO 328 uuid: 6f93a248-88e3-4ba9-a822-ea289f48a6b4
+2024-10-01T21:47:59.732334+0100 INFO 328 title: Security
+2024-10-01T21:47:59.732334+0100 INFO 328 price: 39.25
+2024-10-01T21:47:59.732334+0100 INFO 328 availability: 16 
+2024-10-01T21:47:59.732334+0100 INFO 328 rating: 2
+2024-10-01T21:47:59.732334+0100 INFO 328 category: Horror
+2024-10-01T21:47:59.732334+0100 INFO 328 category name: Health
+2024-10-01T21:47:59.747959+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:47:59.747959+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:47:59.747959+0100 INFO 6272 pages: 1
+2024-10-01T21:47:59.763685+0100 INFO 6272 current category page url: https://books.toscrape.com/catalogue/category/books/thriller_37/index.html
+2024-10-01T21:47:59.764689+0100 INFO 7788 pages: 1
+2024-10-01T21:47:59.764689+0100 INFO 7788 current category page url: https://books.toscrape.com/catalogue/category/books/biography_36/index.html
+2024-10-01T21:47:59.764689+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:47:59.764689+0100 INFO 13524 pages: 1
+2024-10-01T21:47:59.764689+0100 INFO 13524 current category page url: https://books.toscrape.com/catalogue/category/books/academic_40/index.html
+2024-10-01T21:47:59.779694+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:47:59.795326+0100 INFO 316 pages: 1
+2024-10-01T21:47:59.795326+0100 INFO 316 current category page url: https://books.toscrape.com/catalogue/category/books/self-help_41/index.html
+2024-10-01T21:47:59.795326+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:47:59.795326+0100 INFO 15600 pages: 1
+2024-10-01T21:47:59.795326+0100 INFO 15600 current category page url: https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html
+2024-10-01T21:47:59.795326+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:47:59.795326+0100 INFO 2804 pages: 1
+2024-10-01T21:47:59.810952+0100 INFO 2804 current category page url: https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html
+2024-10-01T21:47:59.826576+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:47:59.826576+0100 INFO 2572 pages: 1
+2024-10-01T21:47:59.826576+0100 INFO 2572 current category page url: https://books.toscrape.com/catalogue/category/books/suspense_44/index.html
+2024-10-01T21:47:59.826576+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:47:59.842201+0100 INFO 15480 uuid: 11d1b53b-84ba-4cfe-8a69-b71a57ad3d5f
+2024-10-01T21:47:59.842201+0100 INFO 15480 title: Sapiens: A Brief History of Humankind
+2024-10-01T21:47:59.842201+0100 INFO 15480 price: 54.23
+2024-10-01T21:47:59.842201+0100 INFO 15480 availability: 20 
+2024-10-01T21:47:59.842201+0100 INFO 15480 rating: 5
+2024-10-01T21:47:59.842201+0100 INFO 15480 category: History
+2024-10-01T21:47:59.842201+0100 INFO 15480 category name: Politics
+2024-10-01T21:47:59.842201+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:47:59.842201+0100 INFO 7920 pages: 1
+2024-10-01T21:47:59.842201+0100 INFO 7920 current category page url: https://books.toscrape.com/catalogue/category/books/christian_43/index.html
+2024-10-01T21:47:59.842201+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:47:59.857826+0100 INFO 11736 pages: 1
+2024-10-01T21:47:59.857826+0100 INFO 11736 current category page url: https://books.toscrape.com/catalogue/category/books/historical_42/index.html
+2024-10-01T21:47:59.857826+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:47:59.857826+0100 INFO 14832 pages: 1
+2024-10-01T21:47:59.857826+0100 INFO 14832 current category page url: https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html
+2024-10-01T21:47:59.889076+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:47:59.889076+0100 INFO 15972 pages: 1
+2024-10-01T21:47:59.889076+0100 INFO 15972 current category page url: https://books.toscrape.com/catalogue/category/books/novels_46/index.html
+2024-10-01T21:47:59.920327+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:48:00.039753+0100 INFO 10544 uuid: c1594af1-1951-48b5-9b4f-024138becb03
+2024-10-01T21:48:00.039753+0100 INFO 10544 title: Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More
+2024-10-01T21:48:00.039753+0100 INFO 10544 price: 30.52
+2024-10-01T21:48:00.039753+0100 INFO 10544 availability: 19 
+2024-10-01T21:48:00.039753+0100 INFO 10544 rating: 3
+2024-10-01T21:48:00.039753+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:48:00.039753+0100 INFO 10544 category: Food and Drink
+2024-10-01T21:48:00.039753+0100 INFO 10544 category name: Cultural
+2024-10-01T21:48:00.039753+0100 INFO 18036 current book url: redeeming-love_826/index.html
+2024-10-01T21:48:00.260574+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:48:00.260574+0100 INFO 7788 current book url: louisa-the-extraordinary-life-of-mrs-adams_818/index.html
+2024-10-01T21:48:00.260574+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:48:00.276200+0100 INFO 328 pages: 1
+2024-10-01T21:48:00.276200+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:48:00.276200+0100 INFO 328 current category page url: https://books.toscrape.com/catalogue/category/books/health_47/index.html
+2024-10-01T21:48:00.276200+0100 INFO 13524 current book url: logan-kade-fallen-crest-high-55_384/index.html
+2024-10-01T21:48:00.276200+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:48:00.291824+0100 INFO 6272 current book url: in-her-wake_980/index.html
+2024-10-01T21:48:00.291824+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:48:00.291824+0100 INFO 13328 current book url: the-dirty-little-secrets-of-getting-your-dream-job_994/index.html
+2024-10-01T21:48:00.401707+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:48:00.401707+0100 INFO 15480 pages: 1
+2024-10-01T21:48:00.401707+0100 INFO 15480 current category page url: https://books.toscrape.com/catalogue/category/books/politics_48/index.html
+2024-10-01T21:48:00.401707+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:48:00.417332+0100 INFO 14832 current book url: the-grownup_546/index.html
+2024-10-01T21:48:00.417332+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:48:00.417332+0100 INFO 2572 current book url: silence-in-the-dark-logan-point-4_542/index.html
+2024-10-01T21:48:00.417332+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:48:00.417332+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:48:00.432957+0100 INFO 2804 current book url: the-four-agreements-a-practical-guide-to-personal-freedom_970/index.html
+2024-10-01T21:48:00.432957+0100 INFO 15600 current book url: when-we-collided_955/index.html
+2024-10-01T21:48:00.432957+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:48:00.432957+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:48:00.432957+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:48:00.432957+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:48:00.432957+0100 INFO 11736 current book url: all-the-light-we-cannot-see_660/index.html
+2024-10-01T21:48:00.448582+0100 INFO 316 current book url: online-marketing-for-busy-authors-a-step-by-step-guide_913/index.html
+2024-10-01T21:48:00.448582+0100 INFO 7920 current book url: unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html
+2024-10-01T21:48:00.464721+0100 INFO 15972 current book url: suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html
+2024-10-01T21:48:00.552567+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:48:00.552567+0100 INFO 10544 pages: 1
+2024-10-01T21:48:00.552567+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:48:00.552567+0100 INFO 10544 current category page url: https://books.toscrape.com/catalogue/category/books/cultural_49/index.html
+2024-10-01T21:48:00.552567+0100 INFO 18036 uuid: 9098681c-2b5d-4fb5-be23-210d6cc41ec5
+2024-10-01T21:48:00.552567+0100 INFO 18036 title: Redeeming Love
+2024-10-01T21:48:00.552567+0100 INFO 18036 price: 20.47
+2024-10-01T21:48:00.552567+0100 INFO 18036 availability: 15 
+2024-10-01T21:48:00.552567+0100 INFO 18036 rating: 5
+2024-10-01T21:48:00.552567+0100 INFO 18036 category: Christian Fiction
+2024-10-01T21:48:00.552567+0100 INFO 18036 category name: Erotica
+2024-10-01T21:48:00.771317+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:48:00.771317+0100 INFO 13328 uuid: 015a6d65-d0f8-475a-802b-14fa61085e6c
+2024-10-01T21:48:00.771317+0100 INFO 13328 title: The Dirty Little Secrets of Getting Your Dream Job
+2024-10-01T21:48:00.771317+0100 INFO 13328 price: 33.34
+2024-10-01T21:48:00.771317+0100 INFO 13328 availability: 19 
+2024-10-01T21:48:00.771317+0100 INFO 13328 rating: 4
+2024-10-01T21:48:00.771317+0100 INFO 13328 category: Business
+2024-10-01T21:48:00.771317+0100 INFO 13328 category name: Crime
+2024-10-01T21:48:00.827813+0100 INFO 6272 Successfully fetched the page
+2024-10-01T21:48:00.832706+0100 INFO 6272 uuid: 3369acd9-e2ee-4881-bfa8-ec0145a29180
+2024-10-01T21:48:00.832706+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:48:00.833706+0100 INFO 7788 Successfully fetched the page
+2024-10-01T21:48:00.833706+0100 INFO 6272 title: In Her Wake
+2024-10-01T21:48:00.833706+0100 INFO 13524 Successfully fetched the page
+2024-10-01T21:48:00.835596+0100 INFO 328 current book url: the-bulletproof-diet-lose-up-to-a-pound-a-day-reclaim-energy-and-focus-upgrade-your-life_931/index.html
+2024-10-01T21:48:00.835596+0100 INFO 7788 uuid: c4ef60eb-5b24-4a43-b60d-0f92a2679d22
+2024-10-01T21:48:00.835596+0100 INFO 6272 price: 12.84
+2024-10-01T21:48:00.850966+0100 INFO 13524 uuid: e035f98b-47ef-4908-8cbc-3e3fdfda6d47
+2024-10-01T21:48:00.851966+0100 INFO 7788 title: Louisa: The Extraordinary Life of Mrs. Adams
+2024-10-01T21:48:00.851966+0100 INFO 6272 availability: 19 
+2024-10-01T21:48:00.852965+0100 INFO 13524 title: Logan Kade (Fallen Crest High #5.5)
+2024-10-01T21:48:00.852965+0100 INFO 7788 price: 16.85
+2024-10-01T21:48:00.852965+0100 INFO 6272 rating: 1
+2024-10-01T21:48:00.852965+0100 INFO 13524 price: 13.12
+2024-10-01T21:48:00.852965+0100 INFO 7788 availability: 15 
+2024-10-01T21:48:00.852965+0100 INFO 6272 category: Thriller
+2024-10-01T21:48:00.852965+0100 INFO 13524 availability: 5 
+2024-10-01T21:48:00.852965+0100 INFO 7788 rating: 2
+2024-10-01T21:48:00.852965+0100 INFO 13524 rating: 2
+2024-10-01T21:48:00.852965+0100 INFO 7788 category: Biography
+2024-10-01T21:48:00.852965+0100 INFO 13524 category: Academic
+2024-10-01T21:48:00.896387+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:48:00.898285+0100 INFO 15480 current book url: libertarianism-for-beginners_982/index.html
+2024-10-01T21:48:00.913290+0100 INFO 15600 Successfully fetched the page
+2024-10-01T21:48:00.928923+0100 INFO 316 Successfully fetched the page
+2024-10-01T21:48:00.928923+0100 INFO 15600 uuid: 07eb4312-e5fe-4d77-b381-a92df9384203
+2024-10-01T21:48:00.928923+0100 INFO 15600 title: When We Collided
+2024-10-01T21:48:00.928923+0100 INFO 316 uuid: 99fe9e73-c270-4907-9c25-b8aeba641790
+2024-10-01T21:48:00.928923+0100 INFO 15600 price: 31.77
+2024-10-01T21:48:00.928923+0100 INFO 316 title: Online Marketing for Busy Authors: A Step-By-Step Guide
+2024-10-01T21:48:00.928923+0100 INFO 11736 Successfully fetched the page
+2024-10-01T21:48:00.928923+0100 INFO 15600 availability: 16 
+2024-10-01T21:48:00.928923+0100 INFO 316 price: 46.35
+2024-10-01T21:48:00.928923+0100 INFO 15600 rating: 1
+2024-10-01T21:48:00.928923+0100 INFO 11736 uuid: f787cbf3-c570-47a9-9dfc-a59b79155761
+2024-10-01T21:48:00.928923+0100 INFO 316 availability: 16 
+2024-10-01T21:48:00.928923+0100 INFO 7920 Successfully fetched the page
+2024-10-01T21:48:00.928923+0100 INFO 15600 category: Contemporary
+2024-10-01T21:48:00.928923+0100 INFO 11736 title: All the Light We Cannot See
+2024-10-01T21:48:00.928923+0100 INFO 316 rating: 1
+2024-10-01T21:48:00.944548+0100 INFO 11736 price: 29.87
+2024-10-01T21:48:00.944548+0100 INFO 7920 uuid: dfc28777-e4f2-454a-bead-28cc370a2318
+2024-10-01T21:48:00.944548+0100 INFO 14832 Successfully fetched the page
+2024-10-01T21:48:00.944548+0100 INFO 316 category: Self Help
+2024-10-01T21:48:00.944548+0100 INFO 2804 Successfully fetched the page
+2024-10-01T21:48:00.944548+0100 INFO 11736 availability: 14 
+2024-10-01T21:48:00.944548+0100 INFO 7920 title: (Un)Qualified: How God Uses Broken People to Do Big Things
+2024-10-01T21:48:00.944548+0100 INFO 14832 uuid: 79071022-e550-4dc6-9609-a72c25a479f4
+2024-10-01T21:48:00.944548+0100 INFO 2804 uuid: aa99d160-72a8-4cd8-a6cc-f02e3d77579d
+2024-10-01T21:48:00.944548+0100 INFO 2572 Successfully fetched the page
+2024-10-01T21:48:00.944548+0100 INFO 11736 rating: 5
+2024-10-01T21:48:00.944548+0100 INFO 7920 price: 54.00
+2024-10-01T21:48:00.944548+0100 INFO 14832 title: The Grownup
+2024-10-01T21:48:00.944548+0100 INFO 2804 title: The Four Agreements: A Practical Guide to Personal Freedom
+2024-10-01T21:48:00.944548+0100 INFO 11736 category: Historical
+2024-10-01T21:48:00.960173+0100 INFO 7920 availability: 16 
+2024-10-01T21:48:00.960173+0100 INFO 2572 uuid: 6375276c-e796-450e-9e59-14a23b491ac4
+2024-10-01T21:48:00.960173+0100 INFO 14832 price: 35.88
+2024-10-01T21:48:00.960173+0100 INFO 15972 Successfully fetched the page
+2024-10-01T21:48:00.960173+0100 INFO 2804 price: 17.66
+2024-10-01T21:48:00.960173+0100 INFO 7920 rating: 5
+2024-10-01T21:48:00.960173+0100 INFO 2572 title: Silence in the Dark (Logan Point #4)
+2024-10-01T21:48:00.960173+0100 INFO 14832 availability: 8 
+2024-10-01T21:48:00.960173+0100 INFO 2804 availability: 18 
+2024-10-01T21:48:00.960173+0100 INFO 15972 uuid: cd97d437-710f-41df-a9ce-6e311b18c2d2
+2024-10-01T21:48:00.960173+0100 INFO 7920 category: Christian
+2024-10-01T21:48:00.960173+0100 INFO 2572 price: 58.33
+2024-10-01T21:48:00.960173+0100 INFO 14832 rating: 1
+2024-10-01T21:48:00.960173+0100 INFO 2804 rating: 5
+2024-10-01T21:48:00.960173+0100 INFO 15972 title: Suzie Snowflake: One beautiful flake (a self-esteem story)
+2024-10-01T21:48:00.960173+0100 INFO 2572 availability: 8 
+2024-10-01T21:48:00.960173+0100 INFO 14832 category: Short Stories
+2024-10-01T21:48:00.960173+0100 INFO 2804 category: Spirituality
+2024-10-01T21:48:00.960173+0100 INFO 15972 price: 54.81
+2024-10-01T21:48:00.960173+0100 INFO 2572 rating: 3
+2024-10-01T21:48:00.960173+0100 INFO 15972 availability: 9 
+2024-10-01T21:48:00.960173+0100 INFO 2572 category: Suspense
+2024-10-01T21:48:00.960173+0100 INFO 15972 rating: 5
+2024-10-01T21:48:00.960173+0100 INFO 15972 category: Novels
+2024-10-01T21:48:01.009191+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:48:01.024198+0100 INFO 18036 pages: 1
+2024-10-01T21:48:01.024198+0100 INFO 18036 current category page url: https://books.toscrape.com/catalogue/category/books/erotica_50/index.html
+2024-10-01T21:48:01.071568+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:48:01.071568+0100 INFO 10544 current book url: amid-the-chaos_788/index.html
+2024-10-01T21:48:01.255765+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:48:01.255765+0100 INFO 13328 pages: 1
+2024-10-01T21:48:01.255765+0100 INFO 13328 current category page url: https://books.toscrape.com/catalogue/category/books/crime_51/index.html
+2024-10-01T21:48:01.318265+0100 INFO 328 Successfully fetched the page
+2024-10-01T21:48:01.333890+0100 INFO 328 uuid: f2ad67ea-ee0f-4883-aff9-4af6cb78a3c5
+2024-10-01T21:48:01.333890+0100 INFO 328 title: The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life
+2024-10-01T21:48:01.333890+0100 INFO 328 price: 49.05
+2024-10-01T21:48:01.333890+0100 INFO 328 availability: 16 
+2024-10-01T21:48:01.333890+0100 INFO 328 rating: 3
+2024-10-01T21:48:01.333890+0100 INFO 328 category: Health
+2024-10-01T21:48:01.349514+0100 INFO 15480 Successfully fetched the page
+2024-10-01T21:48:01.349514+0100 INFO 15480 uuid: 4023eb7c-28cb-4a97-9197-69adfc841c83
+2024-10-01T21:48:01.349514+0100 INFO 15480 title: Libertarianism for Beginners
+2024-10-01T21:48:01.349514+0100 INFO 15480 price: 51.33
+2024-10-01T21:48:01.349514+0100 INFO 15480 availability: 19 
+2024-10-01T21:48:01.349514+0100 INFO 15480 rating: 2
+2024-10-01T21:48:01.349514+0100 INFO 15480 category: Politics
+2024-10-01T21:48:01.458889+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:48:01.458889+0100 INFO 18036 current book url: dark-notes_800/index.html
+2024-10-01T21:48:01.530109+0100 INFO 10544 Successfully fetched the page
+2024-10-01T21:48:01.530109+0100 INFO 10544 uuid: 01493e8b-d029-4410-8e6d-4984eba1340c
+2024-10-01T21:48:01.530109+0100 INFO 10544 title: Amid the Chaos
+2024-10-01T21:48:01.530109+0100 INFO 10544 price: 36.58
+2024-10-01T21:48:01.530109+0100 INFO 10544 availability: 15 
+2024-10-01T21:48:01.530109+0100 INFO 10544 rating: 1
+2024-10-01T21:48:01.530109+0100 INFO 10544 category: Cultural
+2024-10-01T21:48:01.749465+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:48:01.749465+0100 INFO 13328 current book url: the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html
+2024-10-01T21:48:01.936965+0100 INFO 18036 Successfully fetched the page
+2024-10-01T21:48:01.952590+0100 INFO 18036 uuid: 84548c8e-0173-4874-aaa9-06b8eaeaf4a1
+2024-10-01T21:48:01.952590+0100 INFO 18036 title: Dark Notes
+2024-10-01T21:48:01.952590+0100 INFO 18036 price: 19.19
+2024-10-01T21:48:01.952590+0100 INFO 18036 availability: 15 
+2024-10-01T21:48:01.952590+0100 INFO 18036 rating: 5
+2024-10-01T21:48:01.952590+0100 INFO 18036 category: Erotica
+2024-10-01T21:48:02.230000+0100 INFO 13328 Successfully fetched the page
+2024-10-01T21:48:02.230000+0100 INFO 13328 uuid: 41489c21-7bfc-4354-9ff3-a3f483a12968
+2024-10-01T21:48:02.230000+0100 INFO 13328 title: The Long Shadow of Small Ghosts: Murder and Memory in an American City
+2024-10-01T21:48:02.230000+0100 INFO 13328 price: 10.97
+2024-10-01T21:48:02.230000+0100 INFO 13328 availability: 15 
+2024-10-01T21:48:02.230000+0100 INFO 13328 rating: 1
+2024-10-01T21:48:02.230000+0100 INFO 13328 category: Crime
+2024-10-01T21:48:02.230000+0100 ERROR 17904 Error scraping books: 'NoneType' object has no attribute 'close'
+2024-10-01T21:48:02.230000+0100 ERROR 17904 An unexpected error occurred: 'NoneType' object has no attribute 'close'

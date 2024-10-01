@@ -18,16 +18,16 @@ from sbooks.utils import clean_numeric
 from sqlalchemy.exc import SQLAlchemyError
 from tqdm import tqdm
 
+from bs4 import Tag
+
 # 1) extract links of categories
 #     1. extract number of pages for this category
 #       1. extract links of books
 #         1. add book to the dataframe with the respective category
 
 
-pbar_category = tqdm(
-    total=50, desc="categories"
-)  # TODO: ideally this number should be dynamic
-pbar_books = tqdm(total=1000, desc="books")
+pbar_category = None
+pbar_books = None
 
 
 def category_worker(category):
@@ -36,71 +36,69 @@ def category_worker(category):
 
     a_tag = category.find("a")
 
-    if type(a_tag) is not int:  # for some reason some of the results are -1
-        category_url = a_tag.get("href")
-        category_name = a_tag.string.strip()
-        logger.info("category name: " + category_name)
 
-        category_page = bs(
-            fetchPage(url + category_url).content, features="html.parser"
+    category_url = a_tag.get("href")
+    category_name = a_tag.string.strip()
+    logger.info("category name: " + category_name)
+
+    category_page = bs(
+        fetchPage(url + category_url).content, features="html.parser"
+    )
+
+    num_pages = 1
+    num_pages_tag = category_page.find(class_="current")
+
+    if num_pages_tag is not None:
+        logger.info("num_pages is not None")
+        num_pages = int(num_pages_tag.text.split("of ", 1)[1])
+    logger.info("pages: " + str(num_pages))
+
+    new_page_url = category_url
+    for i in range(num_pages):
+        iterator = i + 1
+
+        # page n is just page-n.html instead of index.html
+        if iterator != 1:
+            new_page_url = category_url.replace("index", "page-" + str(iterator))
+        logger.info("current category page url: " + url + new_page_url)
+        current_page = bs(
+            fetchPage(url + new_page_url).content, features="html.parser"
         )
 
-        num_pages = 1
-        num_pages_tag = category_page.find(class_="current")
+        # get links of books
+        books_tag = current_page.find("ol")
+        books_a_tags = books_tag.find_all("a", title=True)
 
-        if num_pages_tag is not None:
-            logger.info("num_pages is not None")
-            num_pages = int(num_pages_tag.text.split("of ", 1)[1])
-        logger.info("pages: " + str(num_pages))
+        for book_a in books_a_tags:
+            book_url = book_a.get("href").split("/", 3)[3]
+            logger.info("current book url: " + book_url)
 
-        new_page_url = category_url
-        for i in range(num_pages):
-            iterator = i + 1
-
-            # page n is just page-n.html instead of index.html
-            if iterator != 1:
-                new_page_url = category_url.replace("index", "page-" + str(iterator))
-            logger.info("current category page url: " + url + new_page_url)
-            current_page = bs(
-                fetchPage(url + new_page_url).content, features="html.parser"
+            # soup of the book -> parse the details into a dict
+            book_page = bs(
+                fetchPage(url + "catalogue/" + book_url).content,
+                features="html.parser",
             )
+            main_div_tag = book_page.find(class_="col-sm-6 product_main")
 
-            # get links of books
-            books_tag = current_page.find("ol")
-            books_a_tags = books_tag.find_all("a", title=True)
+            id = str(uuid.uuid4())
+            logger.info("uuid: " + id)
 
-            for book_a in books_a_tags:
-                book_url = book_a.get("href").split("/", 3)[3]
-                logger.info("current book url: " + book_url)
+            title = get_title(main_div_tag)
+            logger.info("title: " + title)
 
-                # soup of the book -> parse the details into a dict
-                book_page = bs(
-                    fetchPage(url + "catalogue/" + book_url).content,
-                    features="html.parser",
-                )
-                main_div_tag = book_page.find(class_="col-sm-6 product_main")
+            price = get_price(main_div_tag)
+            logger.info("price: " + str(price))
 
-                id = str(uuid.uuid4())
-                logger.info("uuid: " + id)
+            availability = get_availability(main_div_tag)
+            logger.info("availability: " + str(availability))
 
-                title = get_title(main_div_tag)
-                logger.info("title: " + title)
+            rating = get_rating(main_div_tag)
+            logger.info("rating: " + str(rating))
 
-                price = get_price(main_div_tag)
-                logger.info("price: " + str(price))
-
-                availability = get_availability(main_div_tag)
-                logger.info("availability: " + str(availability))
-
-                rating = get_rating(main_div_tag)
-                logger.info("rating: " + str(rating))
-
-                the_category = category_name
-                logger.info("category: " + category_name)
-                books.append([id, title, price, availability, rating, the_category])
-                pbar_books.update(1)
-    else:
-        return
+            the_category = category_name
+            logger.info("category: " + category_name)
+            books.append([id, title, price, availability, rating, the_category])
+            pbar_books.update(1)
 
     pbar_category.update(1)
     return books
@@ -117,7 +115,18 @@ def word_number_to_int(number):
         return 4
     if number == "Five":
         return 5
+    
+def init_pbars(soup, categories_list):
+    global pbar_category
+    global pbar_books
+    num_of_books = get_num_of_books(soup)
+    pbar_books = tqdm(total=num_of_books, desc="books")
+    pbar_category = tqdm(total=len(categories_list), desc="categories") 
 
+def get_num_of_books(soup: bs):
+    num_of_books_str = soup.find(class_="col-sm-8 col-md-9").find("form").find("strong").get_text()
+    return int(num_of_books_str)
+    
 
 # functions to get each of the books' parameters (i believe it is easier to debug and maintain the code this way because the parsing of the page may get very complicated)
 def get_title(main_div_tag):
@@ -170,7 +179,10 @@ def scrape_books():
         categories_list = []
 
         for category in categories:
-            categories_list.append(category)
+            if type(category) == Tag:
+                categories_list.append(category)
+
+        init_pbars(soup, categories_list)
 
         # removed max_workers. https://docs.python.org/3/library/concurrent.futures.html#:~:text=Changed%20in%20version%203.5%3A%20If,number%20of%20workers%20for%20ProcessPoolExecutor.
         with concurrent.futures.ThreadPoolExecutor() as executor:
@@ -216,7 +228,7 @@ def main():
 
         # Test inserting individual rows
         new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
-        new_test = TestTable(str(uuid.uuid4()), "Test entry")
+        new_test = TestTable(str(uuid.uuid4()), 1)
         insertRow(new_book)
         # print("Inserted new film.")
         insertRow(new_test)
