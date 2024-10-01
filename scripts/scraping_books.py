@@ -8,6 +8,7 @@ import threading
 import uuid
 
 import pandas as pd
+from bs4 import Tag
 from configuration import url
 from database import Books, Session, TestTable, initDB, insertRow
 from database.operations import check_tables_exist, initialize_schema
@@ -17,8 +18,6 @@ from sbooks.export_functions import exportToCsv, exportToJson
 from sbooks.utils import clean_numeric
 from sqlalchemy.exc import SQLAlchemyError
 from tqdm import tqdm
-
-from bs4 import Tag
 
 # 1) extract links of categories
 #     1. extract number of pages for this category
@@ -36,14 +35,11 @@ def category_worker(category):
 
     a_tag = category.find("a")
 
-
     category_url = a_tag.get("href")
     category_name = a_tag.string.strip()
     logger.info("category name: " + category_name)
 
-    category_page = bs(
-        fetchPage(url + category_url).content, features="html.parser"
-    )
+    category_page = bs(fetchPage(url + category_url).content, features="html.parser")
 
     num_pages = 1
     num_pages_tag = category_page.find(class_="current")
@@ -61,9 +57,7 @@ def category_worker(category):
         if iterator != 1:
             new_page_url = category_url.replace("index", "page-" + str(iterator))
         logger.info("current category page url: " + url + new_page_url)
-        current_page = bs(
-            fetchPage(url + new_page_url).content, features="html.parser"
-        )
+        current_page = bs(fetchPage(url + new_page_url).content, features="html.parser")
 
         # get links of books
         books_tag = current_page.find("ol")
@@ -115,18 +109,22 @@ def word_number_to_int(number):
         return 4
     if number == "Five":
         return 5
-    
+
+
 def init_pbars(soup, categories_list):
     global pbar_category
     global pbar_books
     num_of_books = get_num_of_books(soup)
     pbar_books = tqdm(total=num_of_books, desc="books")
-    pbar_category = tqdm(total=len(categories_list), desc="categories") 
+    pbar_category = tqdm(total=len(categories_list), desc="categories")
+
 
 def get_num_of_books(soup: bs):
-    num_of_books_str = soup.find(class_="col-sm-8 col-md-9").find("form").find("strong").get_text()
+    num_of_books_str = (
+        soup.find(class_="col-sm-8 col-md-9").find("form").find("strong").get_text()
+    )
     return int(num_of_books_str)
-    
+
 
 # functions to get each of the books' parameters (i believe it is easier to debug and maintain the code this way because the parsing of the page may get very complicated)
 def get_title(main_div_tag):
