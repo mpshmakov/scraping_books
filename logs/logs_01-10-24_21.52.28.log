@@ -1,0 +1,10 @@
+2024-10-01T21:52:28.551357+0100 INFO 3792 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
+2024-10-01T21:52:28.562616+0100 INFO 3792 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
+2024-10-01T21:52:28.571898+0100 INFO 3792 Database schema initialized successfully.
+2024-10-01T21:52:28.571898+0100 INFO 3792 Tables in the database: ['TestTable', 'books']
+2024-10-01T21:52:28.571898+0100 INFO 3792 All required tables have been created successfully.
+2024-10-01T21:52:29.131476+0100 INFO 3792 Successfully fetched the page
+2024-10-01T21:52:29.147107+0100 INFO 3792 Created the soup.
+2024-10-01T21:52:29.147107+0100 DEBUG 3792 max workers: 16
+2024-10-01T21:52:29.147107+0100 ERROR 3792 Error scraping books: 'NoneType' object has no attribute 'close'
+2024-10-01T21:52:29.147107+0100 ERROR 3792 An unexpected error occurred: 'NoneType' object has no attribute 'close'
