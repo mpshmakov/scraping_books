@@ -15,7 +15,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 logger.info(f"Ensured data directory exists at {DATA_DIR}")
 
 # Create engine with the updated path
-engine = create_engine(f"sqlite:///{DB_PATH}")
+engine = create_engine(f"sqlite:///{DB_PATH}", echo=True)
 logger.info(f"Created database engine for {DB_PATH}")
 
 # Create a configured "Session" class

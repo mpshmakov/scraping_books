@@ -55,9 +55,17 @@ def check_tables_exist():
 
     Returns:
         bool: True if all required tables exist, False otherwise.
+
+    Raises:
+        SQLAlchemyError: If there's an error during inspecting engine.
     """
-    inspector = inspect(engine)
-    existing_tables = inspector.get_table_names()
+    try:
+        inspector = inspect(engine)
+        existing_tables = inspector.get_table_names()
+    except SQLAlchemyError as e:
+        logger.error(f"Error inspecting database engine: {str(e)}")
+        raise
+
     required_tables = ["books", "TestTable"]
     return all(table in existing_tables for table in required_tables)
 
@@ -73,7 +81,13 @@ def truncate_tables(session):
         SQLAlchemyError: If there's an error during table truncation.
     """
     for table in [Books, TestTable]:
-        session.query(table).delete()
+        try:
+            session.query(table).delete()
+        except SQLAlchemyError as e:
+            session.rollback()
+            logger.error(f"Error truncating table: {str(e)}")
+            raise
+
     logger.info("All tables truncated successfully.")
 
 

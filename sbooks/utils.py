@@ -26,11 +26,18 @@ def create_data_folder(filename):
 
     Args:
         filename (str): The path to the file for which to create a directory.
+    
+    Raises:
+        SyntaxError if directory path is illegal.
     """
     data_dir = os.path.dirname(filename)
     if data_dir and not os.path.exists(data_dir):
-        os.makedirs(data_dir)
-        logger.info(f"Created directory: {data_dir}")
+        try:
+            os.makedirs(data_dir)
+            logger.info(f"Created directory: {data_dir}")
+        except SyntaxError as e:
+            logger.error(f"Error creating directory: {e}")
+            raise
 
 
 def uuid_to_str(obj):

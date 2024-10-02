@@ -226,7 +226,7 @@ def main():
 
         # Test inserting individual rows
         new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
-        new_test = TestTable(str(uuid.uuid4()), 1)
+        new_test = TestTable(str(uuid.uuid4()), int(11231))
         insertRow(new_book)
         # print("Inserted new film.")
         insertRow(new_test)
