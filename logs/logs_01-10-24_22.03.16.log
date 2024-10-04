@@ -1,9 +1,0 @@
-2024-10-01T22:03:17.059869+0100 INFO 15148 Ensured data directory exists at C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data
-2024-10-01T22:03:17.071842+0100 INFO 15148 Created database engine for C:\Users\qqeer\Desktop\code\scraping books\scraping_books\data\scraping_books.db
-2024-10-01T22:03:17.082815+0100 INFO 15148 Database schema initialized successfully.
-2024-10-01T22:03:17.082815+0100 INFO 15148 Tables in the database: ['TestTable', 'books']
-2024-10-01T22:03:17.082815+0100 INFO 15148 All required tables have been created successfully.
-2024-10-01T22:03:17.617033+0100 INFO 15148 Successfully fetched the page
-2024-10-01T22:03:17.632659+0100 INFO 15148 Created the soup.
-2024-10-01T22:03:17.632659+0100 ERROR 15148 Error scraping books: int() argument must be a string, a bytes-like object or a real number, not 'Tag'
-2024-10-01T22:03:17.632659+0100 ERROR 15148 An unexpected error occurred: int() argument must be a string, a bytes-like object or a real number, not 'Tag'

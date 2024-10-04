@@ -133,7 +133,7 @@ def get_title(main_div_tag):
 
 
 def get_price(main_div_tag):
-    price = main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1]
+    price = float(main_div_tag.find(class_="price_color").text.strip().split("£", 1)[1])
     return price
 
 
@@ -141,7 +141,7 @@ def get_availability(main_div_tag):
     tmp_availability = (
         main_div_tag.find(class_="instock availability").text.strip().split("(", 1)[1]
     )
-    availability = tmp_availability.split("available", 1)[0]
+    availability = int(tmp_availability.split("available", 1)[0])
     return availability
 
 
@@ -225,11 +225,15 @@ def main():
             return
 
         # Test inserting individual rows
-        new_book = Books(str(uuid.uuid4()), "Test Book", 22, 1, 5, "category")
-        new_test = TestTable(str(uuid.uuid4()), int(11231))
+        new_book = Books(str(uuid.uuid4()), "Test Book", 22.0, 1, 5, "category")
+        new_test = TestTable(1, 43, 6)
+
         insertRow(new_book)
         # print("Inserted new film.")
         insertRow(new_test)
+
+        # another_test = TestTable(2, 'text', 1.1)
+        # insertRow(another_test)
         # print("Inserted test entry.")
 
         # Create DataFrame for CSV and JSON export
