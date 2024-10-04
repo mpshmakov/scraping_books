@@ -14,7 +14,6 @@ from .schema import Books, TestTable
 # from sqlalchemy.orm import Session
 
 
-
 def initialize_schema():
     """
     Initialize the database schema by creating required tables.

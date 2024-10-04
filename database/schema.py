@@ -4,8 +4,7 @@ This module defines the SQLAlchemy ORM models for the database tables.
 """
 
 from sqlalchemy import DECIMAL, CheckConstraint, Column, Integer, String
-from sqlalchemy.orm import declarative_base
-from sqlalchemy.orm import validates
+from sqlalchemy.orm import declarative_base, validates
 
 Base = declarative_base()
 
@@ -32,28 +31,28 @@ class Books(Base):
         ),
     )
 
-    @validates('id')
+    @validates("id")
     def validate_id(self, key, value):
         if len(value) != 36:
             raise Exception("uuid field doesn't have 36 characters.")
         return value
 
-    @validates('availability')
+    @validates("availability")
     def validate_availability(self, key, value):
         # print("availability", type(value))
         if type(value) != int:
             print(type(value))
             raise Exception("availability field isn't Integer.")
         return value
-    
-    @validates('star_rating')
+
+    @validates("star_rating")
     def validate_star_rating(self, key, value):
         # print("star rating", type(value))
         if type(value) != int:
             raise Exception("star_rating field isn't Integer.")
         return value
-    
-    @validates('price')
+
+    @validates("price")
     def validate_price(self, key, value):
         # print("price", type(value))
         if type(value) != float:
@@ -99,9 +98,9 @@ class TestTable(Base):
     text = Column(String(255), nullable=False)
     numbers = Column(Integer, nullable=False)
 
-    @validates('numbers')
+    @validates("numbers")
     def validate_numbers(self, key, value):
-        # print("numbers", type(value)) 
+        # print("numbers", type(value))
         if type(value) != int:
             raise Exception("Numbers field isn't Integer.")
 

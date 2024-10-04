@@ -26,7 +26,7 @@ def create_data_folder(filename):
 
     Args:
         filename (str): The path to the file for which to create a directory.
-    
+
     Raises:
         SyntaxError if directory path is illegal.
     """
