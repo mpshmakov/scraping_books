@@ -5,6 +5,7 @@ This module defines the SQLAlchemy ORM models for the database tables.
 
 from sqlalchemy import DECIMAL, CheckConstraint, Column, Integer, String
 from sqlalchemy.orm import declarative_base
+from sqlalchemy.orm import validates
 
 Base = declarative_base()
 
@@ -31,6 +32,34 @@ class Books(Base):
         ),
     )
 
+    @validates('id')
+    def validate_id(self, key, value):
+        if len(value) != 36:
+            raise Exception("uuid field doesn't have 36 characters.")
+        return value
+
+    @validates('availability')
+    def validate_availability(self, key, value):
+        # print("availability", type(value))
+        if type(value) != int:
+            print(type(value))
+            raise Exception("availability field isn't Integer.")
+        return value
+    
+    @validates('star_rating')
+    def validate_star_rating(self, key, value):
+        # print("star rating", type(value))
+        if type(value) != int:
+            raise Exception("star_rating field isn't Integer.")
+        return value
+    
+    @validates('price')
+    def validate_price(self, key, value):
+        # print("price", type(value))
+        if type(value) != float:
+            raise Exception("price field isn't float.")
+        return value
+
     def __init__(
         self,
         id: str,
@@ -48,7 +77,7 @@ class Books(Base):
             title (str): Title of the book.
             price (float): Price of the book.
             availability (int): Number of copies available.
-            star_rating (float, optional): Star rating of the book (0 to 5).
+            star_rating (int, optional): Star rating of the book (0 to 5).
             category (str): Category of the book.
         """
         self.id = id
@@ -68,14 +97,25 @@ class TestTable(Base):
 
     id = Column(String(36), primary_key=True)
     text = Column(String(255), nullable=False)
+    numbers = Column(Integer, nullable=False)
 
-    def __init__(self, id: str, text: str):
+    @validates('numbers')
+    def validate_numbers(self, key, value):
+        # print("numbers", type(value)) 
+        if type(value) != int:
+            raise Exception("Numbers field isn't Integer.")
+
+        return value
+
+    def __init__(self, id: str, text: str, numbers: int):
         """
         Initialize a TestTable instance.
 
         Args:
             id (str): Unique identifier for the test entry.
             text (str): Text content for the test entry.
+            numbers (int): Any integer.
         """
         self.id = id
         self.text = text
+        self.numbers = numbers
