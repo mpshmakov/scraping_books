@@ -231,8 +231,9 @@ class TestDatabaseOperations(unittest.TestCase):
 
 class TestDatabaseSchema(unittest.TestCase):
     def test_Books(self):
-        book = Books("test-id", "Test Title", 222.2, 1, 5, "category")
-        self.assertEqual(book.id, "test-id")
+        id = str(uuid.uuid4())
+        book = Books(id, "Test Title", 222.2, 1, 5, "category")
+        self.assertEqual(book.id, id)
         self.assertEqual(book.title, "Test Title")
         self.assertEqual(book.price, 222.2)
         self.assertEqual(book.availability, 1)
@@ -240,9 +241,10 @@ class TestDatabaseSchema(unittest.TestCase):
         self.assertEqual(book.category, "category")
 
     def test_TestTable(self):
-        test_entry = TestTable("test-id", "Test Entry")
+        test_entry = TestTable("test-id", "Test Entry", 5)
         self.assertEqual(test_entry.id, "test-id")
         self.assertEqual(test_entry.text, "Test Entry")
+        self.assertEqual(test_entry.numbers, 5)
 
     # class Testsbooks(unittest.TestCase):
     #     @patch("tttt.bs")
@@ -314,9 +316,12 @@ class TestDatabaseSchema(unittest.TestCase):
         mock_initDB,
         mock_scrape,
     ):
+        id1 = str(uuid.uuid4())
+        id2 = str(uuid.uuid4())
+        
         mock_scrape.return_value = [
-            ("id1", "Book 1", 2021.1, 1, 3, "category 1"),
-            ("id2", "Book 2", 2022.2, 2, 5, "category 2"),
+            (id1, "Book 1", 2021.1, 1, 3, "category 1"),
+            (id2, "Book 2", 2022.2, 2, 5, "category 2"),
         ]
         main()
         mock_scrape.assert_called_once()
