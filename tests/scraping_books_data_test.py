@@ -318,7 +318,7 @@ class TestDatabaseSchema(unittest.TestCase):
     ):
         id1 = str(uuid.uuid4())
         id2 = str(uuid.uuid4())
-        
+
         mock_scrape.return_value = [
             (id1, "Book 1", 2021.1, 1, 3, "category 1"),
             (id2, "Book 2", 2022.2, 2, 5, "category 2"),
