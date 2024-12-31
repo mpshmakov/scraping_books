@@ -1,1001 +1,1001 @@
 id,title,price,availability,star_rating,category
-77f0c5f9-4513-447f-88f3-6cd97eb76f8f,It's Only the Himalayas,45.17,19,2,Travel
-9f88f05e-3340-4c46-8ff3-416a47d163cb,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,15,4,Travel
-f7389a73-df08-46d6-8021-931543ff7f88,See America: A Celebration of Our National Parks & Treasured Sites,48.87,14,3,Travel
-e21fc178-96ee-433b-b8a3-1bf7556ef7f3,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,8,2,Travel
-029b639b-1a05-4b3b-be7b-e5644b940514,Under the Tuscan Sun,37.33,7,3,Travel
-93c14328-3acc-40ba-8621-ca401fd2737d,A Summer In Europe,44.34,7,2,Travel
-525ce5e1-b75e-44b0-8b08-2f14a8a94e38,The Great Railway Bazaar,30.54,6,1,Travel
-b32b9114-a84d-41bf-b7f3-27839750dd01,A Year in Provence (Provence #1),56.88,6,4,Travel
-6a805a53-b2b5-40b2-9695-1d984cb26db3,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,3,1,Travel
-b13b88fd-8655-4159-bfbf-b83d0154ca6f,Neither Here nor There: Travels in Europe,38.95,3,3,Travel
-4c2bfc3e-4a7d-4253-84c4-83de18fd7098,"1,000 Places to See Before You Die",26.08,1,5,Travel
-fc8e3745-aeb6-4267-9552-845f8b52cfae,Sharp Objects,47.82,20,4,Mystery
-6e07a817-bb61-4217-ac37-a3d64ea2b588,"In a Dark, Dark Wood",19.63,18,1,Mystery
-6ff2e78f-abaa-4420-b19b-eaaf4a214898,The Past Never Ends,56.5,16,4,Mystery
-3983b882-d7e6-4786-a04e-49c02bc18573,A Murder in Time,16.64,16,1,Mystery
-7483d209-3331-4286-a50c-d4d8443b1582,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,15,4,Mystery
-ca74730a-b9de-4c87-b0f0-5a5bd8a5c9b4,The Last Mile (Amos Decker #2),54.21,14,2,Mystery
-5a5beb19-df5a-4960-82bf-11468ca18263,That Darkness (Gardiner and Renner #1),13.92,14,1,Mystery
-676615d3-dac6-4729-97d4-257726cb15d3,Tastes Like Fear (DI Marnie Rome #3),10.69,14,1,Mystery
-79d95f55-f54d-4d08-a839-81013a97c787,A Time of Torment (Charlie Parker #14),48.35,14,5,Mystery
-c1fdbe3c-0bc5-4080-8661-a52b26734a87,A Study in Scarlet (Sherlock Holmes #1),16.73,14,2,Mystery
-e7cb40c5-5518-4660-9d1c-c5c728fd370a,Poisonous (Max Revere Novels #3),26.8,12,3,Mystery
-e7d94622-a13a-45ab-b400-9a0494a15855,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,12,4,Mystery
-3cabb627-2ae3-4a05-8ee3-bfaad73e425a,Most Wanted,35.28,12,3,Mystery
-0672b5eb-f0c7-4bfb-ad23-a868a93c796b,Hide Away (Eve Duncan #20),11.84,12,1,Mystery
-8806112a-8249-4f55-ad5c-def48150933b,Boar Island (Anna Pigeon #19),59.48,12,3,Mystery
-1468d8bf-ccec-4f75-b15e-10c8172931c3,The Widow,27.26,11,2,Mystery
-5d1c6054-440b-4a95-9c02-22ee821666d5,Playing with Fire,13.71,11,3,Mystery
-552cf4b2-670b-4202-a7ba-4a11c5040dab,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,7,5,Mystery
-6495c3d2-6b79-41a8-9c06-7ef382210797,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,7,5,Mystery
-b992217a-fa67-4846-bbe1-43615fcebc69,Delivering the Truth (Quaker Midwife Mystery #1),20.89,7,4,Mystery
-ba09ddb0-580d-45eb-9892-85dcc6ddb169,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,6,4,Mystery
-963c0d82-aba8-4121-b21c-fc6e42f7cf29,In the Woods (Dublin Murder Squad #1),38.38,6,2,Mystery
-446e0e4d-b98f-446e-b1e3-60fb3aa1857e,The Silkworm (Cormoran Strike #2),23.05,3,5,Mystery
-c5c96399-23bd-4b46-9db1-b376b86692a5,The Exiled,43.45,3,3,Mystery
-107a58f4-4dae-4d3b-b09c-86f7646bfd85,The Cuckoo's Calling (Cormoran Strike #1),19.21,3,1,Mystery
-ed033842-befa-420d-851a-56d98547e164,Extreme Prey (Lucas Davenport #26),25.4,3,3,Mystery
-760d769c-d694-41e5-a924-dccfbb3595a9,Career of Evil (Cormoran Strike #3),24.72,3,2,Mystery
-bd86854b-4e1a-4b14-8440-43130cf0e419,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,1,4,Mystery
-fa220472-0375-41f4-87e2-0ec757ad6f46,The Girl You Lost,12.29,1,5,Mystery
-226aed84-92c4-4538-8f38-045a28ce8b4d,The Girl In The Ice (DCI Erika Foster #1),15.85,1,3,Mystery
-fffd0321-1c84-4e53-8558-41874f700617,Blood Defense (Samantha Brinkman #1),20.3,1,3,Mystery
-b9274643-6758-46d3-b003-ed213c3a2c97,1st to Die (Women's Murder Club #1),53.98,1,1,Mystery
-5bc20596-cc6c-4117-a8c0-23960edc8aa5,Tipping the Velvet,53.74,20,1,Historical Fiction
-1b3cd4db-6c01-4d41-a259-93c03849a7ac,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,16,3,Historical Fiction
-0aa09b3e-13fc-4dac-83a0-32b9aefc2a16,A Flight of Arrows (The Pathfinders #2),55.53,16,5,Historical Fiction
-1bb48df5-cc07-4805-bfee-d5f9630cbb41,The House by the Lake,36.95,15,1,Historical Fiction
-16503d67-2101-4bab-9089-97e2af80f6ee,Mrs. Houdini,30.25,15,5,Historical Fiction
-fdb8ef54-10f9-4cfc-8f56-377f42240a1d,The Marriage of Opposites,28.08,14,4,Historical Fiction
-1068a6f9-7840-4a64-9d04-cb0a00a6eb7e,Glory over Everything: Beyond The Kitchen House,45.84,14,3,Historical Fiction
-696129c4-abab-4ce6-bffd-9647cbb9f139,"Love, Lies and Spies",20.55,12,2,Historical Fiction
-f7f5ffa4-1d29-4e06-b7bc-5feff886c31e,A Paris Apartment,39.01,12,4,Historical Fiction
-f4e69586-98dd-4271-a94e-5d7a40925937,Lilac Girls,17.28,11,2,Historical Fiction
-de263a00-5c89-430f-9544-9b2b5ef45274,The Constant Princess (The Tudor Court #1),16.62,7,3,Historical Fiction
-8860e79f-d33f-46f5-91df-7c7139c424ee,The Invention of Wings,37.34,6,1,Historical Fiction
-cec985b0-8fd5-4990-abe3-9821e5ad035c,World Without End (The Pillars of the Earth #2),32.97,5,4,Historical Fiction
-97c043f9-e908-4705-8afb-2e0bcd0c127d,The Passion of Dolssa,28.32,4,5,Historical Fiction
-42f89d2b-ae41-4f68-9903-2827cd4024c7,Girl With a Pearl Earring,26.77,4,1,Historical Fiction
-e9883161-3c3b-492a-b0e0-7c84ab4776d8,Voyager (Outlander #3),21.07,3,5,Historical Fiction
-a003a8cb-662a-49f4-9416-db96d57ce981,The Red Tent,35.66,3,5,Historical Fiction
-dbadaa43-75ef-4e6a-820c-64fc55305617,The Last Painting of Sara de Vos,55.55,3,2,Historical Fiction
-dda446bc-f0c1-4d22-bfeb-e928ef551adb,The Guernsey Literary and Potato Peel Pie Society,49.53,3,1,Historical Fiction
-be336f39-ca9c-4252-8bd8-6e14c896c9cc,Girl in the Blue Coat,46.83,3,2,Historical Fiction
-0d6d99d3-5a98-40aa-9839-ae69033607c2,Between Shades of Gray,20.79,3,5,Historical Fiction
-c58a0f64-9602-450d-a011-64585263d1b6,While You Were Mine,41.32,1,5,Historical Fiction
-776ca2c8-847d-48c1-8469-84aa165bdc8a,The Secret Healer,34.56,1,3,Historical Fiction
-a76c1a75-7717-4131-bf3b-f7d76ba10945,Starlark,25.83,1,3,Historical Fiction
-a62889d8-fd82-4494-b394-a99c0df6f87e,Lost Among the Living,27.7,1,4,Historical Fiction
-38b93754-8115-4053-b114-b7da837f5d9d,A Spy's Devotion (The Regency Spies of London #1),16.97,1,5,Historical Fiction
-cc5c201f-6993-45c7-9f15-da3144f9f507,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,19,5,Sequential Art
-b132dce2-33ea-4ed7-b3ad-d56d6b58a180,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,16,1,Sequential Art
-e4088177-4b94-422d-b6c5-bb2a2b8ab3be,This One Summer,19.49,16,4,Sequential Art
-449a0675-b75d-46d8-a653-ce708cbb0b3a,The Nameless City (The Nameless City #1),38.16,16,4,Sequential Art
-8055f2c2-68ad-41b2-9281-c61fd343dfed,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,16,2,Sequential Art
-b840656d-9486-4a32-9db1-9ca431339f89,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,16,3,Sequential Art
-50e6f2b4-442c-4b7a-af24-96504d48cb3f,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,16,5,Sequential Art
-09bdcbaf-f051-4408-be9f-d2d7307e6014,"Pop Gun War, Volume 1: Gift",18.97,16,1,Sequential Art
-dd80db18-6999-4483-8085-97a406ef2910,Patience,10.16,16,3,Sequential Art
-2300e51a-f39d-4c8d-9fbd-e56650aa8cd3,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,16,4,Sequential Art
-436f88a8-13a5-456a-a52a-11a22f4194fc,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,16,1,Sequential Art
-07180fcb-a031-4128-847a-e49048f5e92a,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,16,2,Sequential Art
-faca3a93-db0d-41f6-ac0a-464b1280cfef,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,16,3,Sequential Art
-33a8e04c-4571-4ecf-bd6e-b6c205914bb2,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,16,2,Sequential Art
-5777d9fc-8aba-4850-9cf7-689894391fba,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,16,2,Sequential Art
-58ab5fff-2f33-4f89-8ea2-a037b7cefbc7,I am a Hero Omnibus Volume 1,54.63,16,3,Sequential Art
-73a75e9c-ab72-4720-9ed4-59bd5aa4d9b2,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,16,2,Sequential Art
-d0fe3cd7-f75c-4704-9580-c9e91e5862f2,Danganronpa Volume 1,51.99,16,4,Sequential Art
-1c35cabb-8793-48ce-9703-1e97aa756d79,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,16,4,Sequential Art
-adc2e4f0-629f-48fd-9305-e0774572e9b4,Camp Midnight,17.08,16,4,Sequential Art
-4999252c-d534-45ab-86dc-d859043d8f82,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,16,2,Sequential Art
-2374ad5b-c7ac-4c43-a069-ac6e11eec88a,The Shadow Hero (The Shadow Hero),33.14,15,1,Sequential Art
-686f655b-4f24-48f4-a342-cc3d3e6ae5fd,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,15,4,Sequential Art
-3f94491d-54c0-480b-bb4a-582be11f7b70,Batman: The Long Halloween (Batman),36.5,15,2,Sequential Art
-f2e43b63-8a96-4634-ac1c-e521a5e9f8ad,Batman: The Dark Knight Returns (Batman),15.38,15,5,Sequential Art
-c0c2e787-220a-478c-a7f9-2144a95f7f7e,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,14,4,Sequential Art
-f3f62d3a-56e0-434a-87ac-a409ba1815ce,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,14,1,Sequential Art
-fa74440d-e4a2-470c-bb1e-f667943554d1,Through the Woods,25.38,14,2,Sequential Art
-89ab8636-7cb4-4d63-b3a1-ec6961c3a63a,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,14,5,Sequential Art
-a5d8c86f-a24c-48fd-9143-b20a22e8daf1,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,14,4,Sequential Art
-5052e60e-7742-4bfe-a51b-65fd5d09cb8f,Robin War,47.82,14,3,Sequential Art
-8bee724d-bbda-4043-91f4-0e379a2fe09d,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,14,2,Sequential Art
-d9b1d591-e01c-4462-b13c-35b8315efdc6,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,14,2,Sequential Art
-2a506c4e-3007-4ae6-9d81-515872f11588,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,14,2,Sequential Art
-ec4aa5ad-37aa-4110-922b-53edf243f2eb,El Deafo,57.62,14,5,Sequential Art
-e9631cfe-4233-46b2-b4b9-fbd5c7936162,Batman: Europa,32.01,14,2,Sequential Art
-993e25f5-c22f-41bf-972c-ee0bfa107925,Art Ops Vol. 1,48.8,14,3,Sequential Art
-c9143a31-7587-4f84-8703-16234076c85c,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,14,2,Sequential Art
-37548480-8791-4818-8092-bb6ef2d749b5,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,9,4,Sequential Art
-4745d4fe-4908-4a2c-8cb4-ab76016451a9,Roller Girl,14.1,8,5,Sequential Art
-c8be00ae-9a33-43c7-997e-df61a6f44087,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,7,1,Sequential Art
-b01e5fa4-55e8-4f19-8129-a2c62446967d,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,6,4,Sequential Art
-ee574313-1379-4960-a90c-b000cec3692c,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,6,3,Sequential Art
-a82d2137-ea22-44b2-be3c-8e6352f4bafb,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,5,1,Sequential Art
-566cdcea-8dc5-44c2-9b35-1f728dc74d42,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,5,1,Sequential Art
-23472ec7-24cd-4ea7-9776-983ee96e1e8d,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,4,2,Sequential Art
-dadae04d-90f6-4cd2-a3e0-05885e6d72c5,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,4,4,Sequential Art
-71509205-1596-4b60-b617-336ab2ffde13,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,3,3,Sequential Art
-1d3d6dec-18b6-47a5-bc90-a847772e6e9c,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,3,5,Sequential Art
-63748a9c-8699-46ee-b909-57f45634012f,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,3,5,Sequential Art
-454bf1da-cbfa-4e57-a05c-20e90a738808,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,3,3,Sequential Art
-ca79d1cf-b65f-45b0-abcd-f3c77079730c,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,3,1,Sequential Art
-71397fbc-7855-4689-964a-74f3bd98795c,Original Fake,31.45,3,3,Sequential Art
-8bbc3587-a6d7-40ce-be9b-7467d26b5671,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,3,1,Sequential Art
-c6e8d492-6918-4e4f-98e6-ac459ac8e597,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,3,2,Sequential Art
-a3e256b4-d002-481f-92fb-9fcd85cd415b,"Black Butler, Vol. 1 (Black Butler #1)",49.31,3,1,Sequential Art
-6ffc0225-b196-4707-9358-5bb88362963a,Awkward,38.02,3,2,Sequential Art
-27c722cf-adde-4ee2-91ea-41cf4c604c47,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,2,1,Sequential Art
-172094fd-8b94-4c0d-9c21-42f76e854bfd,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,2,3,Sequential Art
-e0141a97-93e7-4d2e-999d-d1c0271bf03b,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,2,5,Sequential Art
-6e929aba-e608-460a-a412-4802cc9496f8,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,1,4,Sequential Art
-4a4261c9-b51d-47ac-8d39-aa3b5f8e38f8,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,1,2,Sequential Art
-183d7b88-b970-4b80-a9cf-8fe8236bd873,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,1,3,Sequential Art
-9736d33e-e124-4626-a81c-cdadfeb3a8fa,The Complete Maus (Maus #1-2),10.64,1,3,Sequential Art
-fce6e7bc-5bbf-4a9c-8aa6-67fde2d27a4d,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,1,3,Sequential Art
-f145788f-6446-4a7e-94de-34f79d64c295,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,1,1,Sequential Art
-686c690a-0868-4d37-ac03-4bb9b3f92894,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,1,5,Sequential Art
-e92a603b-4a5a-4ce3-b336-eb3e8d5deead,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,1,4,Sequential Art
-98906bba-0699-475b-9984-0bccea0b9e77,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,1,3,Sequential Art
-b7bd8b7e-6a28-402a-a4db-a95cee31e0ab,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,1,4,Sequential Art
-a071971c-362f-40d4-abb0-d341bfa52cb6,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,1,3,Sequential Art
-06aaee1e-e2b6-45dd-8b65-f1e8db6a88f2,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,1,4,Sequential Art
-0469e907-39d2-4248-af41-42fe110e06c8,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,1,5,Sequential Art
-c4ef3bf1-eeaa-4b9c-806d-4164f0553711,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,1,5,Sequential Art
-574ede14-23e2-4787-a186-71f334508f28,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,1,4,Sequential Art
-33b2f420-e4c1-4eef-8e69-324aee504d5e,The Secret Garden,15.08,5,4,Classics
-a38eda69-fce9-41ed-96a7-8e77b099dfda,The Metamorphosis,28.58,5,1,Classics
-a9e4def9-1e76-4607-b9ee-a19d1078117a,The Pilgrim's Progress,50.26,4,2,Classics
-9921a481-5d30-433e-aa1b-379fd8ad0f4d,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,4,2,Classics
-c320dc50-32f0-446c-8ca3-369beefe0002,Little Women (Little Women #1),28.07,4,4,Classics
-db702bdf-2be8-40c2-82bb-80f66e9a8a28,Gone with the Wind,32.49,4,3,Classics
-d9bc850c-7e2f-46be-b178-b1b95a69861d,Candide,58.63,4,3,Classics
-4fb9fd73-0989-4b42-83e4-97b919fce62a,Animal Farm,57.22,4,3,Classics
-066433ac-35c4-42d0-9be5-84b0fd9a6841,Wuthering Heights,17.73,3,3,Classics
-63532513-2e7d-4b7d-a926-b2d82da8eafb,The Picture of Dorian Gray,29.7,3,2,Classics
-53cebc82-6178-4e5c-af83-ea9619d5ec13,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,3,4,Classics
-c3c9396a-9ecc-42e9-ba50-cbdeb3d740f0,Beowulf,38.35,3,2,Classics
-b809de2e-e46a-4326-9379-09169ef37be4,And Then There Were None,35.01,3,2,Classics
-c41c445e-ec76-491a-b3ef-22cb47d36181,The Story of Hong Gildong,43.19,1,4,Classics
-b0878b3f-94ed-4b11-8960-a1f32eea2fc1,The Little Prince,45.42,1,2,Classics
-e6558767-af0a-4fcd-af9e-286cc11a6bac,Sense and Sensibility,37.46,1,1,Classics
-259f6e80-50fd-4b92-9aba-70bc21fab56f,Of Mice and Men,47.11,1,2,Classics
-fca8a2be-017e-4449-8fd9-68e0302bab53,Emma,32.93,1,2,Classics
-0bee73a8-b0c4-4958-87f5-b52a9cbd30eb,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,1,1,Classics
-6da07678-26db-4a92-add8-7d11c5663d80,Sophie's World,15.94,18,5,Philosophy
-7fb9c5b9-f3ec-4176-9de9-62a8916392ca,The Death of Humanity: and the Case for Life,58.11,16,4,Philosophy
-dba0d441-a617-4ead-b837-afca57372db2,The Stranger,17.44,15,4,Philosophy
-2157517c-1a4e-4bfd-87a0-72a57b4ccc42,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,8,1,Philosophy
-5ca41d69-7f0c-4d25-98f7-ed55bd96a1f2,Kierkegaard: A Christian Missionary to Christians,47.13,8,1,Philosophy
-79aed4b1-ef88-4d22-84d2-502c57713db2,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,7,5,Philosophy
-e9f992ef-5481-4512-baf6-b6d9821ae6cf,Critique of Pure Reason,20.75,5,1,Philosophy
-551ad177-7864-455b-85c5-e4628619ea3d,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,2,1,Philosophy
-649ae4d2-f5de-4708-a4ca-95bab2ae0f9a,The Nicomachean Ethics,36.34,1,1,Philosophy
-bc0b50ff-bda7-4f8d-abcc-a43b538be992,Meditations,25.89,1,2,Philosophy
-773e0f84-75d8-493b-a4f3-87098f709b7e,Beyond Good and Evil,43.38,1,1,Philosophy
-2ffcc2e1-5844-4714-b972-c3dba4335f5b,Chase Me (Paris Nights #2),25.27,19,5,Romance
-cc1830de-0ff4-43e3-860c-9c1e5d815a3a,Black Dust,34.53,19,5,Romance
-bd1e2aa7-5dd6-468d-9e12-1bf82799422f,Her Backup Boyfriend (The Sorensen Family #1),33.97,16,1,Romance
-1874cac2-475a-4330-a2fc-d1edaba1728f,First and First (Five Boroughs #3),15.97,16,4,Romance
-478c05f4-6a8e-4225-a4c0-a2d278c86f2d,Fifty Shades Darker (Fifty Shades #2),21.96,16,1,Romance
-53d1c6b8-ceae-4218-9722-e1cf08551571,The Wedding Dress,24.12,15,1,Romance
-9e40a9ea-e654-4a09-931b-3cec23d63dbb,Suddenly in Love (Lake Haven #1),55.99,15,2,Romance
-2a43ddf8-bb61-4da3-ab23-9f1e01ebf4dd,Something More Than This,16.24,15,4,Romance
-50892cc6-8174-400c-9d6b-677333ef4194,Doing It Over (Most Likely To #1),35.61,15,3,Romance
-df5abb15-9a4a-4143-9376-9cd8ecbf23f7,The Wedding Pact (The O'Malleys #2),32.61,14,3,Romance
-8f62c25d-e651-4255-995e-89ae661ca809,Hold Your Breath (Search and Rescue #1),28.82,14,1,Romance
-eee9a23b-f920-443c-b192-c41f2147e748,Dirty (Dive Bar #1),40.83,12,4,Romance
-d7bf736e-a5a6-4da4-8be5-60fad0bde164,Take Me Home Tonight (Rock Star Romance #3),53.98,11,3,Romance
-3acf001e-e22a-4c3c-b6ef-839f349d8245,Off the Hook (Fishing for Trouble #1),47.67,11,3,Romance
-d484ca07-736f-4277-ac50-c3938a1e8a29,A Gentleman's Position (Society of Gentlemen #3),14.75,11,5,Romance
-6433f3dd-7ba4-49d5-870f-04dbf5a22fc8,"Sit, Stay, Love",20.9,7,3,Romance
-a7defe40-0405-4a18-8e27-4eb4400bd685,A Girl's Guide to Moving On (New Beginnings #2),31.3,5,1,Romance
-b92cf05a-bc9f-471f-94c0-aceaa46bf684,The Perfect Play (Play by Play #1),59.99,4,3,Romance
-e41fc868-b711-4f61-bbae-9afbb0162724,Dark Lover (Black Dagger Brotherhood #1),12.87,4,1,Romance
-e45b8269-f0df-4602-8891-d03c6522516b,Changing the Game (Play by Play #2),13.38,4,3,Romance
-1f0bf6e2-1c46-402b-9240-6ee5a20bc15d,A Walk to Remember,56.43,4,1,Romance
-86ea2d47-60fb-4686-a135-4c700477469f,The Purest Hook (Second Circle Tattoos #3),12.25,3,1,Romance
-3365d960-8dc9-4a11-883f-a7fe58021da6,The Obsession,45.43,3,1,Romance
-0575a919-f82b-4b8c-8dc2-1a39ccc5c5ce,Reservations for Two,11.1,3,3,Romance
-9223e63e-6782-48a2-a5a9-6f04f4c5347c,Best of My Love (Fool's Gold #20),27.41,3,2,Romance
-b6c46e77-7c6f-4356-ba56-f2e1a8d2b761,Where Lightning Strikes (Bleeding Stars #3),39.77,1,3,Romance
-77c0bd3b-553a-49c7-a9c2-2d200589c0b1,This One Moment (Pushing Limits #1),48.71,1,1,Romance
-65c6641a-7318-400f-a9e7-8f1c021b3b23,"Rhythm, Chord & Malykhin",28.34,1,2,Romance
-b4c5b764-5b27-41f2-919c-020b3648830e,My Perfect Mistake (Over the Top #1),38.92,1,2,Romance
-9f62f6ef-d67d-4c73-bbb8-bc11e44d996f,Listen to Me (Fusion #1),58.99,1,3,Romance
-ff994a2a-983c-42ec-a3f2-bbd60b814913,Imperfect Harmony,34.74,1,4,Romance
-f11c7a1a-b4b0-4bc9-963d-dbf9c520ee0b,Fighting Fate (Fighting #6),39.24,1,3,Romance
-dc85a618-7ebe-4537-98bc-fcade6d92063,Deep Under (Walker Security #1),47.09,1,5,Romance
-5371fb61-f266-4e36-98ba-463a0d2c876c,Charity's Cross (Charles Towne Belles #4),41.24,1,1,Romance
-ee4d48ad-e1a1-4d94-bce1-b47dcedef2cc,Bounty (Colorado Mountain #7),37.26,1,4,Romance
-8d910438-e1f3-479f-95f4-3d22377d1c45,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,15,4,Womens Fiction
-553df981-469b-437c-a0d5-15ab861e3548,Will You Won't You Want Me?,13.86,12,3,Womens Fiction
-a2ca7343-9a1c-4dd2-b6a5-9bdae08cefd2,Keep Me Posted,20.46,11,4,Womens Fiction
-2ad9da47-aa85-456f-8a11-f20fc734be82,Grey (Fifty Shades #4),48.49,11,4,Womens Fiction
-a6a6068a-2bd6-4464-b289-7e9b5a18ef76,Meternity,43.58,7,3,Womens Fiction
-c741092e-5c85-44ff-a30c-66f52db37944,Some Women,13.73,4,5,Womens Fiction
-ff6a080c-7935-412c-9b25-477729796a50,Shopaholic Ties the Knot (Shopaholic #3),48.39,4,5,Womens Fiction
-ca639240-9d63-43ff-af0a-ad9e5998f0f5,Can You Keep a Secret?,21.94,4,1,Womens Fiction
-e5e06f31-fde0-4048-8083-65c9d9a93764,Twenties Girl,42.8,3,2,Womens Fiction
-1a0d8309-1e0a-4daa-aa03-9bd2c997c462,The Undomestic Goddess,45.75,3,4,Womens Fiction
-0b35316a-bfe6-4ef8-a580-d246846179b5,The Nanny Diaries (Nanny #1),52.53,3,5,Womens Fiction
-9fad71a3-1e63-45f0-a432-02ec1513c768,The Devil Wears Prada (The Devil Wears Prada #1),44.29,3,1,Womens Fiction
-3aa05a37-39c9-41d4-a6e1-04be5d83e5bf,Something Borrowed (Darcy & Rachel #1),48.96,3,5,Womens Fiction
-f0cdb385-2bdf-413a-b1f9-a8535e67b105,Something Blue (Darcy & Rachel #2),54.62,3,1,Womens Fiction
-a3c714d5-8a46-4bff-ac9d-8b03c36e934a,I've Got Your Number,19.69,3,1,Womens Fiction
-f6f785a7-1da9-4186-9ee6-a4c598debb54,The Edge of Reason (Bridget Jones #2),19.18,1,4,Womens Fiction
-18cec373-fa26-4150-a7ab-0031ebfaafe0,Bridget Jones's Diary (Bridget Jones #1),29.82,1,1,Womens Fiction
-83d1e7ba-6bf8-4b8f-8b96-0b6f00bcd161,Soumission,50.1,20,1,Fiction
-55f1cde9-eae9-4577-a043-79efe2ef87d9,Private Paris (Private #10),47.61,17,5,Fiction
-a3a1aabe-946a-4e18-8554-682ed0dd57f9,"We Love You, Charlie Freeman",50.27,16,5,Fiction
-55ae20f0-ed75-443a-9bfb-606abd39a884,Thirst,17.27,16,5,Fiction
-b087fb7e-8ecd-4027-9528-7bf46131e7ca,The Murder That Never Was (Forensic Instincts #5),54.11,16,3,Fiction
-88061622-2a4a-4659-8da6-162a9d9afb2f,Tuesday Nights in 1980,21.04,15,2,Fiction
-c7381295-09ea-4c5c-ad76-ba2bb94cff28,The Vacationers,42.15,15,4,Fiction
-81fc8629-0e3e-423f-88d2-fc1cdba94ad9,The Regional Office Is Under Attack!,51.36,15,5,Fiction
-51aa725a-9021-4071-abb6-5d86758432e9,Finders Keepers (Bill Hodges Trilogy #2),53.53,15,5,Fiction
-c7e2752e-9c4a-4c3e-bb0e-63524af756cd,The Time Keeper,27.88,14,5,Fiction
-ce0e097c-1f56-4a14-bee8-baf9d90e45f0,The Testament of Mary,52.67,14,4,Fiction
-94b376b6-4b43-4f25-9e87-6fb5c1da8ed3,The First Hostage (J.B. Collins #2),25.85,14,3,Fiction
-e30b1d96-7271-46bf-b646-2a768d76300b,Take Me with You,45.21,14,3,Fiction
-7c5dc478-e1c3-4a03-8d41-e84fd7d6d8a3,Still Life with Bread Crumbs,26.41,14,3,Fiction
-263a016a-37e1-4f65-8c3a-15e81c2a2de7,Shtum,55.84,14,4,Fiction
-ecd6a5b0-c9a6-4d86-af87-b4d1cc0f6db6,My Name Is Lucy Barton,41.56,14,1,Fiction
-c497af34-af75-4863-8b84-02550774f080,My Mrs. Brown,24.48,14,3,Fiction
-3bb518b0-4833-4f05-a3e7-ad9a8f44cff6,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,14,1,Fiction
-d2a6b793-35d1-40b3-b07d-0b78ed8e6c30,I Am Pilgrim (Pilgrim #1),10.6,14,4,Fiction
-b93df388-2cd0-4bca-bb3f-954e2813c2f7,Eligible (The Austen Project #4),27.09,14,3,Fiction
-bb861d13-665c-4f23-9e33-75e42229e556,Eight Hundred Grapes,14.39,14,4,Fiction
-067c1a08-5b47-4984-8f58-ce5fad0e9fd0,Dear Mr. Knightley,11.21,14,5,Fiction
-62563304-40c4-4773-8f8e-cf7086f0b279,Cometh the Hour (The Clifton Chronicles #6),25.01,14,3,Fiction
-5cabee47-6795-4279-a916-919c0a1b3267,Balloon Animals,17.03,14,3,Fiction
-7ad612ad-4a90-4747-85bb-d5b413e54a20,A Man Called Ove,39.72,14,1,Fiction
-fcb16181-c5bb-4ac6-9a67-a24fa85aff0c,The Silent Sister (Riley MacPherson #1),46.29,12,5,Fiction
-19d76624-7b03-4b7b-ba90-35113fd2319d,The Dinner Party,56.54,12,2,Fiction
-4cb709c7-2a1a-4503-b3fe-0b3f699e0997,The Improbability of Love,59.45,11,1,Fiction
-8dc81629-c24b-4052-b134-060b43349788,Mothering Sunday,13.34,11,2,Fiction
-c311f377-c83f-4cdd-b648-0a9dd4beb441,Lies and Other Acts of Love,45.14,11,1,Fiction
-c9eb37f4-0fc7-4cc4-8402-b9d2e6d63a2e,Daredevils,16.34,11,3,Fiction
-e142483d-7a14-4079-8f43-c696b4c2f279,11/22/63,48.48,11,3,Fiction
-aa98a08b-e3fe-4229-a57f-7ef47ee9ee0b,The Shack,28.03,9,1,Fiction
-f15a51e3-3aae-4bc3-890b-fa5e540108d0,The High Mountains of Portugal,51.15,8,1,Fiction
-e375d41f-cbd7-4447-b645-d2bc48a18777,Miller's Valley,58.54,8,2,Fiction
-bbaa0817-88f1-4524-b8a6-a5c891fe7016,Hystopia: A Novel,21.96,8,4,Fiction
-1ae89f3e-9e4e-4af6-a9ce-bfc316caf959,The Bourne Identity (Jason Bourne #1),42.78,7,4,Fiction
-103af11b-c24a-4986-9297-cf937d9f0df6,Sister Dear,40.2,7,4,Fiction
-afa6a52a-3306-4c7b-9a43-d65ef4f77ddf,Memoirs of a Geisha,49.67,7,3,Fiction
-52890eaa-5d3d-4602-bbf2-033cb0ddda40,Me Before You (Me Before You #1),19.02,6,1,Fiction
-82f93ddf-aa0b-416d-96e0-c0ddb2b439a2,Deception Point,40.32,6,4,Fiction
-da8dc1ee-97f4-410a-b74f-c5fc2e6e56da,The Little Paris Bookshop,24.73,5,3,Fiction
-0bfca7ee-be13-485a-b237-ecea16ede112,The Firm,45.56,5,3,Fiction
-295fb8cc-0fff-4a7b-be59-86bf2e1d9f95,The Expatriates,44.58,5,2,Fiction
-53bb08fc-d14a-4f0c-a471-44e3667a3681,Siddhartha,34.22,5,5,Fiction
-624c7282-0ecc-412e-a1a6-4e6c2ecd6937,Last One Home (New Beginnings #1),59.98,5,3,Fiction
-d57f2597-8214-4647-973e-be2d11cb6d91,Digital Fortress,58.0,5,5,Fiction
-8edf53e6-4b8f-457f-ad03-c8a7ce08e83c,Atlas Shrugged,26.58,4,5,Fiction
-f5c7968b-cd11-496b-9874-c9da7b81b4b5,Three-Martini Lunch,23.21,3,3,Fiction
-5b035b2f-6374-4f19-bd11-d501f219e77b,The Nightingale,26.26,3,4,Fiction
-7795cd62-b690-4829-9df3-e4d6841931c1,The Infinities,27.41,3,1,Fiction
-047ff2b3-b77b-4884-9d77-d0337da37884,The Husband's Secret,52.51,3,5,Fiction
-8b9a35de-b6fe-4eff-82bf-3c1b779fe603,The Da Vinci Code (Robert Langdon #2),22.96,3,2,Fiction
-a8f7c7f1-3a07-4366-9a6b-3e63d74b95eb,The Art of Fielding,22.1,3,1,Fiction
-4d2f8fb5-76ee-4515-b6a8-b89d3dd8f839,Lila (Gilead #3),12.47,3,3,Fiction
-9091444f-4877-43a1-b2b3-cdd4e94fe80f,Jurassic Park (Jurassic Park #1),44.97,3,1,Fiction
-5c298043-1394-4743-9a49-023f4508a787,Inferno (Robert Langdon #4),41.0,3,5,Fiction
-c8c47b99-8570-4909-87eb-ce0d305adea9,Crazy Rich Asians (Crazy Rich Asians #1),49.13,3,5,Fiction
-5340104c-79e8-4325-a53c-b382daaf21a9,Big Little Lies,22.11,3,1,Fiction
-927a720e-8d75-449d-96f8-6607314cfb0b,The Course of Love,16.78,2,3,Fiction
-baa85e49-3024-4739-9629-c6964d956f5f,When I'm Gone,51.96,1,3,Fiction
-74c453fa-8f02-4f71-a488-48bec6371f74,The Silent Wife,12.34,1,5,Fiction
-a6b6c25b-34c8-4f07-ae1a-dc02c88ca6a6,The Bette Davis Club,30.66,1,3,Fiction
-37932291-25ed-4b24-a9b1-be0822b6fd0a,Kitchens of the Great Midwest,57.2,1,5,Fiction
-0c4ef876-e9dd-43de-b2a5-a986ee85a5c4,Bright Lines,39.07,1,5,Fiction
-a396425d-ed71-4066-bdc0-ab8913765322,Birdsong: A Story in Pictures,54.64,19,3,Childrens
-3ccf8be8-8d67-484f-ac00-18ac5fcda5d8,The Bear and the Piano,36.89,18,1,Childrens
-5a46521c-b95e-4b7e-a91c-0750c6f8b2c2,The Secret of Dreadwillow Carse,56.13,16,1,Childrens
-0b35e069-e23a-4ffe-9317-09c88b8375c0,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,15,4,Childrens
-85583a9e-c2f1-422a-a631-cfe9beb0b38f,Little Red,13.47,15,3,Childrens
-17217e8d-6854-4a03-a98f-9b1ffb84307f,Walt Disney's Alice in Wonderland,12.96,14,5,Childrens
-623e9fb7-5ce3-435e-9269-86669153b2ae,Twenty Yawns,22.08,14,2,Childrens
-3ef8fac6-2261-4087-b467-5ee6f3475f3c,Rain Fish,23.57,14,3,Childrens
-ced96ab4-3a0b-402f-a53c-b677310aa1ff,Once Was a Time,18.28,14,2,Childrens
-8ecbb36b-c587-4007-90ed-423e51e12f37,Luis Paints the World,53.95,14,3,Childrens
-2cd5db91-c548-4d5d-8494-5534ddf11877,Nap-a-Roo,25.08,9,1,Childrens
-e05690aa-fcb3-4750-b01a-9453950a36f6,The Whale,35.96,7,4,Childrens
-0277d5e6-53e7-4792-83ac-037719afb200,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,7,3,Childrens
-9d2f6997-afb1-47f6-ae6c-77188bc67d2e,Raymie Nightingale,34.41,7,2,Childrens
-088b4166-9889-4d33-a7e0-453264ff53e6,Playing from the Heart,32.38,7,1,Childrens
-0f91d075-6fdc-465c-96f9-dfbcee4390b5,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,5,1,Childrens
-f34ab6a1-ea23-4bf2-a514-7d40a5b57b42,The Wild Robot,56.07,3,3,Childrens
-3b84622b-7fb7-4f12-a363-96dbd5c86ada,The Thing About Jellyfish,48.77,3,1,Childrens
-3894d54b-297c-4456-9aa7-6d24487118a6,The Lonely Ones,43.59,3,5,Childrens
-98fbd54d-ab5f-4135-a9c2-e960cb2f24cd,The Day the Crayons Came Home (Crayons),26.33,3,5,Childrens
-3c593963-7430-4dbf-aba3-ead999545d86,The Cat in the Hat (Beginner Books B-1),16.26,3,2,Childrens
-02333209-ff7c-43d2-bf4b-c7a3d6d2360b,Red: The True Story of Red Riding Hood,28.54,3,3,Childrens
-ee327bd0-ad7e-45a4-b000-6603b6c7e53a,Horrible Bear!,37.52,3,2,Childrens
-18e53e04-77d7-4188-8fdc-fec1be87d85c,Green Eggs and Ham (Beginner Books B-16),10.79,3,4,Childrens
-72e0c93c-a463-4148-85ca-325c9658fa9e,Counting Thyme,10.62,3,1,Childrens
-023b8ded-330b-470d-95ff-0ca7260fd415,Are We There Yet?,10.66,3,3,Childrens
-5dfb00b6-d5e6-461a-9ec0-78a2edc0c5fc,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,2,4,Childrens
-85fbae4f-2613-44eb-ba69-09ce48b49bab,Matilda,28.34,1,1,Childrens
-f8a0995a-1a91-4d50-9157-6bf90904f12b,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,1,3,Childrens
-db618c0a-7a98-4d5e-89a5-ad5787a448fb,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,16,2,Religion
-85445ed9-1c25-44d0-b7f5-9ef227b3b1ba,You Are What You Love: The Spiritual Power of Habit,21.87,15,4,Religion
-d2de45e8-cd67-4121-bc00-e82929aa691d,God: The Most Unpleasant Character in All Fiction,30.03,14,5,Religion
-7e2205f5-4c9c-499a-a614-43da431c8915,The Book of Mormon,24.57,9,3,Religion
-66c23823-4b19-4a5f-992f-5f74dd08ec88,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,4,1,Religion
-12c7fb5a-8f33-4346-986b-3ba8e0281e00,The Bhagavad Gita,57.49,1,3,Religion
-f056f206-ecc0-4ded-85ae-e5e2aefeb983,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,1,4,Religion
-6f19374e-d79e-4139-a346-80ca2eede474,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,18,5,Nonfiction
-c160d4ce-7960-4de7-a07b-68697c639ffa,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,18,3,Nonfiction
-86a94a2a-9e41-46be-9543-7f105492beb9,Reasons to Stay Alive,26.41,17,2,Nonfiction
-56b00cbe-bb12-4a8f-bbf3-73748597c74c,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,17,5,Nonfiction
-d09d3e10-44a2-4881-8f51-75a2cee154cf,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,16,4,Nonfiction
-b47e7eee-b404-4029-a7f8-99f14afbc764,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,16,3,Nonfiction
-7b1e130b-8c18-4179-9618-bceb75dd0925,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,16,3,Nonfiction
-b4b261e3-8fb2-4f56-a506-307885dfd4d1,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,16,1,Nonfiction
-0b2c428f-39b6-4c4d-a695-3a62514fd840,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,16,1,Nonfiction
-39f50826-e520-462b-a200-e52b507bafeb,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,16,4,Nonfiction
-2589855e-8bfd-4220-9554-6d7774579103,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,16,2,Nonfiction
-c89fa55a-9847-48d2-bcea-128f8ff7dacd,In the Country We Love: My Family Divided,22.0,16,4,Nonfiction
-9c347475-846b-4ae5-9c24-9f045e3c169b,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,16,2,Nonfiction
-4b50b5f0-3af3-45cc-bd1a-c3c0b492880c,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,16,5,Nonfiction
-4ffb88c2-d55c-401b-8bba-20ff8d5e2604,Algorithms to Live By: The Computer Science of Human Decisions,30.81,16,1,Nonfiction
-b6a69be7-fbf4-4f04-a48b-e67c007e587b,The Power of Now: A Guide to Spiritual Enlightenment,43.54,15,2,Nonfiction
-cff17e03-c80b-4737-bc44-9ef79e80878b,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,15,2,Nonfiction
-3a40df7b-6fed-4e90-aab7-dc7429303885,The Genius of Birds,17.24,15,1,Nonfiction
-88d9d7ec-8c55-4662-9e80-1acc31978b53,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,15,5,Nonfiction
-d25565b1-122f-4b78-8eb5-d7da6428cf49,So You've Been Publicly Shamed,12.23,15,2,Nonfiction
-1024f500-83c8-4fac-a5b3-7539d4305794,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,15,3,Nonfiction
-2a8e0b39-cce6-417a-b4e6-39487ea07b49,Big Magic: Creative Living Beyond Fear,30.8,15,3,Nonfiction
-13f4facc-8f6e-4015-a988-69b20b1834c8,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,15,2,Nonfiction
-545aeead-f29a-4c30-bc80-6e5798ffb0c1,Agnostic: A Spirited Manifesto,12.51,15,5,Nonfiction
-e63443be-5525-458d-96bd-d0f94f70496d,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,14,4,Nonfiction
-26755dd6-ae0c-4e62-a93e-81271ba63945,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,14,2,Nonfiction
-17d4d348-7aa5-4099-b208-ca3cc0fd6186,The Year of Magical Thinking,43.04,14,2,Nonfiction
-d8ec6c6e-e89b-4667-b3b3-ff1d0eb2cc52,The Literature Book (Big Ideas Simply Explained),17.43,14,3,Nonfiction
-f077896e-05ed-4e69-9a4a-ec85a0d5de68,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,14,1,Nonfiction
-d7699442-41d5-497b-bb7b-f4b42c91d96d,Swell: A Year of Waves,45.58,14,1,Nonfiction
-595e7387-b7e1-4ee8-9d08-d67b1de061f2,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,14,2,Nonfiction
-17de3e05-662a-444e-a829-217a50c5bd1e,Looking for Lovely: Collecting the Moments that Matter,29.14,14,5,Nonfiction
-f5907186-6172-4111-80a4-184f9cd735c6,Let It Out: A Journey Through Journaling,26.79,14,5,Nonfiction
-a9f89db4-1d41-4c65-9cd7-20e83aba323e,Hamilton: The Revolution,58.79,14,3,Nonfiction
-f7e0c1c4-c5cb-4e09-82b2-911d292d5127,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,14,4,Nonfiction
-2dae5137-4ecb-4ac5-8b27-28d91175491a,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,14,5,Nonfiction
-1f745118-c733-4371-b10e-e0568e562e16,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,14,4,Nonfiction
-b24e6a34-18ed-4156-8e3f-d5e28acf0fea,Brain on Fire: My Month of Madness,49.32,14,5,Nonfiction
-0f7c6d5c-0707-4f0c-9d3b-612567a573de,Abstract City,56.37,14,5,Nonfiction
-0f282e1e-3cd6-40e3-b195-18944577499f,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,13,1,Nonfiction
-aeb81645-0ac6-42b3-a9cc-682dfdbedc29,The Lonely City: Adventures in the Art of Being Alone,33.26,12,2,Nonfiction
-20ba1f23-f75e-4779-998f-cc7bff6f4702,The Diary of a Young Girl,59.9,12,3,Nonfiction
-ae5e5e6f-0d8f-4f73-b4e2-05146012fc15,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,12,3,Nonfiction
-81c51ee5-80a4-4063-8b3a-a9259904166f,Furiously Happy: A Funny Book About Horrible Things,41.46,12,4,Nonfiction
-61528e1d-b075-4f00-9d75-e7ab932705ae,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,11,4,Nonfiction
-73b6b5ec-793b-42fa-b68c-ac1ffcc04e11,"Mother, Can You Not?",16.89,11,5,Nonfiction
-ade66e61-1fd6-44c1-a793-67fe038698a8,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,11,3,Nonfiction
-71f76dcb-1e2b-4de5-9746-a654d24ec6e9,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,10,2,Nonfiction
-aeb964f0-fbd5-4567-845c-d31eb306edb3,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,9,2,Nonfiction
-a57783af-ce25-4605-8933-0aae5ae94a83,"Zero to One: Notes on Startups, or How to Build the Future",34.06,8,3,Nonfiction
-e569ed2c-41e8-4d67-9283-b3a2f0391e09,Why Not Me?,17.76,8,1,Nonfiction
-8c0593dc-0f46-4242-95e8-ec8e57ddf6a5,When Breath Becomes Air,39.36,8,2,Nonfiction
-b4c69626-6c51-4e34-ad79-7fbb59deae6a,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,8,4,Nonfiction
-2c07e1e5-8d7b-4398-a979-2391eb444bc0,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,8,5,Nonfiction
-17290772-747c-4131-81ef-804a85c18eb6,Rising Strong,21.82,8,3,Nonfiction
-df70a4c7-f534-4ce9-95c4-f23a089c7d50,Man's Search for Meaning,29.48,8,3,Nonfiction
-ac3292b3-4e45-45bf-ad02-034d990affde,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,8,2,Nonfiction
-d822c0dc-8f04-41d5-973b-9fb0b0e76f13,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,8,3,Nonfiction
-8e4f58f8-0960-423e-b865-c77e603c6037,I Will Find You,44.21,8,1,Nonfiction
-5fd1cf80-3646-4ba2-8f6e-4b8c250c97c1,Brazen: The Courage to Find the You That's Been Hiding,19.22,8,2,Nonfiction
-02e56f80-0dde-4a96-8a74-dd6f734ffb8e,Between the World and Me,56.91,8,4,Nonfiction
-3b697398-d9e7-4aae-9936-2a921f4d1848,Being Mortal: Medicine and What Matters in the End,55.06,8,4,Nonfiction
-84d4f4b3-62f1-424b-bf7f-b72b25b129d3,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,8,3,Nonfiction
-bc755439-e49a-4d11-8277-d3cfe1140fb5,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,7,3,Nonfiction
-85aed89f-76c4-4c1e-ac4b-239c05ebc77e,Finding God in the Ruins: How God Redeems Pain,46.64,7,2,Nonfiction
-d8d94e7a-e23d-4aa4-89d1-cabb82cd5a2b,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,6,4,Nonfiction
-b1848017-d4f7-407f-bdb3-8eee2f33c4ae,In Cold Blood,49.98,6,4,Nonfiction
-52217120-4c4a-4580-80f2-b6dc80459595,"Girl, Interrupted",42.14,6,3,Nonfiction
-c1439fdc-94ea-436c-8ede-e6ed30c15626,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,5,2,Nonfiction
-dfc245e5-eead-4b4a-8396-5e53113617e3,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,5,4,Nonfiction
-164cbb22-8cd5-4a84-b097-cc25e4c599c7,My Mother Was Nuts,31.63,5,4,Nonfiction
-63378911-6a2d-4db7-90b9-fb95e8e5b491,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,5,3,Nonfiction
-37068a1b-04c9-40be-a894-4260ad00f9ba,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,4,3,Nonfiction
-4011d2f3-dbd9-4e76-8567-a0a7accc4c63,The Gunning of America: Business and the Making of American Gun Culture,16.81,4,4,Nonfiction
-0180b4cc-eb6c-4599-9ba6-5d4397fde601,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,4,2,Nonfiction
-7c1215ed-5bf5-4c34-9aed-bf4dc527d3bd,God Is Not Great: How Religion Poisons Everything,27.8,4,1,Nonfiction
-39bc9c6f-1dc5-4c1d-9801-2e3128f9ae74,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,3,3,Nonfiction
-ad33f5d7-4ca0-4769-9b69-f49cab3a80ca,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,3,3,Nonfiction
-e5d60fc6-69bd-4ea3-a31c-a478783e325d,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,3,1,Nonfiction
-0a626fa0-5387-4177-8be9-2742c52d81d7,Under the Banner of Heaven: A Story of Violent Faith,30.0,3,1,Nonfiction
-095a645a-c8bc-411e-91f1-9ebc86cf1597,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,3,1,Nonfiction
-7b78b3da-8f28-4e99-9dad-77db5f163e70,The Name of God is Mercy,37.25,3,2,Nonfiction
-96310a1e-0efe-4e78-9612-d6b7c5521e1e,Stiff: The Curious Lives of Human Cadavers,36.74,3,3,Nonfiction
-7451afab-4d61-47e7-a823-9290f2399698,Spilled Milk: Based on a True Story,49.51,3,1,Nonfiction
-fa571ea3-10a1-48a0-a4a1-50b87207ba4e,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,3,4,Nonfiction
-35c219db-c240-452a-b2db-1ef523b8e721,Outliers: The Story of Success,14.16,3,1,Nonfiction
-a5346447-1880-41bb-87a1-cd4ea9722542,Notes from a Small Island (Notes From a Small Island #1),40.17,3,1,Nonfiction
-76177a38-d85c-4fcf-8178-e6ad61b30eaf,Night (The Night Trilogy #1),13.51,3,1,Nonfiction
-9b7f29fb-9337-4e41-9be5-89c2c1309acc,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,3,1,Nonfiction
-3632ef34-9519-4a90-9537-47c2624a9d8d,Letter to a Christian Nation,22.2,3,1,Nonfiction
-75e089a4-1858-4e8c-b684-2095b8edd48e,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,3,1,Nonfiction
-7b01b3a7-2ac9-43a2-aed6-d058fae6efb7,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,3,1,Nonfiction
-7c4336be-d019-4112-a50f-699cd09a7f79,Into the Wild,56.7,3,5,Nonfiction
-a51b4a40-b532-4cca-9515-8b6578c318cd,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,3,3,Nonfiction
-b869d903-72a2-42d4-be43-cc6cc99a4a28,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,3,2,Nonfiction
-bf96026d-840f-42c1-873b-fcee474f43d9,Gratitude,26.66,3,5,Nonfiction
-47e49656-4dfc-4d1d-9483-d7253df08f5f,Disrupted: My Misadventure in the Start-Up Bubble,15.28,3,5,Nonfiction
-5aa4e859-97ee-4a1a-8f06-7788de57b542,Brave Enough,51.32,3,5,Nonfiction
-88a80aef-7531-40b9-be95-b3569d6aafce,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,3,2,Nonfiction
-4c16c3b1-858d-412d-86db-3596d1d817b8,Blink: The Power of Thinking Without Thinking,21.74,3,5,Nonfiction
-d66aad43-c5e5-4fd0-b096-ddf6f28f4579,Black Flags: The Rise of ISIS,40.87,3,1,Nonfiction
-4e602fea-4094-46cd-ae59-76584af8548d,Are We Smart Enough to Know How Smart Animals Are?,56.58,3,1,Nonfiction
-e49a7744-54fc-4013-8a8b-e5f6d21edc6d,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,3,4,Nonfiction
-d4359335-487f-4359-85d2-d8b33ff1ceb4,"The Suffragettes (Little Black Classics, #96)",11.89,2,2,Nonfiction
-e078c12b-d9df-4e1d-bf0d-2c5f66b4ed8c,Kindle Paperwhite User's Guide,34.0,2,3,Nonfiction
-41f7fed4-a0a0-4066-8f49-3991c58b29de,H is for Hawk,57.42,2,5,Nonfiction
-ebd387fc-7550-4558-aca5-00229a72f0a4,Travels with Charley: In Search of America,57.82,1,5,Nonfiction
-cf5dc1b5-ea3e-437d-9c54-2948c5bdc408,The Tumor,41.56,1,5,Nonfiction
-6e425ea0-6917-4c33-ac3b-655fd7dc4c96,The End of the Jesus Era (An Investigation #1),14.4,1,1,Nonfiction
-7599209e-6a40-4e76-89e1-3c3ae76b81ab,"Eat, Pray, Love",51.32,1,3,Nonfiction
-c7c6cb5d-a348-489d-bd79-48150a7379cc,Rip it Up and Start Again,35.02,19,5,Music
-faac77ba-8590-4af6-863f-636d63f1b7bf,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,19,3,Music
-e6a0aad2-c984-4fff-84ef-b3c06b7e8d22,How Music Works,37.32,19,2,Music
-76c55fe7-df7a-45ed-a47f-aaa003358c97,Love Is a Mix Tape (Music #1),18.03,14,1,Music
-b24c3c06-1fae-4d8e-9961-4208ae270271,Please Kill Me: The Uncensored Oral History of Punk,31.19,8,4,Music
-d9be2954-6ada-4185-8951-99bb5f429d82,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,8,5,Music
-0426efa2-1eb4-4499-a197-5a7ea470475f,"Chronicles, Vol. 1",52.6,7,2,Music
-ca0bb3e2-5ec8-486f-8c6d-8bb041311174,This Is Your Brain on Music: The Science of a Human Obsession,38.4,5,1,Music
-247351b1-d7b4-48a3-ad11-bef3b77e269b,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,4,3,Music
-d8f61b72-2995-4f5e-9b1d-27cefbd9ed0d,No One Here Gets Out Alive,20.02,4,5,Music
-b7503de5-97e8-4a49-95eb-e04a326b2232,Life,31.58,2,5,Music
-89146080-e0f5-4e47-b9ef-b2876b05b1cc,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,1,2,Music
-6e32012d-8a2b-407b-80c1-45e098d35011,Forever Rockers (The Rocker #12),28.8,1,3,Music
-4d2caf78-36e7-470e-953d-90b5b12723fb,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,19,3,Default
-a18573b1-e6da-4d07-818d-d34c8dc0a81b,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,19,4,Default
-3a605873-dd60-414a-8a95-7c3d293bd504,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,19,2,Default
-c512b3e8-05f0-447d-bb66-fd0d1a09f19c,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,19,3,Default
-8a5c6672-dd10-40ec-8881-09990d3511c0,Aladdin and His Wonderful Lamp,53.13,19,3,Default
-60a54db4-d17e-4971-b5e8-d7c759c82390,Penny Maybe,33.29,18,3,Default
-5e6b61d6-2a1e-4680-8ddb-f0bece55077a,Maude (1883-1993):She Grew Up with the country,18.02,18,2,Default
-ff396e4b-e688-434a-a1f9-9e4be621d2bb,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,16,5,Default
-9b4feb65-45f1-49a8-b92b-47baf4d8e1e9,Soul Reader,39.58,16,2,Default
-7b109afc-4dac-4470-b378-7140f2458b33,Bossypants,49.46,16,2,Default
-d606a4d6-eb94-4429-9f04-e4d7306e0253,A World of Flavor: Your Gluten Free Passport,42.95,16,1,Default
-275fec48-a7a5-4cfd-bca5-0edf7c36ae35,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,16,5,Default
-9d867ab5-6742-4238-92f9-35c2574b6b43,Tracing Numbers on a Train,41.6,15,3,Default
-1714b8ec-6046-4208-81c1-b1317da740a5,Thirteen Reasons Why,52.72,15,1,Default
-f5532268-a53e-49d2-8071-a8983278b135,The Secret (The Secret #1),27.37,15,4,Default
-39aea993-4ef9-4e62-8f9d-f9814783bd0c,The Psychopath Test: A Journey Through the Madness Industry,36.0,15,2,Default
-c34343c7-1e4c-499d-baa6-eef0b67c7a6d,The Kite Runner,41.82,15,4,Default
-b83f49dc-b3ff-40d3-b1a5-3bf27f906e84,The Girl on the Train,55.02,15,2,Default
-db76b645-7e88-4c0d-8aea-c03723775b78,The Emerald Mystery,23.15,15,2,Default
-accc68c1-fa78-4b16-99a2-1c847ff658ab,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,15,3,Default
-35cb293d-6223-4386-ba5d-dbe6fbc5a2c1,The Art of War,33.34,15,5,Default
-4f18feca-64e9-424c-94a4-36a22f684f58,Secrets and Lace (Fatal Hearts #1),20.27,15,1,Default
-beaf1565-7149-44f0-a8d9-f3982195a9f4,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,15,1,Default
-0127e5ef-598c-4b86-8e5e-5c2795f8e2e9,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,15,1,Default
-b06f5df3-c586-4621-9038-2407989d32b5,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,15,1,Default
-c3b97d51-ccf4-4de0-98de-642bb8cf33ad,Large Print Heart of the Pride,19.15,15,2,Default
-d0679649-b1da-4d99-a9af-82b587824c8e,Grumbles,22.16,15,2,Default
-16aa1cee-e27f-408e-b100-302356c46c72,First Steps for New Christians (Print Edition),29.0,15,1,Default
-cbc63e82-6b21-4ff9-ad05-9a8de38fe037,Eureka Trivia 6.0,54.59,15,4,Default
-299f99ce-892f-4757-bf69-0ec0aa1bd21c,Drive: The Surprising Truth About What Motivates Us,34.95,15,4,Default
-c3424c58-aefb-4268-8568-a0c2023b6f26,Done Rubbed Out (Reightman & Bailey #1),37.72,15,5,Default
-d03d65df-6a25-4f59-9e75-a5b09657eaa5,Beauty Restored (Riley Family Legacy Novellas #3),11.11,15,2,Default
-fc6cd268-3ae1-4d16-902f-0c2bb2ce06f6,Ayumi's Violin,15.48,15,2,Default
-0e801ee8-ea1f-4a49-aeec-3076a90e3677,Anonymous,46.82,15,4,Default
-a488898a-6046-4206-9850-83361c103810,Amy Meets the Saints and Sages,18.46,15,3,Default
-b7d250fe-14fe-45b3-8d62-10ba77b59d97,Amatus,50.54,15,5,Default
-8d3216df-22c2-4d98-899a-bd64bc7615a5,V for Vendetta (V for Vendetta Complete),37.1,14,4,Default
-5ee4c6a0-0cbe-46d9-9b2d-dd443ad22610,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,14,2,Default
-522a153d-8d82-4052-b23c-f40a3a09c71d,The Wright Brothers,56.8,14,4,Default
-1be0b438-0eff-47ce-80f4-19a2cfdfa11a,The Songs of the Gods,44.48,14,5,Default
-b2c44aec-1f85-4942-be01-9caf7954de52,The Rosie Project (Don Tillman #1),54.04,14,1,Default
-e35f4437-e9c5-415c-9f8e-3fa995852b1d,The Power of Habit: Why We Do What We Do in Life and Business,16.88,14,3,Default
-b118fa02-0595-449c-8220-78fd9d2115c9,Steve Jobs,39.5,14,5,Default
-a8ea1c33-e433-4694-ad27-14f0801e5207,Luckiest Girl Alive,49.83,14,3,Default
-f9744943-20b4-4181-8ca0-deca2057f86a,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,14,4,Default
-078d2c42-33dd-4f25-8cea-76f99d1a69de,Lady Midnight (The Dark Artifices #1),16.28,14,5,Default
-32ec60dd-cd23-4307-9f7d-417486bb55e2,"Hush, Hush (Hush, Hush #1)",47.02,14,3,Default
-a0245a7f-4694-42ed-aab5-b4bcd414627e,Greek Mythic History,10.23,14,5,Default
-9af974d2-7acd-479e-b7e4-c563f27e4ac9,Every Last Word,46.47,14,3,Default
-9aa46dd7-3d7a-4caf-b015-a97342f53afa,Daily Fantasy Sports,36.58,14,1,Default
-3e1bea7c-1d9a-473b-aa94-1c7e80fd3b68,Clockwork Angel (The Infernal Devices #1),44.14,14,1,Default
-5ef4e57b-ca11-4e2f-865c-aa1a5f4ebb23,City of Fallen Angels (The Mortal Instruments #4),11.23,14,4,Default
-f7313681-84ef-4724-9098-8dc110cd0481,City of Bones (The Mortal Instruments #1),43.28,14,1,Default
-d9bf78b2-63db-42bf-ae19-a91ee2040c6a,City of Ashes (The Mortal Instruments #2),47.27,14,1,Default
-f6646c10-12f7-4c9f-9a9e-2d631761b351,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,14,3,Default
-4c33c347-1cfa-44e9-9a5b-a436e10316cb,Carrie,46.23,14,2,Default
-055c155a-648f-40e6-80fc-02155f5693bf,Angels & Demons (Robert Langdon #1),51.48,14,3,Default
-a9fc2d9a-4a34-41c8-ac3b-6a58b0f59bcb,"The Three Searches, Meaning, and the Story",13.33,13,3,Default
-ffb98839-b03a-4896-b849-95f8b4972e68,Raspberry Pi Electronics Projects for the Evil Genius,49.67,12,4,Default
-1252a65f-c542-419a-9f8b-9b6329e02c6e,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,12,5,Default
-6b14e737-5c27-4847-a87d-44bbad81e7d2,Eleanor & Park,56.51,12,5,Default
-b33aae22-df5f-4810-a451-6f29fcda69df,Troublemaker: Surviving Hollywood and Scientology,48.39,11,2,Default
-b288122f-f456-4385-b196-c1ff95a04922,Adultery,20.88,11,5,Default
-887ad49e-7389-4b8d-acb5-624ca6407de7,Unlimited Intuition Now,58.87,9,4,Default
-0efbc19d-4e54-45dc-a9e9-22cca2ea73fb,Underlying Notes,11.82,9,2,Default
-69e4c240-1ea1-4e47-a198-e35da25c0b60,The New Brand You: Your New Image Makes the Sale for You,44.05,9,5,Default
-91b35463-dda3-435f-b288-f024df4b7230,The Flowers Lied,16.68,9,2,Default
-6757f0da-c5f3-4c4e-89ca-1c9d9856d481,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,9,4,Default
-f74aa1d7-5be9-471b-9b02-c16d351b7ad8,Modern Day Fables,47.44,9,2,Default
-6a659cee-7df1-416b-9a04-9a9b64505e3e,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,8,5,Default
-96a470e7-0855-4b3b-bc63-9da66536639a,The Martian (The Martian #1),41.39,8,2,Default
-2e86306e-11f6-4a9f-a201-776f3b0ad1ee,Left Behind (Left Behind #1),40.72,8,2,Default
-84d5d2db-3a4c-4926-a9c5-b18b8c32accb,John Vassos: Industrial Design for Modern Life,20.22,8,4,Default
-3d901b4f-a872-4092-89d6-6700e9236d7f,I'll Give You the Sun,56.48,8,1,Default
-4723e50b-9d29-4792-a0de-c496a52e1b4e,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,8,2,Default
-8a42b02b-75be-49bb-889a-7805f949ccfa,Ender's Game (The Ender Quintet #1),43.64,8,1,Default
-84749d82-b1e2-4b22-b451-5154817e064e,Death by Leisure: A Cautionary Tale,37.51,8,4,Default
-eeb7f800-89b0-415d-86e9-2c1a863550cf,Wildlife of New York: A Five-Borough Coloring Book,22.14,7,2,Default
-068e90f3-973b-4429-9fb3-22f9648d0f58,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,7,1,Default
-62d4df5f-7005-428b-aaa7-27198e0a61f3,The Great Gatsby,36.05,7,4,Default
-e8317d5f-1c0c-4c77-b7d9-4a208092945b,The Good Girl,49.03,7,3,Default
-f2155154-616c-480d-884e-7350918ce322,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,7,4,Default
-a5584845-5c13-49db-a83b-4ef551c71bd0,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,7,2,Default
-e8a1b2b7-cdad-4112-918c-ba884f01268e,Life of Pi,13.22,7,4,Default
-d43f7fda-be09-4b55-80b3-5ef09d1ab141,The Sound Of Love,57.84,6,5,Default
-28e994ce-13fd-419a-89bb-fccd661774e8,The Perks of Being a Wallflower,55.02,6,3,Default
-fc36b2f2-22db-4440-b9b7-c8f4154d739d,The Makings of a Fatherless Child,31.58,6,2,Default
-282da970-98a7-4cc5-ad0c-33fbc1380ab6,The Hobbit (Middle-Earth Universe),17.8,6,5,Default
-b81bb12c-9046-48df-8901-555e3a5802f0,The Fellowship of the Ring (The Lord of the Rings #1),10.27,6,2,Default
-14f80c2a-e714-4d47-84fb-d60fe8f09ef6,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,6,3,Default
-5a8fdcce-c997-453e-9fdd-c7f5d3a975e0,Musicophilia: Tales of Music and the Brain,46.58,6,1,Default
-3076cb0c-acd4-4ec7-b27e-952d456fbd8d,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,5,4,Default
-cacbc71d-acc2-434c-8ee8-48e893956dab,The Fault in Our Stars,47.22,5,1,Default
-31ccd5b5-3423-4f71-ba6a-0e4fed1bb526,The Dream Thieves (The Raven Cycle #2),34.5,5,1,Default
-caa63974-9e09-4d03-92a5-51e2f810d531,The 5th Wave (The 5th Wave #1),11.83,5,2,Default
-bd05fb53-917f-40aa-8736-ca7199b4c16a,Shiver (The Wolves of Mercy Falls #1),16.23,5,5,Default
-dd49d936-ff68-415c-8964-5c7c2a3064b7,Remember Me?,11.48,5,3,Default
-72b1795d-ac72-4040-bc1f-85d33456c60a,If I Stay (If I Stay #1),38.13,5,5,Default
-4bc13d90-e455-4dac-aae0-592abc31e6df,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,5,2,Default
-4acd0631-5674-45ab-95b6-8c8598644652,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,5,1,Default
-31412e66-2d7b-4494-9bbc-31a80ba60a3b,Fool Me Once,16.96,5,1,Default
-aedfa32e-38b1-4a44-b0ed-4c3b07c28121,Drama,38.7,5,2,Default
-864d71eb-8cdd-412b-b060-0f3c2d7e5041,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,5,5,Default
-c4f9c48c-b7ca-43d0-8d85-dc47fd340085,Alight (The Generations Trilogy #2),58.59,5,4,Default
-a256201f-042c-431f-badc-aa62df6467f7,Vogue Colors A to Z: A Fashion Coloring Book,52.35,4,4,Default
-6d37df30-ee97-46ad-9b5e-b0c53d78b3e1,The Shining (The Shining #1),27.88,4,3,Default
-d51572e7-3ead-4837-b077-69c86a1a2bea,The Hunger Games (The Hunger Games #1),29.85,4,5,Default
-431fc3f7-22e0-4fb4-8063-af61307641ec,Outlander (Outlander #1),19.67,4,5,Default
-3ab8c41b-04bc-4720-858a-2a13d7e065fd,Mockingjay (The Hunger Games #3),20.44,4,4,Default
-7f3c5dd4-7e5d-4986-a77c-f597d78af0a5,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,4,3,Default
-a00ff3b0-ffc2-4ba6-a4bf-879bf64667a8,Confessions of a Shopaholic (Shopaholic #1),48.94,4,2,Default
-af13b690-bea5-488f-bb1d-151e952460de,Zero History (Blue Ant #3),34.77,3,1,Default
-f8f8bf71-9f23-4746-9731-c4a7d4caeefd,World War Z: An Oral History of the Zombie War,21.8,3,1,Default
-4470c29a-ca3b-41dd-807c-693efd7f0fa4,Wild: From Lost to Found on the Pacific Crest Trail,46.02,3,3,Default
-e97d87a5-1603-42a6-b4f4-dab3d3728316,"Where'd You Go, Bernadette",18.13,3,1,Default
-ed2961a3-44f0-4516-906e-a1eac17fa63f,Twilight (Twilight #1),41.93,3,2,Default
-dc328753-1f09-4dae-b411-07df852030b8,The Paris Wife,36.8,3,3,Default
-227eaf99-af94-4d1e-a82e-38318f9e774d,The Maze Runner (The Maze Runner #1),20.93,3,1,Default
-ce5cddd1-5866-492e-bd18-7a94a6413361,The Lover's Dictionary,58.09,3,2,Default
-34123fdf-aacf-4001-9fa5-fde13b9696c7,The Goldfinch,43.58,3,3,Default
-6deef29e-3fec-4ea9-8213-2b50aa6a34d4,The Giver (The Giver Quartet #1),12.3,3,1,Default
-c43136b1-7aab-4eb3-aa6b-faf9f6866171,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,3,2,Default
-6c1b7124-21e4-41ce-a3b7-63d2fac00092,The Demon-Haunted World: Science as a Candle in the Dark,52.25,3,4,Default
-ffbd0d6e-66cd-44b7-b7c2-d9d149384017,The Book Thief,53.49,3,2,Default
-b61ac63c-51c2-4d8a-93c6-1bd687d1450d,The Autobiography of Malcolm X,23.43,3,2,Default
-24cea879-4745-48c6-9c36-72bc438d5996,Shopaholic & Baby (Shopaholic #5),46.45,3,2,Default
-e958b80e-2fe3-43d2-a410-42251562cdf8,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,3,1,Default
-fc50633c-8d92-4383-8dc2-9f18e7394a4c,Packing for Mars: The Curious Science of Life in the Void,56.68,3,2,Default
-c2e8963b-9648-4a48-936a-f24bf5a41ff9,Orange Is the New Black,24.61,3,2,Default
-7ad4373b-40e9-4662-b605-4e2ed2a4057a,One for the Money (Stephanie Plum #1),32.87,3,2,Default
-5adbbd40-432e-48f4-9355-15c0fa07d996,Morning Star (Red Rising #3),29.4,3,1,Default
-4926d383-80ec-4f1f-ac7b-9edfbdcf882b,Life After Life,26.13,3,2,Default
-d1d6b70f-e96f-4127-9ba7-5a4855c1108c,"Lean In: Women, Work, and the Will to Lead",25.02,3,1,Default
-c84e681f-aacf-4da7-95f8-45ced5f70b69,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,3,3,Default
-8f472976-33dc-4f79-aa82-124d5761d874,Gone Girl,37.6,3,5,Default
-f8d8df3b-c52b-4cd7-b037-21df14eba39a,Fellside,38.62,3,1,Default
-8c4fac0b-50d0-4723-bcb7-9863ec5a05d7,Eclipse (Twilight #3),18.74,3,1,Default
-5d35cd5a-606e-4105-a784-4b33131dca86,Dracula,52.62,3,3,Default
-4004383b-c814-480b-bed2-c7ec648a2401,Dead Wake: The Last Crossing of the Lusitania,39.24,3,5,Default
-20515995-c751-492f-8ffa-c9db38a72a52,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,3,1,Default
-c8ed4f2a-cb37-41a9-abbf-7e1790cd0367,Dark Places,23.9,3,5,Default
-65242812-3be6-4418-99a7-8ba86acb4849,Breaking Dawn (Twilight #4),35.28,3,5,Default
-87c470b8-5877-4e83-b1c1-963fc7d0a583,Beautiful Creatures (Caster Chronicles #1),21.55,3,5,Default
-d4ad5044-4167-45da-a6e3-4a49204fecc9,A Visit from the Goon Squad,14.08,3,5,Default
-ea2a345b-f538-4402-8b78-bf1618ab4eb2,The Zombie Room,19.69,1,5,Default
-a288f026-f964-4eec-9718-0b859aed04cb,The Name of the Wind (The Kingkiller Chronicle #1),50.59,1,3,Default
-4e69fa26-6fed-4c9c-81d8-ae0e7dcb0ded,Taking Shots (Assassins #1),18.88,1,2,Default
-1f7ed424-0a54-43ae-a68e-6f553a89d66d,Shatter Me (Shatter Me #1),42.4,1,1,Default
-df159bd6-6ef4-4e7f-bf9b-40d72447619e,Paradise Lost (Paradise #1),24.96,1,1,Default
-a7053be0-7dd6-4f64-be92-8594a12118aa,On the Road (Duluoz Legend),32.36,1,3,Default
-db5bd583-d876-49e9-8840-ac4051fd27ad,Jane Eyre,38.43,1,5,Default
-6c88c6c0-cda7-4929-879b-0650c6c02a11,Frankenstein,38.0,1,2,Default
-9a0a3c9a-e669-40a3-87d2-8851db568ab8,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,19,1,Science Fiction
-e85f365a-94d5-4704-9749-0c3b8f587912,Join,35.67,16,5,Science Fiction
-2348ffdb-7477-478b-ba65-b8a8861dcd13,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,15,4,Science Fiction
-629c3fa3-a530-4844-8e9d-f3503815ab2b,The Project,10.65,15,1,Science Fiction
-5fde3a33-915c-449a-a2b2-d4ef8717c954,Soft Apocalypse,26.12,15,2,Science Fiction
-fcf05a4c-fcc3-4461-adc6-c17b45ede4b3,Sleeping Giants (Themis Files #1),48.74,11,1,Science Fiction
-fd7f170c-4e6e-4351-b4d5-f650108808e3,Arena,21.36,11,4,Science Fiction
-25527a06-4637-4f63-af74-3b892bd91fd8,Foundation (Foundation (Publication Order) #1),32.42,5,1,Science Fiction
-dd023448-65ee-4f3f-b7ab-6c95bf32a9a6,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,3,1,Science Fiction
-e231622f-55af-439b-a906-9beb3f8bb51b,Ready Player One,19.07,3,4,Science Fiction
-741177b0-8fd0-47d9-aa31-faf6151d869c,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,3,2,Science Fiction
-206022f6-526a-41cf-913f-15229a2cc9a6,Dune (Dune #1),54.86,3,1,Science Fiction
-cc40c350-e7c1-41c9-be8a-487643012dd0,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,3,1,Science Fiction
-167752e8-eedd-499e-b6c5-6c9ad4be94f8,Three Wishes (River of Time: California #1),44.18,1,2,Science Fiction
-18dff7d7-7c36-468c-8d32-141b1fecfe1d,The Last Girl (The Dominion Trilogy #1),36.26,1,2,Science Fiction
-f54744d7-fb7e-419c-95bb-7be891f64c3f,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,1,4,Science Fiction
-49ba11b9-d4af-4a9b-b00a-914e5d10a52a,The Book of Basketball: The NBA According to The Sports Guy,44.84,3,5,Sports and Games
-3004aa7b-4e24-479a-abe5-926ec4a9711d,"Friday Night Lights: A Town, a Team, and a Dream",51.22,3,3,Sports and Games
-5ff7a1e6-757b-4feb-b5ef-625dc4935782,Sugar Rush (Offensive Line #2),24.42,2,1,Sports and Games
-363f5b3e-9962-49cd-84d3-b816fb9dad55,Settling the Score (The Summer Games #1),44.91,1,2,Sports and Games
-ee2ebe35-bee5-473d-88f2-3431d71e14af,Icing (Aces Hockey #2),40.44,1,4,Sports and Games
-c85714ee-33ef-41e2-9768-472fa9bcc4e4,The Torch Is Passed: A Harding Family Story,19.09,16,1,Add a comment
-33199147-d04a-4ff5-a429-c0103458158d,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,16,4,Add a comment
-715eabb8-0612-4001-8f35-00241b02b8ec,The Art Forger,40.76,16,3,Add a comment
-f81d6068-16f3-4c48-b228-a0e992f2af9d,On a Midnight Clear,14.07,16,3,Add a comment
-08afc0ad-b219-40ea-9930-87e5e3fabe52,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,16,2,Add a comment
-956bd2e1-aa4d-48b9-a4b8-4d7caeeb73b6,"Shobu Samurai, Project Aryoku (#3)",29.06,15,3,Add a comment
-1219fb4c-389d-425d-be37-bf124f41bdf1,Modern Romance,28.26,15,5,Add a comment
-93cd4957-928e-48b0-bc84-700ed26ae56a,The White Queen (The Cousins' War #1),25.91,14,5,Add a comment
-064ce662-4a6c-413c-ae58-b09f00427290,The Song of Achilles,37.4,14,5,Add a comment
-65665a9e-7a76-4628-8b9b-111b4214e7b4,The Immortal Life of Henrietta Lacks,40.67,14,2,Add a comment
-807178f1-b3f5-4178-bfd1-96ff1008550c,The Dovekeepers,48.78,14,1,Add a comment
-49727206-6790-4bd2-b800-c018352fb7fc,More Than Music (Chasing the Dream #1),37.61,14,2,Add a comment
-1694add0-0b44-4404-8de0-f10f3e6f32b0,Code Name Verity (Code Name Verity #1),22.13,14,4,Add a comment
-fec55cec-5499-4b5d-a88e-f1388e4c8983,Cell,20.29,14,4,Add a comment
-b2fa01dd-e253-4b05-9d8d-bf19c2ec1b01,Angels Walking (Angels Walking #1),34.2,14,2,Add a comment
-ccc7acb0-213a-456f-b2e7-7512ffdf0187,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,14,2,Add a comment
-e6b68b35-d83a-4316-acba-65c51de43a07,A People's History of the United States,40.79,14,2,Add a comment
-c2d1ca42-3918-4b59-b188-a7148b9bfe83,A Brush of Wings (Angels Walking #3),55.51,14,1,Add a comment
-e14283a2-c022-451c-be2d-bc3050105ec5,Rook,37.86,13,4,Add a comment
-330cbc0d-12a2-407b-9ab3-df26818308d2,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,12,1,Add a comment
-26ff0993-bd32-472c-a6bf-51a59cd229eb,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,12,4,Add a comment
-7b7677f0-ead6-4c98-a048-1fdfc8503e3a,The Children,11.88,12,3,Add a comment
-675b69a5-c9f9-434c-a46b-2ec356cbd1c8,One with You (Crossfire #5),15.71,12,4,Add a comment
-8e00c604-51e3-4587-898d-d07f7f217fa1,Without Shame,48.27,9,5,Add a comment
-d86ca1b5-f81c-45e3-95f3-63b345267525,Watchmen,58.05,9,4,Add a comment
-4651633e-52c2-45b6-baae-b2ce592f9346,A Hero's Curse (The Unseen Chronicles #1),50.49,9,3,Add a comment
-d032a18c-33fd-4912-aad0-b4f36bc8d2d3,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,9,2,Add a comment
-90a84ac9-a3a1-437a-9f30-7c1ebb5d8a20,The Glass Castle,16.24,7,1,Add a comment
-d3a151f5-f8ea-4bea-a7b5-39c83ec5c4a7,The Drowning Girls,35.67,7,3,Add a comment
-0b3a01ed-659a-4fae-ac18-efb07cbf7c17,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,7,5,Add a comment
-ce0ba6e4-8c8d-4ee4-8306-6156fe013b33,John Adams,57.43,7,4,Add a comment
-2401b110-68c9-4264-9c7a-e4021f9cbd09,Good in Bed (Cannie Shapiro #1),37.05,7,5,Add a comment
-4571e8af-0b49-493e-8c07-0fa3b10e73f1,The Joy of Cooking,43.27,6,4,Add a comment
-23272592-fc3e-4a4e-89e6-1663bc04ef7c,The Golden Compass (His Dark Materials #1),18.77,6,1,Add a comment
-d3e19706-fc10-44e0-9189-836abbef3c15,The God Delusion,46.85,6,3,Add a comment
-4917c15f-83ec-4239-8ae8-86fd3e1090f9,Pride and Prejudice,19.27,6,4,Add a comment
-ea7496d7-15c5-43e0-9492-8a9e5b9cb9fb,Mere Christianity,48.51,6,3,Add a comment
-7cb0be65-d8ce-4675-8c1f-4c3d98dae55d,Fun Home: A Family Tragicomic,56.59,6,4,Add a comment
-811bfde4-97f2-46fc-bf26-2df88037da85,The Raven King (The Raven Cycle #4),30.57,5,2,Add a comment
-812bb53f-c07a-4f7b-8376-c5eb1f10d523,Find Her (Detective D.D. Warren #8),22.37,5,1,Add a comment
-0c1a9ee1-7e1d-463d-84ef-859750dbe88b,Evicted: Poverty and Profit in the American City,42.27,5,1,Add a comment
-05164c8f-1f9e-4174-abfc-58e4dab0f672,A Game of Thrones (A Song of Ice and Fire #1),46.42,5,2,Add a comment
-e295102b-ac6e-4bcf-9140-332594e0ee29,A Clash of Kings (A Song of Ice and Fire #2),10.79,5,3,Add a comment
-41f95362-aa49-4240-9926-42041f60bc82,The Tipping Point: How Little Things Can Make a Big Difference,10.02,3,2,Add a comment
-c2361820-da47-41b9-9d3f-a5bafba9e06f,The Rest Is Noise: Listening to the Twentieth Century,34.77,3,1,Add a comment
-8df385c3-044d-4c68-9574-f6391221c248,The Purpose Driven Life: What on Earth Am I Here for?,37.19,3,3,Add a comment
-5b684368-d070-416a-a101-817b28e539fb,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,3,3,Add a comment
-12dbe8e7-d0fd-4349-941a-33e2d1c0df0c,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,3,1,Add a comment
-adeaf48e-1d21-437a-8cfd-44c55311934f,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,3,4,Add a comment
-9f1deb2c-9ff1-4da4-b0c2-10aa85237c3e,The Complete Poems,41.32,3,5,Add a comment
-0911b010-8ac1-4f83-b883-f99c0f3f6cfe,The Catcher in the Rye,24.55,3,1,Add a comment
-d8831289-8fa1-4948-ace3-c8c7f107e542,The Case for Christ (Cases for Christianity),47.84,3,1,Add a comment
-b2100f93-fd08-4740-8a22-f93911d95ce8,The Blind Side: Evolution of a Game,53.71,3,5,Add a comment
-1f42d90a-010c-4e4f-a4f5-2742d7a29541,Seven Days in the Art World,52.33,3,2,Add a comment
-4f806054-a18c-4f5e-92bc-432057badcbe,Sarah's Key,46.29,3,1,Add a comment
-130d11d2-5355-47f5-8bab-113c1fc113d6,Rogue Lawyer (Rogue Lawyer #1),50.11,3,3,Add a comment
-3cc86096-9a45-4948-9a47-30f9639bdef8,Manuscript Found in Accra,34.98,3,2,Add a comment
-9a6f92ed-4b90-4615-b690-5b1d1e4af35c,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,3,4,Add a comment
-f58264e9-1cbc-4e14-8a8c-1a797a4e1cab,Cosmos,36.17,3,2,Add a comment
-c924b1b4-7604-458f-8b2e-c297bbb167a9,#GIRLBOSS,50.96,3,1,Add a comment
-b4094982-c519-40e6-94fa-bdbd0697aea2,The Sense of an Ending,31.38,2,3,Add a comment
-a1f6ff6a-a839-47ab-9830-f8492423fb84,The Republic,33.78,1,3,Add a comment
-66b2117b-5502-4e46-9852-ecb255dc4a6a,The Odyssey,29.64,1,3,Add a comment
-d60fdbef-f05a-4310-83da-e66311513b66,The Light of the Fireflies,54.43,1,1,Add a comment
-afb350c1-a418-4efe-948d-fde26c778bf9,The Iliad,16.16,1,1,Add a comment
-d4bcf2bf-6857-431a-8de4-6ad5d374de86,The Communist Manifesto,14.76,1,3,Add a comment
-f7c3994a-73bf-4929-b5a2-97b3e978f029,Lord of the Flies,24.89,1,3,Add a comment
-8e46a9b2-5121-49a0-a480-d9b616f18a07,Unicorn Tracks,18.78,16,3,Fantasy
-bae640aa-c7c6-43d7-82e2-e94e8963c13b,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,16,3,Fantasy
-bd133ec0-cddb-4d4f-b779-0ca6eb883cf6,Princess Between Worlds (Wide-Awake Princess #5),13.34,16,5,Fantasy
-aee7776f-e524-4989-bdfb-d0fc3fe36c47,Masks and Shadows,56.4,16,2,Fantasy
-e86d5263-d442-42a2-bfce-016313b3ec4a,Crown of Midnight (Throne of Glass #2),43.29,16,3,Fantasy
-56a28e2b-8bdb-455e-9576-e3559ccb0d62,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,16,2,Fantasy
-0b1c20ea-fa12-4aa2-95eb-d074d223c626,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,16,1,Fantasy
-86eb4198-bdae-44c6-96ef-284d5b60bcf3,Throne of Glass (Throne of Glass #1),35.07,15,3,Fantasy
-4ce7b0fd-e98a-46f2-abfd-7945a99bd4e4,The Glittering Court (The Glittering Court #1),44.28,15,1,Fantasy
-a1d78259-cf6f-488e-a49f-3cfe2e504e2d,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,15,1,Fantasy
-0ff9677f-8aa7-4099-a3a3-3922a917642c,The Star-Touched Queen,46.02,14,5,Fantasy
-dbcb9a03-934d-451a-9557-cd3d89cb3c48,The Hidden Oracle (The Trials of Apollo #1),52.26,14,2,Fantasy
-5e39dfc0-8f14-47d0-9be8-d7f24c8fbbec,The Bane Chronicles (The Bane Chronicles #1-11),44.73,14,4,Fantasy
-cdacbae3-3bda-4351-81e8-d4f2525db9fc,Island of Dragons (Unwanteds #7),29.65,14,1,Fantasy
-e2b03dd7-cdfc-4928-9c5f-b357751a58bd,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,14,5,Fantasy
-c699e6c0-9d3c-47c0-9b16-201682bf79a8,City of Glass (The Mortal Instruments #3),56.02,14,4,Fantasy
-97fb7ea9-665c-44a7-a1c0-485e737580d0,Searching for Meaning in Gailana,38.73,13,1,Fantasy
-593601e7-3f91-4adb-9caf-e35eba5d63bf,The Star-Touched Queen,32.3,12,5,Fantasy
-79dbed00-efe7-4292-be72-9ff36c28da83,A Shard of Ice (The Black Symphony Saga #1),56.63,9,3,Fantasy
-4cfd3867-1ad1-47c5-8b54-69ee9beff060,King's Folly (The Kinsman Chronicles #1),39.61,7,5,Fantasy
-9e2a1ce9-a1c9-4bd1-bd7a-9e0b6a8efa8f,Every Heart a Doorway (Every Heart A Doorway #1),12.16,7,5,Fantasy
-00d497f7-9322-4358-868c-a6628981edc5,A Gathering of Shadows (Shades of Magic #2),44.81,7,4,Fantasy
-df73625e-2e74-4eb7-b7a6-922960fa228a,The Raven Boys (The Raven Cycle #1),57.74,5,4,Fantasy
-7be22a91-e881-478e-85ce-da3a4b176d02,The False Prince (The Ascendance Trilogy #1),56.0,5,5,Fantasy
-5e6f5ff5-b7f9-4d96-b4b7-422fe8c7903e,Tell the Wind and Fire,45.51,5,3,Fantasy
-543e203e-1144-4da9-a64c-bfab311de495,A Feast for Crows (A Song of Ice and Fire #4),17.21,5,4,Fantasy
-56c7056f-0d58-4473-bfd2-dbe05773d85e,The Demonists (Demonist #1),52.11,4,2,Fantasy
-dc573b28-8b3b-48df-869f-80c392938cf4,The Beast (Black Dagger Brotherhood #14),46.08,4,5,Fantasy
-5d1ee807-c83a-43f7-95f2-630552d6f694,Paper and Fire (The Great Library #2),49.45,4,5,Fantasy
-b11e7fbb-d12b-4865-8d00-0c9f2b5f06eb,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,4,4,Fantasy
-f6450044-4883-4779-947e-e569b8e3c0da,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,4,5,Fantasy
-f59cdd20-da99-4ad1-98ca-eeb1d77cfad0,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,4,1,Fantasy
-3c73eb06-64b8-4602-a8d2-b5aa72b2396c,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,3,4,Fantasy
-eeecd079-dff2-4182-8111-cbd5d8a43a48,Soldier (Talon #3),24.72,3,2,Fantasy
-1dfb469e-edc9-41a8-b085-c73fdb43d193,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,3,2,Fantasy
-fd5d343f-fa82-40d9-a5eb-06b49a2f20cb,Heir to the Sky,44.07,3,4,Fantasy
-0c0533f7-508d-4f72-92a6-efae5396344f,Eragon (The Inheritance Cycle #1),43.87,3,3,Fantasy
-c1162af7-21a5-483e-b92b-7da7918c74bb,Darkfever (Fever #1),56.02,3,1,Fantasy
-00377b50-4df1-4658-b43b-7a3633beb8c9,Ash,22.06,3,4,Fantasy
-155da8e8-38dc-4ab2-bac3-4dbe219dc3f8,A Storm of Swords (A Song of Ice and Fire #3),31.22,3,2,Fantasy
-4abc3d7b-dcf8-4aeb-9175-e4b3ca68b065,Vampire Girl (Vampire Girl #1),53.82,1,2,Fantasy
-140d0a04-a000-4fa5-b4d8-eebc7dc94b39,The Silent Twin (Detective Jennifer Knight #3),36.25,1,3,Fantasy
-3debe8ca-1be6-4ff8-9e78-28c12728c665,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,1,1,Fantasy
-78b27a8d-7278-4a24-b58a-a5311405f581,Sister Sable (The Mad Queen #1),13.33,1,3,Fantasy
-2548c569-a8d2-4c44-9138-13c9dcbb1787,Shadow Rites (Jane Yellowrock #10),21.72,1,4,Fantasy
-fb4f9ee1-e881-4a05-8f4b-39c41bdff8c0,Origins (Alphas 0.5),28.99,1,1,Fantasy
-d197b3a1-5973-4bbc-81b7-500786c685e9,One Second (Seven #7),52.94,1,2,Fantasy
-5a24fc42-8021-43f5-aa5f-8383dd64737b,Myriad (Prentor #1),58.75,1,4,Fantasy
-4dce3d23-854c-4bfd-89d1-6283d5b4595a,Without Borders (Wanderlove #1),45.07,16,2,New Adult
-6097514f-d903-4ba6-b0f5-66a73a8a31cc,The Mistake (Off-Campus #2),43.29,15,3,New Adult
-e8c900ab-d77f-4036-9ea4-720a7b40cecc,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,15,1,New Adult
-2a915943-116b-454b-9d49-309466632c9b,The Hook Up (Game On #1),36.29,1,5,New Adult
-d456ec9b-e68f-45dc-bc53-d596a98f8b6f,Shameless,58.35,1,3,New Adult
-051c7a44-5178-4af4-b577-c1f504894cae,Off Sides (Off #1),39.45,1,5,New Adult
-bc037da0-466a-41f4-8ad3-7b4fcc2950f8,The Requiem Red,22.65,19,1,Young Adult
-d69bb15d-47c3-43a7-9096-0eb101e22cf1,Set Me Free,17.46,19,5,Young Adult
-18305194-133d-43a7-8ebb-234f03971d24,The Natural History of Us (The Fine Art of Pretending #2),45.22,16,3,Young Adult
-14a0fe99-3d6e-4734-ad2a-eb39a74eaebe,Obsidian (Lux #1),14.86,16,2,Young Adult
-40dc334a-4d81-4cdc-9c80-d9679861e94f,Burning,28.81,16,3,Young Adult
-4f64c47a-6d2b-4de9-aa10-a660059b4c8e,A Fierce and Subtle Poison,28.13,16,4,Young Adult
-538e993e-f2bb-4abb-bee5-aa18e2165f68,Scarlett Epstein Hates It Here,43.55,15,5,Young Adult
-53a3c5a0-6601-46f0-94b4-19f9a29d4702,"Nightingale, Sing",38.28,15,1,Young Adult
-aea1462e-6437-416c-92b7-817f85b1ea9f,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,15,5,Young Adult
-5ec372ee-2e3f-4832-b34d-cfb04e7c37fc,Frostbite (Vampire Academy #2),29.99,15,5,Young Adult
-6db0afa4-098c-405e-8d54-643d33697944,Wild Swans,14.36,14,2,Young Adult
-73bd0d67-7d49-489d-8fca-870b6e3fec1e,Until Friday Night (The Field Party #1),46.31,14,2,Young Adult
-b180c5e7-af65-4233-be67-4e533b0d2cce,This Is Where It Ends,27.12,14,2,Young Adult
-4383cd0a-9bb8-4b53-86e3-85bf5e7fc0c3,The Darkest Lie,35.35,14,5,Young Adult
-023151e4-8a0d-4327-9656-3f3ee3a3f391,My Kind of Crazy,40.36,14,1,Young Adult
-2fe4efe3-a372-47f6-afb6-a3ce8f2b7fcb,Don't Get Caught,55.35,14,1,Young Adult
-c3d56ecb-8bb9-4d50-be97-1d0778bb6df3,Catching Jordan (Hundred Oaks),50.83,14,3,Young Adult
-90c43d33-ae31-4ee2-9114-1b3cf8899abf,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,14,4,Young Adult
-b2e32d31-d24f-46c3-84cf-085dd0b5ffa5,The Epidemic (The Program 0.6),14.44,12,5,Young Adult
-1f5e7889-3b08-4e9c-b49c-a65c8040c077,Stars Above (The Lunar Chronicles #4.5),48.05,12,2,Young Adult
-20c26e96-2610-41ea-a319-199439197fd8,No Love Allowed (Dodge Cove #1),54.65,12,4,Young Adult
-d472f1a7-c783-4daf-a850-aad0d99b5298,"Exit, Pursued by a Bear",51.34,11,4,Young Adult
-cecbaca7-590a-43de-b970-b603b63b1db7,The Alien Club,54.4,9,1,Young Adult
-8f9d1a8f-d258-4e26-98bf-42f1d3c052be,Don't Forget Steven,33.23,9,1,Young Adult
-dfe3ac2f-ddce-473b-96d5-304322a835a1,South of Sunshine,28.93,8,1,Young Adult
-bbc7c9f9-b466-4755-86d5-9f0c63e756eb,My Life Next Door (My Life Next Door ),36.39,8,5,Young Adult
-76bd65ba-0789-4379-a3fd-45eb6321224f,Future Shock (Future Shock #1),55.65,8,5,Young Adult
-65cd0354-4094-4115-89cb-c133382f28eb,Nightstruck: A Novel,50.35,7,4,Young Adult
-262cce1e-580c-4b30-b399-d4977b30f1de,Tell the Wolves I'm Home,50.96,6,2,Young Adult
-51195a83-aab8-4ec1-a21e-fcfe1817f252,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,5,4,Young Adult
-8459cc6b-0ed2-406e-8fb9-3e7afbed174e,Where She Went (If I Stay #2),41.73,5,4,Young Adult
-f614f988-3823-49f2-bd4d-e126230e9847,Two Summers,14.64,5,1,Young Adult
-33ff88eb-4732-4cae-9abd-17cafbdaf250,The Darkest Corners,11.33,5,5,Young Adult
-29023b55-ef8b-4dca-8c06-3099d25590e2,Tell Me Three Things,41.81,5,1,Young Adult
-27ebbadb-3e67-459f-b04a-d2d80f12e12f,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,5,4,Young Adult
-90d2ec3d-bf33-4ed1-ab11-8610c3670d97,Kill the Boy Band,15.52,5,5,Young Adult
-1e37d47c-5570-4120-a165-3127d1b7e4f6,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,5,5,Young Adult
-b401a758-49d4-4a04-82e5-6d90aa8af616,An Abundance of Katherines,10.0,5,5,Young Adult
-9f48c1ba-9621-474c-af97-27d1c8ca21e1,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,4,4,Young Adult
-fc3c8c01-660c-421a-8eee-e550d096a416,Walk the Edge (Thunder Road #2),32.36,3,3,Young Adult
-d5df885c-a13a-4638-af86-359d7aa06606,Two Boys Kissing,32.74,3,2,Young Adult
-afa46281-361c-45e6-ac51-3b15e545ea43,The New Guy (and Other Senior Year Distractions),44.92,3,3,Young Adult
-c0477d83-4b4a-4ae5-b493-078bb110a2a3,"The Land of 10,000 Madonnas",29.64,3,4,Young Adult
-eb70966c-f7cc-47c6-916a-d050cf83ce72,Scarlet (The Lunar Chronicles #2),14.57,3,4,Young Adult
-7a8ee5c1-4038-4e8a-b071-3ccb91a369a2,Legend (Legend #1),43.69,3,4,Young Adult
-144b8fcc-1a90-4a57-a127-d048dd51383a,Lady Renegades (Rebel Belle #3),53.04,3,5,Young Adult
-3d66dd28-3d61-4c37-89ba-52dd79e95d0e,Golden (Heart of Dread #3),42.21,3,4,Young Adult
-f2240843-020a-4797-a9b7-f03c8948e1e8,Cinder (The Lunar Chronicles #1),26.09,3,1,Young Adult
-6359b8b9-abac-4e39-a830-107f8b4a1145,Boy Meets Boy,21.12,3,3,Young Adult
-806171d4-57b7-4ff3-a0c1-8093f0a2b3cc,Annie on My Mind,36.83,3,5,Young Adult
-45629765-da9d-4cf0-8491-d6c12fe56fdc,New Moon (Twilight #2),12.86,2,4,Young Adult
-e55183cb-37ff-4cb4-8357-d6fe3ffbbc6b,Girl Online On Tour (Girl Online #2),53.47,2,1,Young Adult
-0b69ec4d-374e-49c6-baca-4b3ed1fae5c2,The Haters,27.89,1,5,Young Adult
-f4469b19-9fc6-4a41-8968-fc32c3b7bdb5,The Art of Not Breathing,40.83,1,4,Young Adult
-37923655-43d3-43f4-a6a3-6e0c3871a1ed,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,16,4,Science
-989d5510-5de5-46b9-a3ff-3a1fa651f3e9,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,16,5,Science
-fef10a8a-ee3e-4535-95a8-0e94722e72c3,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,14,4,Science
-5a16d19a-19da-4f59-9fe5-b56b35677764,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,12,1,Science
-cd7d2bac-54af-49c5-a1a6-10edeeba17d2,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,9,1,Science
-ec9da677-1783-4ac5-85f1-33e64e242ced,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,8,1,Science
-0e689909-31cc-431b-b7be-7050a6451111,The Origin of Species,10.01,7,4,Science
-19a81cce-d861-4343-9cfc-738b54b4e586,The Grand Design,13.76,5,3,Science
-de6bb8d0-223b-4934-943d-b27e9851df5a,Peak: Secrets from the New Science of Expertise,16.28,5,2,Science
-54c8010b-ba3d-4b5e-89ae-5da76ba0f7f6,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,3,4,Science
-218af4a9-e24e-4080-8e8c-916615eb4555,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,3,5,Science
-748380ad-a4e5-48e5-b81c-d14847c57f31,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,3,2,Science
-2d416185-4f87-454c-b17c-f07eb60be3b1,Seven Brief Lessons on Physics,30.6,3,4,Science
-beac25a6-e7e3-4347-9a5d-b386ccb646c5,The Selfish Gene,29.45,1,1,Science
-1a97c42f-ec62-4307-ab9e-17330deae876,A Light in the Attic,51.77,22,3,Poetry
-2dac2c7d-38bc-43ee-bb64-3fc3ad7f4877,The Black Maria,52.15,19,1,Poetry
-597e9852-e9ea-4f75-976c-ab7f3334a071,Shakespeare's Sonnets,20.66,19,4,Poetry
-b7f9474e-1fb5-472e-a23d-0ab63610d419,Olio,23.88,19,1,Poetry
-839367e6-bee8-45d4-b42a-2ec531c13699,You can't bury them all: Poems,33.63,17,2,Poetry
-dc317a87-dcc5-4892-b299-440de363faa4,Slow States of Collapse: Poems,57.31,17,3,Poetry
-c591b462-bfcf-47a8-9b65-3a0ae5e2e31f,Untitled Collection: Sabbath Poems 2014,14.27,16,4,Poetry
-d7f26102-4b9f-4c06-a9f9-23b6e0e58d6e,Poems That Make Grown Women Cry,14.19,15,4,Poetry
-2dc3e5ad-7a85-41e2-9074-0938e4597b0e,Night Sky with Exit Wounds,41.05,15,1,Poetry
-ef972448-92e5-4499-9dd9-6c8a5cfca8c5,salt.,46.78,14,4,Poetry
-d0dde114-4442-40da-83e9-ba8cd8ad681b,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,14,5,Poetry
-ff8b3ca8-4618-4f27-994c-61acecc72d75,Out of Print: City Lights Spotlight No. 14,53.64,8,5,Poetry
-af65c9ba-2fce-4b9c-a4a8-81516d1dcfee,Les Fleurs du Mal,29.04,8,5,Poetry
-e7c23794-cacd-4711-8ae3-ae37d5c9fd33,Howl and Other Poems,40.45,8,2,Poetry
-0cb16407-5bcc-47b5-a867-60bd42e91423,Leave This Song Behind: Teen Poetry at Its Best,51.17,7,5,Poetry
-514b46b0-aa9c-47f2-b9a3-3c0ba61432ae,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,6,5,Poetry
-89c530b1-b821-402c-b07c-7fc3029960cc,The Crossover,38.77,5,4,Poetry
-18767842-8787-40c6-9013-376cd782d982,Booked,17.49,5,5,Poetry
-eeb9241b-bd82-4b59-9cc2-e7a33705b24e,Twenty Love Poems and a Song of Despair,30.95,1,4,Poetry
-2b49fd85-932b-4c66-8703-590176170a69,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,1,1,Paranormal
-8a13379d-1371-4579-9314-86daad38b238,Wall and Piece,44.18,18,4,Art
-e95dd789-14be-46a6-ac22-f1494b9be6b4,Feathers: Displays of Brilliant Plumage,49.05,14,3,Art
-fae3a6a6-5ab1-4c57-ae0f-86974ddc5b6e,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,9,4,Art
-675b397e-9a35-4716-8134-fa8d117fe00a,The New Drawing on the Right Side of the Brain,43.02,8,3,Art
-0bb8e939-0c27-4beb-9583-4869f3f4d31e,History of Beauty,10.29,8,4,Art
-c33ccdfa-9953-4430-b433-b074236ee7f1,The Story of Art,41.14,7,4,Art
-aa84aba8-b046-403f-bac3-86c02fb59fd0,The Art Book,32.34,7,2,Art
-79879d34-9d03-4b3f-986b-84dcd908268f,Ways of Seeing,39.51,1,5,Art
-55d1c135-95dd-4efe-992c-144eeb858ee0,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,14,1,Psychology
-39448cf1-0f20-4741-a4dd-26151027a3fe,The Golden Condom: And Other Essays on Love Lost and Found,39.43,12,1,Psychology
-db52126e-fee7-4aa5-8d1d-d0c10b97b082,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,11,3,Psychology
-d04b1bda-ff70-4579-ac91-a4d78d607ee9,An Unquiet Mind: A Memoir of Moods and Madness,21.3,6,3,Psychology
-fe6d0439-3807-4eab-8bcd-486f8fa8e95b,"Thinking, Fast and Slow",21.14,3,1,Psychology
-1b8d7ef5-3eb8-46c2-b8e5-571f164e9656,Civilization and Its Discontents,59.95,3,2,Psychology
-24ed5924-9cce-4373-8d25-756af06e91ea,8 Keys to Mental Health Through Exercise,31.04,3,1,Psychology
-071b393b-38f7-4c4c-b11b-b9d30c4f9def,The Argonauts,10.93,15,2,Autobiography
-14289031-289a-4a77-8ff1-2ba350c10e1a,M Train,27.18,11,1,Autobiography
-0f013803-28b5-42d2-9b08-ab1acf4bde16,Lab Girl,40.85,11,1,Autobiography
-eb6d8c89-bce9-4c87-a1af-db3be3b87b22,Approval Junkie: Adventures in Caring Too Much,58.81,5,5,Autobiography
-f2754af1-8e50-4102-9c97-4251a6b757ff,Running with Scissors,12.91,3,4,Autobiography
-76297166-5166-4cf5-9b61-2e3af3cb47e0,Me Talk Pretty One Day,57.6,3,2,Autobiography
-285f6ed0-1ea9-461e-9ecc-2a6bb864f53e,Lust & Wonder,11.87,3,2,Autobiography
-8e4c1358-65b8-4ec4-a0bb-780acbd6e4c1,Life Without a Recipe,59.04,3,5,Autobiography
-9203d193-f1df-4910-8849-7c8acc625ba7,A Heartbreaking Work of Staggering Genius,54.29,3,5,Autobiography
-5c2a4969-90e4-40f6-81c5-1b988d5a58b1,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,3,2,Parenting
-57b7116f-7ab9-4e0c-9ebd-b6e62381c14c,Fifty Shades Freed (Fifty Shades #3),15.36,3,5,Adult Fiction
-a1bde189-30d3-44c3-98fa-272641cc7e4a,The Long Haul (Diary of a Wimpy Kid #9),44.07,14,1,Humor
-8638c03f-5de3-47f4-8560-07f9a2f2e08d,Old School (Diary of a Wimpy Kid #10),11.83,14,5,Humor
-ac993787-7fc9-4439-adea-f07a4a7d5530,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,14,4,Humor
-250c8fe4-69df-4180-a7c9-2e5e8337175a,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,14,5,Humor
-07e45490-9e34-47e4-b8ca-05b98b16d72f,Dress Your Family in Corduroy and Denim,43.68,9,3,Humor
-147e4926-1b1c-4cd6-b217-71d3382f5214,Toddlers Are A**holes: It's Not Your Fault,25.55,7,1,Humor
-2e04a593-86cc-4abc-b8d8-d3a729a9f47f,When You Are Engulfed in Flames,30.89,3,5,Humor
-5b050d13-cd4a-4d59-afa8-040239fd6fcc,Naked,31.69,3,3,Humor
-5b42016e-24b0-426a-843d-1a7b2368f83d,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,3,5,Humor
-af99b477-e362-44b5-9ba7-dc66097d3a7e,Holidays on Ice,51.07,3,2,Humor
-8941fdd2-43cc-4d74-98bc-0befae208ce3,Security,39.25,16,2,Horror
-f4f0296f-37fc-427e-a2e5-d92188e2e1ae,Follow You Home,21.36,15,1,Horror
-b0abc260-c3ea-420c-8a74-61a613f0bd50,The Loney,23.4,14,1,Horror
-8dcad1bd-9cd8-4da2-b636-f81db2b49d8b,Pet Sematary,10.56,14,3,Horror
-503f4736-e4b3-4b87-984f-cbae09b18a0e,Doctor Sleep (The Shining #2),40.12,14,2,Horror
-05fe51d6-2b50-4752-ae20-554c22f85d9e,Psycho: Sanitarium (Psycho #1.5),36.97,12,5,Horror
-7337a45f-6c60-46e3-a315-a11d0928cc89,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,12,1,Horror
-5720a9b5-9c17-4cb0-8079-2e7ba483fbe8,Red Dragon (Hannibal Lecter #1),23.37,5,3,Horror
-ded95baf-721e-463c-8682-cba374eba465,Dracula the Un-Dead,35.63,5,5,Horror
-8f878cfd-b3d8-4b33-802e-9376464278b6,Night Shift (Night Shift #1-20),12.75,4,4,Horror
-67c30ffa-ff2c-4ee7-91d1-9256e12809e9,Needful Things,47.51,4,4,Horror
-01721190-bed0-4124-97ab-279babcf7d2b,Misery,34.79,4,2,Horror
-4e22141d-b4ec-494a-ba7e-4b908a974526,It,25.01,4,3,Horror
-a3dc4b25-ab6e-4689-a5fe-d963b3c6ca06,'Salem's Lot,49.56,4,4,Horror
-d7e985c1-c592-4de8-8db1-5a3ee80755d0,The Stand,57.86,3,2,Horror
-260d5c90-fbfd-44c2-a2e2-59427791110b,The Girl with All the Gifts,49.47,3,3,Horror
-d8603b85-3667-4814-b2fc-708829a0b433,House of Leaves,54.89,3,1,Horror
-a931bb67-4684-4023-8942-91d72167248c,Sapiens: A Brief History of Humankind,54.23,20,5,History
-6684a263-a641-4801-924e-ebf5cbcab669,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,16,1,History
-2d35bab8-117a-4d82-a2c6-6704bb71af46,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,16,1,History
-10b65cb3-87bb-47eb-9bf1-0857513ba7ac,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,16,2,History
-eadb1936-f5be-4d62-9219-75f7569db50e,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,15,1,History
-869abd3c-5f16-4e60-9d68-621a83aa0ae2,Zealot: The Life and Times of Jesus of Nazareth,24.7,14,3,History
-3bf61935-2a18-4df5-a7b3-2f269eb49645,A Distant Mirror: The Calamitous 14th Century,14.58,14,3,History
-b8bf5e56-7008-487b-8558-799ae80b793c,1491: New Revelations of the Americas Before Columbus,21.8,14,3,History
-392593d2-19de-4bc1-a401-c04aaf63e35e,Brilliant Beacons: A History of the American Lighthouse,11.45,8,3,History
-8d7fd894-4bf4-481d-88e4-6436f282ca58,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,8,5,History
-b016dc3b-8cfe-455e-98ca-4b0cb7b1ac20,A Short History of Nearly Everything,52.4,7,5,History
-ac515679-82f4-4741-9393-1f34895db0d9,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,6,2,History
-dce2b65c-f71c-4277-9f70-577b72fe2b71,Catherine the Great: Portrait of a Woman,58.55,6,4,History
-f49a73dc-b538-4db4-a9ba-0b71ce8a894d,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,5,5,History
-f1443ff2-ecf2-450d-9a90-6ef10f23d7e6,The Hiding Place,55.91,5,4,History
-bb9c0d32-e315-4c03-bbb7-eb446de1f1fb,America's War for the Greater Middle East: A Military History,51.22,5,2,History
-420475b9-df90-4a76-82d2-31b4beded469,The Guns of August,14.54,3,2,History
-79bece72-1c89-471d-bf3a-df2e391eb4bb,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,3,2,History
-2da1f156-3485-490f-a6fa-a298c8e7c8fd,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,19,3,Food and Drink
-828f3fc4-160c-48c7-9196-c8e235653d13,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,16,1,Food and Drink
-35a6040d-ee65-4da7-8bac-90cc5a7c3ee4,My Paris Kitchen: Recipes and Stories,33.37,16,2,Food and Drink
-5b8bd371-4a03-4833-a40a-dd5e1253e995,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,16,4,Food and Drink
-775a991b-0a7d-4fce-b500-854ccbb3067e,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,16,1,Food and Drink
-5e0b77e8-c362-496a-aafc-718f94118cf4,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,15,5,Food and Drink
-ffd839d3-47b6-4357-8632-ea9db15bcceb,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,15,2,Food and Drink
-83627299-b232-4f66-b7bb-60f56c4ccb3d,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,15,1,Food and Drink
-08542c01-563c-4216-81b0-7549d4c3776d,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,15,3,Food and Drink
-95f6dea3-a55a-49ce-846e-467631f2aecb,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,14,3,Food and Drink
-6a5047b4-ee28-47ed-a121-f3f168c6c8b2,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,14,1,Food and Drink
-f763eae1-fbac-469d-ba4b-326bab5ddf58,Barefoot Contessa Back to Basics,28.01,14,1,Food and Drink
-437748b7-84e3-451f-bbc6-da5e12250430,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,14,5,Food and Drink
-64bbd634-0d86-4b55-b58f-3771f42ffcfc,My Kitchen Year: 136 Recipes That Saved My Life,11.53,13,2,Food and Drink
-4bb870df-4db9-4497-83ab-3ac377aff420,Everyday Italian: 125 Simple and Delicious Recipes,20.1,12,5,Food and Drink
-3066231c-3dc8-49c3-962d-d34bff0abc1c,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,12,1,Food and Drink
-2ccd72ed-e3cf-4b38-9c0e-095c5d0fa8a3,Cravings: Recipes for What You Want to Eat,20.5,11,3,Food and Drink
-e2377fbc-433a-46a6-b505-af90f9a85869,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,9,4,Food and Drink
-7c4998ef-c40f-4c9e-ab01-a107c69e01f7,32 Yolks,53.63,8,2,Food and Drink
-ad1a1e55-e621-41a8-83a4-fb721f76f927,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,7,5,Food and Drink
-9d098627-9ec1-4443-99fa-82b1c1a89c94,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,7,4,Food and Drink
-419381e2-9477-4372-bbf2-f67d439bb728,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,7,2,Food and Drink
-71454c87-a353-48f9-865e-269d2c7817f1,The Barefoot Contessa Cookbook,59.92,6,5,Food and Drink
-2759df84-f63a-4a84-bdab-6492cbf8f7da,Better Homes and Gardens New Cook Book,39.61,6,3,Food and Drink
-e6906468-afde-4f39-bf45-f811b4d3b4ca,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,5,5,Food and Drink
-5981c55f-3036-4f16-967e-a8afea683bf0,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,5,5,Food and Drink
-e9f4be25-89da-4003-9f69-51f190d50614,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,3,2,Food and Drink
-983ce731-ca71-40d3-a45c-9411edc4448e,The Smitten Kitchen Cookbook,23.59,3,1,Food and Drink
-05ec44cb-2bda-4d5b-9ead-2e64a385bc79,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,3,3,Food and Drink
-a7c76114-ea09-477b-a4eb-ef5d83deb95b,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,3,3,Food and Drink
-2a5056f4-48a7-423a-9ce4-57be30230c33,Redeeming Love,20.47,15,5,Christian Fiction
-6a5edb2d-42c8-4111-9ab7-a0c60bb4ea11,Close to You,49.46,15,4,Christian Fiction
-475eb582-97f8-4953-a4ea-bec70d74a857,Shadows of the Past (Logan Point #1),39.67,8,5,Christian Fiction
-f12c5594-c2f3-4c20-9601-d7bdee10ac76,Like Never Before (Walker Family #2),28.77,7,2,Christian Fiction
-d568063e-e109-4d4f-8d37-ee11d1b29154,Counted With the Stars (Out from Egypt #1),17.97,7,5,Christian Fiction
-d936f8da-733b-4eac-9d4f-38f206d68c9c,If I Run (If I Run #1),49.97,3,4,Christian Fiction
-033644d7-f99e-42f8-ab1a-603c8338e4b6,The Dirty Little Secrets of Getting Your Dream Job,33.34,19,4,Business
-7a142e4a-4d19-40ee-b481-e025f8c97d9e,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,15,5,Business
-9fc83afd-e6b7-4d4c-9354-01906685f9fc,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,15,3,Business
-73c503a6-30cd-4e0b-b3d0-619fb36eee17,Shoe Dog: A Memoir by the Creator of NIKE,23.99,15,2,Business
-dad04608-2d4c-495e-bdb5-37d42e6ccebb,Made to Stick: Why Some Ideas Survive and Others Die,38.85,14,5,Business
-9ab74399-13cb-47d7-98c4-19b87a21971c,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,12,1,Business
-81b59234-a6c4-4c4c-832e-98427a09f835,The Art of Startup Fundraising,21.0,11,3,Business
-44eb5325-c1d0-481d-b5b4-514f0473dfff,Born for This: How to Find the Work You Were Meant to Do,21.59,11,5,Business
-e9cfec63-e8c2-4494-aba1-a907f8ed302c,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,8,1,Business
-52f306cf-30b2-478a-a36c-7e66058d3e5c,"Rich Dad, Poor Dad",51.74,7,1,Business
-2c8cf86f-56f6-4a86-a00e-cd777cedec25,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3,3,Business
-94a999ae-14d1-4e63-805a-01ce7c928233,Rework,44.88,3,2,Business
-cd9863cf-9f65-4067-983d-f6a975471244,Louisa: The Extraordinary Life of Mrs. Adams,16.85,15,2,Biography
-ea2a4eee-2479-4308-8581-6f1f12ba4bba,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,11,2,Biography
-62ecb284-2381-4f43-b1ff-b5aaa75c38a3,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,7,1,Biography
-37ae4446-f63c-4ac3-8124-cffec0ecd276,Benjamin Franklin: An American Life,48.19,7,3,Biography
-5a04705b-04e9-476d-963c-154ca95fc010,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,3,3,Biography
-9b8d3661-0bbc-44f9-a8c8-d32e84c52e2c,In Her Wake,12.84,19,1,Thriller
-0ed90ef5-6c75-48f1-9281-b25e6951142b,The Elephant Tree,23.82,18,5,Thriller
-fe677ff2-3888-4cfe-87e2-c42ef4aab215,Behind Closed Doors,52.22,18,4,Thriller
-baa45975-2b78-46dc-b94c-8c18732fe090,You (You #1),43.61,14,5,Thriller
-46d8e227-0083-4d05-81a9-16c237aa4530,The Guilty (Will Robie #4),13.82,14,2,Thriller
-3c9950f9-6fd5-4aa4-9a12-1ff41e573e69,The 14th Colony (Cotton Malone #11),39.24,14,1,Thriller
-3f820b7a-f260-43c1-9c96-f2be67e56391,Give It Back,18.32,6,2,Thriller
-a44330ba-d987-4650-bb43-c4f6114cfad4,Killing Floor (Jack Reacher #1),31.49,5,4,Thriller
-cc3e4b45-0bdd-4d3f-a47d-c3571be45c7f,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,4,3,Thriller
-9186adc3-203c-4ae0-af9e-394c09710f63,Far From True (Promise Falls Trilogy #2),34.93,4,2,Thriller
-52c0be02-3cf8-4f2f-bb0e-d637e7fe2612,The Travelers,15.77,3,1,Thriller
-4da0dc7f-dbf4-4772-a3a9-6f57e3f5b9bb,When We Collided,31.77,16,1,Contemporary
-af55dc3d-0c7d-460e-acb1-a123a72a8060,Someone Like You (The Harrisons #2),52.79,14,5,Contemporary
-81dc5cb8-51c6-45c5-a1d4-5242a49b5c6e,We Are All Completely Beside Ourselves,24.04,3,1,Contemporary
-29c4de8a-f194-4a64-af74-24ef2598a616,The Four Agreements: A Practical Guide to Personal Freedom,17.66,18,5,Spirituality
-57ee89cd-a4f6-4ed4-b65e-10598972c04a,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,16,5,Spirituality
-edf0516e-2ea4-43a1-9112-70d51de9ca8e,Chasing Heaven: What Dying Taught Me About Living,37.8,15,2,Spirituality
-f9bfa123-d610-40a8-a4c3-b619ab83384c,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,9,1,Spirituality
-f01d5953-425f-4e1f-ba3a-55be5773b83b,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,7,2,Spirituality
-08e2f6d3-c422-42a3-8f8f-c285c787f31c,A New Earth: Awakening to Your Life's Purpose,55.65,4,5,Spirituality
-8a6cd3a7-298b-4e48-9470-29c49d07a4b9,Logan Kade (Fallen Crest High #5.5),13.12,5,2,Academic
-568590b8-88d9-4767-9fb7-01eb7f0d4859,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,16,1,Self Help
-df50c59f-c215-4e8b-85f8-9b2792f50fcd,How to Be Miserable: 40 Strategies You Already Use,46.03,16,1,Self Help
-034b55cc-238b-4e04-9152-2d27fb0e8399,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,14,3,Self Help
-92ade525-5d45-4d12-bdbf-a47ee6c9015f,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,7,3,Self Help
-0690d816-ceb9-45a9-92c4-b1ae3c499f61,How to Stop Worrying and Start Living,46.49,6,5,Self Help
-e610226e-a117-4dc7-a2ba-42f9850d8d03,All the Light We Cannot See,29.87,14,5,Historical
-1bc33087-e1d0-48cd-b84d-254253b12fe1,The Girl You Left Behind (The Girl You Left Behind #1),15.79,6,1,Historical
-4d7e76ae-13a9-44b3-a61f-8e6f82723502,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,16,5,Christian
-81344d25-cab9-4ab7-adac-4d151d18d2e6,Crazy Love: Overwhelmed by a Relentless God,47.72,14,2,Christian
-a1d8d921-7712-4bf5-9df3-e2298a5e527a,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,7,1,Christian
-119c82d2-728a-42c6-a42b-0e73d873261b,Silence in the Dark (Logan Point #4),58.33,8,3,Suspense
-33dcb052-61f8-4911-9881-927d406a5d50,The Grownup,35.88,8,1,Short Stories
-0327cf78-2f55-4114-ab1b-6476e8045a7a,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,9,5,Novels
-0cb6ee6a-90ea-4d96-a12a-8f92db56bac3,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,16,3,Health
-8f167298-ebe2-4b66-8c0d-3ab35af6a97e,"Eat Fat, Get Thin",54.07,14,2,Health
-b0d52b4f-18e3-4911-8036-c243a9470cb0,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,10,5,Health
-2322e483-fc22-4341-ad8c-a602db4eff13,The Art and Science of Low Carbohydrate Living,52.98,9,5,Health
-f15d8e52-8836-4d4f-ae0c-0fea659bab92,Libertarianism for Beginners,51.33,19,2,Politics
-8c3dda8f-9ae4-46c9-a12e-75955b715dc7,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,14,4,Politics
-95f9fa02-26e3-49a7-b696-e2f77f591ba5,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,12,1,Politics
-8c3e983f-81ee-4f55-9c83-a64b57eb69a3,Amid the Chaos,36.58,15,1,Cultural
-6de68311-c1fa-489a-a924-49f1c955ca27,Dark Notes,19.19,15,5,Erotica
-f530467a-568e-45a6-ba00-3165ece19452,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,15,1,Crime
+de9e2fef-580b-476a-b0cb-348c43a6519e,It's Only the Himalayas,45.17,19,2,Travel
+fad5b183-0b2c-405b-a03a-0ef633941676,Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond,49.43,15,4,Travel
+968a18aa-cd94-4a8b-82ae-bf5eb06cc11e,See America: A Celebration of Our National Parks & Treasured Sites,48.87,14,3,Travel
+b3d53e02-7b87-4721-bf9c-03ff659cfce8,Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel,36.94,8,2,Travel
+6d9b2004-86d8-4fbd-9825-50ad64b5289c,Under the Tuscan Sun,37.33,7,3,Travel
+d1c42d0d-eee0-4a8b-8467-a66e865022cf,A Summer In Europe,44.34,7,2,Travel
+ab80866d-4b53-4d8f-81d1-6c0c2bdf93fd,The Great Railway Bazaar,30.54,6,1,Travel
+7a0c4934-ad3f-47d2-a4b0-e489a41ab983,A Year in Provence (Provence #1),56.88,6,4,Travel
+d89a1534-42ae-4439-9ba7-38808f7acbd1,The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2),23.21,3,1,Travel
+d6aba15d-3b6c-4b16-ae81-6a659b831b86,Neither Here nor There: Travels in Europe,38.95,3,3,Travel
+0d26614f-fa43-4aa1-9488-e6974e62471d,"1,000 Places to See Before You Die",26.08,1,5,Travel
+e93b6eca-f211-4148-ba53-497491e1ac78,Sharp Objects,47.82,20,4,Mystery
+cd70d332-2738-4461-b74a-b96fff73ba6a,"In a Dark, Dark Wood",19.63,18,1,Mystery
+33cd9000-2ad1-434d-a82f-386e936e51de,The Past Never Ends,56.5,16,4,Mystery
+30d5ce99-64b5-454b-879b-8687b549aeed,A Murder in Time,16.64,16,1,Mystery
+64b6d24f-c5b2-45ca-b3d6-14045b7a1063,The Murder of Roger Ackroyd (Hercule Poirot #4),44.1,15,4,Mystery
+5fa08fd3-f779-4e2c-a173-e3b2df4337d6,The Last Mile (Amos Decker #2),54.21,14,2,Mystery
+4554f7d4-37db-428c-a54e-985bc6b5bdfb,That Darkness (Gardiner and Renner #1),13.92,14,1,Mystery
+56c7aeb4-a59d-444d-ad29-9e9f7424c4d7,Tastes Like Fear (DI Marnie Rome #3),10.69,14,1,Mystery
+bf1b1adf-592e-4cae-add8-cc75e391f1c9,A Time of Torment (Charlie Parker #14),48.35,14,5,Mystery
+6a48261d-a5ff-464a-9ee1-7642353f8d48,A Study in Scarlet (Sherlock Holmes #1),16.73,14,2,Mystery
+1fc91511-cc90-424a-9a49-e52824094d77,Poisonous (Max Revere Novels #3),26.8,12,3,Mystery
+966eb6b6-1426-4aee-a2bb-b0a1c4ce6e69,Murder at the 42nd Street Library (Raymond Ambler #1),54.36,12,4,Mystery
+75521b88-f87d-4f69-8804-0bd0979bfcce,Most Wanted,35.28,12,3,Mystery
+a037a811-1478-4ace-86ce-3ed9c6141169,Hide Away (Eve Duncan #20),11.84,12,1,Mystery
+aa187173-768b-43d4-87a5-64c4c29ab278,Boar Island (Anna Pigeon #19),59.48,12,3,Mystery
+cbc2b192-4e49-4818-bc8e-a3f96c0c7045,The Widow,27.26,11,2,Mystery
+26d182be-82ba-4e33-9c58-175cb09da66a,Playing with Fire,13.71,11,3,Mystery
+1acbb047-d754-424c-9ca5-9e43de58e0d6,What Happened on Beale Street (Secrets of the South Mysteries #2),25.37,7,5,Mystery
+631a558b-d74e-4510-b1c4-91036ed05797,The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1),52.3,7,5,Mystery
+aec65286-9274-40f6-bffe-fc774a7e6b7f,Delivering the Truth (Quaker Midwife Mystery #1),20.89,7,4,Mystery
+9d990ce3-7cf8-4d19-ae25-83193ee96d60,The Mysterious Affair at Styles (Hercule Poirot #1),24.8,6,4,Mystery
+f2db9e53-f584-4c27-a71f-62f762edc75f,In the Woods (Dublin Murder Squad #1),38.38,6,2,Mystery
+979cc3bc-36bb-42eb-9562-9fbd6ba6b3fb,The Silkworm (Cormoran Strike #2),23.05,3,5,Mystery
+55d1c3ba-cb5d-4000-9e36-45e08eb0375e,The Exiled,43.45,3,3,Mystery
+380dee4a-083e-4859-8c5f-6ff729aab999,The Cuckoo's Calling (Cormoran Strike #1),19.21,3,1,Mystery
+0efc5d26-60fc-4fb1-8231-df54e54c693d,Extreme Prey (Lucas Davenport #26),25.4,3,3,Mystery
+39e14d0f-8db6-4161-bb66-01cf3cfbd325,Career of Evil (Cormoran Strike #3),24.72,3,2,Mystery
+1dd6e11d-2abc-41b5-8e17-93dc056d3404,The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency #1),57.7,1,4,Mystery
+2d12eeed-2ba3-4d14-b60b-f2221202da9d,The Girl You Lost,12.29,1,5,Mystery
+027923aa-2de3-4ff5-8db7-f911560b8815,The Girl In The Ice (DCI Erika Foster #1),15.85,1,3,Mystery
+4154b7e8-50c5-44f9-8a42-92197cde7c6b,Blood Defense (Samantha Brinkman #1),20.3,1,3,Mystery
+76885f60-7786-4915-a94a-d7e7195b976f,1st to Die (Women's Murder Club #1),53.98,1,1,Mystery
+c7bd143f-70bd-4f92-b9f0-7b09983e7323,Tipping the Velvet,53.74,20,1,Historical Fiction
+98793289-2417-49cf-82f9-4bfd2441b492,Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton,29.69,16,3,Historical Fiction
+0a7cd835-d25b-47a8-a34b-78c4ee0529a1,A Flight of Arrows (The Pathfinders #2),55.53,16,5,Historical Fiction
+536c1d28-09fe-4bd4-ac59-0d3bcee62fa0,The House by the Lake,36.95,15,1,Historical Fiction
+7d096eee-bc3e-4676-8337-c371ebefb206,Mrs. Houdini,30.25,15,5,Historical Fiction
+0f635247-9650-47e9-95d0-d76e75311de8,The Marriage of Opposites,28.08,14,4,Historical Fiction
+49028c6b-6af8-4cf2-8aff-6ffbd905d98c,Glory over Everything: Beyond The Kitchen House,45.84,14,3,Historical Fiction
+af0f71e6-9d44-459f-9de1-301471815fd0,"Love, Lies and Spies",20.55,12,2,Historical Fiction
+f0917622-8003-4988-9277-d573223b1fc9,A Paris Apartment,39.01,12,4,Historical Fiction
+9f5b5c58-5e59-4e58-a536-146d9fdc8872,Lilac Girls,17.28,11,2,Historical Fiction
+fffb445b-05cf-4aa6-82fb-6ae76edca46f,The Constant Princess (The Tudor Court #1),16.62,7,3,Historical Fiction
+ef4600e0-3b9f-4993-97d7-63c5327bed68,The Invention of Wings,37.34,6,1,Historical Fiction
+5c31fd9f-abfd-4612-af84-f1ce81bb496d,World Without End (The Pillars of the Earth #2),32.97,5,4,Historical Fiction
+812a2cc3-4495-43d9-8cd8-ebfcd4f2e5a5,The Passion of Dolssa,28.32,4,5,Historical Fiction
+d4ba6268-26c9-4c9e-8508-547b83206d29,Girl With a Pearl Earring,26.77,4,1,Historical Fiction
+4425b906-74cf-40f0-a735-649dcf846b5e,Voyager (Outlander #3),21.07,3,5,Historical Fiction
+eafaf5be-e253-4972-aee0-cb0cc31cd9a5,The Red Tent,35.66,3,5,Historical Fiction
+2d31cef4-f2bf-44f2-aba4-6e7fa2ce7445,The Last Painting of Sara de Vos,55.55,3,2,Historical Fiction
+be41dc6e-0dfd-4a21-bad6-5b8f0d396437,The Guernsey Literary and Potato Peel Pie Society,49.53,3,1,Historical Fiction
+ee302f9b-f64a-45f0-91e5-141ef38b6a30,Girl in the Blue Coat,46.83,3,2,Historical Fiction
+24aec820-ac61-46ff-8181-14b7111d7e32,Between Shades of Gray,20.79,3,5,Historical Fiction
+835c16c8-07bc-43f9-b765-e069c36f810c,While You Were Mine,41.32,1,5,Historical Fiction
+bc9dccbc-256e-48af-9a2d-0ef7a66cc406,The Secret Healer,34.56,1,3,Historical Fiction
+8933f288-44e6-4d12-94f7-003f58104ae9,Starlark,25.83,1,3,Historical Fiction
+7879a14a-4f73-4715-8bb3-bf6f9c115ccf,Lost Among the Living,27.7,1,4,Historical Fiction
+9c456d3c-68ca-4b19-8f8b-6d7631f4298e,A Spy's Devotion (The Regency Spies of London #1),16.97,1,5,Historical Fiction
+5b139c6e-97ef-43f6-a3b9-555129b25da4,Scott Pilgrim's Precious Little Life (Scott Pilgrim #1),52.29,19,5,Sequential Art
+d045c5f0-738b-4789-8b65-1ac0f2f6df53,Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2),16.28,16,1,Sequential Art
+c2116668-8a85-41a5-b570-d2c09d0e39f0,This One Summer,19.49,16,4,Sequential Art
+45548cc9-6544-42f8-82ed-a0f7b8a530d6,The Nameless City (The Nameless City #1),38.16,16,4,Sequential Art
+5c6c3cb3-ee17-4f9f-a4c2-3dba454ceba5,"Saga, Volume 5 (Saga (Collected Editions) #5)",51.04,16,2,Sequential Art
+bf905b83-b9e0-4518-b75d-cdeec0096204,"Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)",50.4,16,3,Sequential Art
+1e3c941b-54d6-45d4-a01c-e7f74e246e0e,"Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)",13.61,16,5,Sequential Art
+012ad0b2-6619-4562-a9d1-078f2ff40104,"Pop Gun War, Volume 1: Gift",18.97,16,1,Sequential Art
+d35b8c63-bc4f-4bad-8446-c4b7aacdb11d,Patience,10.16,16,3,Sequential Art
+945f36af-e686-4495-b9af-19765de54585,"Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)",15.44,16,4,Sequential Art
+ebbba872-2c06-4862-bb7c-61dc31933612,orange: The Complete Collection 1 (orange: The Complete Collection #1),48.41,16,1,Sequential Art
+73c996ca-393e-46ee-a920-8c44d5b63d7a,"Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)",46.91,16,2,Sequential Art
+66436b3b-9965-452d-b127-5d20fa1f4e3d,"Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)",45.61,16,3,Sequential Art
+bde911f0-4138-4477-a06a-a14da617cc8f,Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12),19.92,16,2,Sequential Art
+ac2c689d-2b78-43fe-a73c-746cdd021e17,"I Hate Fairyland, Vol. 1: Madly Ever After (I Hate Fairyland (Compilations) #1-5)",29.17,16,2,Sequential Art
+7e56149a-95ab-4076-b1fc-9b6430644f03,I am a Hero Omnibus Volume 1,54.63,16,3,Sequential Art
+b356f083-ff14-497a-b8d4-f348432954c8,"Giant Days, Vol. 2 (Giant Days #5-8)",22.11,16,2,Sequential Art
+fe828106-399a-43eb-b36a-af0821a28a1b,Danganronpa Volume 1,51.99,16,4,Sequential Art
+5bc747f3-b6df-4492-bd4f-edacb1709f54,"Codename Baboushka, Volume 1: The Conclave of Death",36.72,16,4,Sequential Art
+4144342e-369c-4724-8b39-3eaa9b05cba4,Camp Midnight,17.08,16,4,Sequential Art
+493cdbcc-7c8f-47cc-b802-efaef136afa3,"Bitch Planet, Vol. 1: Extraordinary Machine (Bitch Planet (Collected Editions))",37.92,16,2,Sequential Art
+abb326f4-f758-4004-8e19-df7f416d902a,The Shadow Hero (The Shadow Hero),33.14,15,1,Sequential Art
+7706e943-6fa7-473d-8901-a4c2a21d3c92,"Fables, Vol. 1: Legends in Exile (Fables #1)",41.62,15,4,Sequential Art
+3a1ff450-124a-4f37-9d72-5106b499b5e6,Batman: The Long Halloween (Batman),36.5,15,2,Sequential Art
+5a1b9608-cc89-4f65-8af0-44f9f440b7bd,Batman: The Dark Knight Returns (Batman),15.38,15,5,Sequential Art
+89ea939d-c7e0-4f72-9d06-6af8da2beb42,"Wonder Woman: Earth One, Volume One (Wonder Woman: Earth One #1)",37.34,14,4,Sequential Art
+905a9497-66f5-47fc-a241-3d61cb932a89,"We Are Robin, Vol. 1: The Vigilante Business (We Are Robin #1)",53.9,14,1,Sequential Art
+3aa74291-2042-4e59-b52a-e7a5edff6360,Through the Woods,25.38,14,2,Sequential Art
+8700d2fc-cb02-45d4-a5ab-74d3d37d1aa7,Superman Vol. 1: Before Truth (Superman by Gene Luen Yang #1),11.89,14,5,Sequential Art
+051fb897-1fa2-427f-8974-8f723e5a6d24,"So Cute It Hurts!!, Vol. 6 (So Cute It Hurts!! #6)",35.43,14,4,Sequential Art
+ca0192bb-4c3c-46b3-bfb9-284d948e3e14,Robin War,47.82,14,3,Sequential Art
+c4c4d77d-c5e7-4c8f-853b-d2e26693e69f,"Red Hood/Arsenal, Vol. 1: Open for Business (Red Hood/Arsenal #1)",25.48,14,2,Sequential Art
+a4240d32-487f-4093-a0f6-a41b9de18224,"Naruto (3-in-1 Edition), Vol. 14: Includes Vols. 40, 41 & 42 (Naruto: Omnibus #14)",38.39,14,2,Sequential Art
+709f3c62-a34b-4a3d-8212-926fb71d1728,Lowriders to the Center of the Earth (Lowriders in Space #2),51.51,14,2,Sequential Art
+b81b0669-22b3-4dbc-9bde-5bd67142e720,El Deafo,57.62,14,5,Sequential Art
+37f265ab-1076-4330-9118-fd270adfb591,Batman: Europa,32.01,14,2,Sequential Art
+f3688e70-8df4-4d80-bdc3-687eb4090a46,Art Ops Vol. 1,48.8,14,3,Sequential Art
+719c72d3-0b6e-4dbd-a807-e0d83dea0fe3,"Adulthood Is a Myth: A ""Sarah's Scribbles"" Collection",10.9,14,2,Sequential Art
+e8768343-a23a-43c3-9bea-d8e889c5726a,"Fruits Basket, Vol. 9 (Fruits Basket #9)",33.95,9,4,Sequential Art
+3748147a-608b-46a8-bfd0-b2609b56cf74,Roller Girl,14.1,8,5,Sequential Art
+34b21550-4065-4428-9154-a67e21c09850,"Fruits Basket, Vol. 7 (Fruits Basket #7)",19.57,7,1,Sequential Art
+f3b58651-f23f-4a54-883f-03bffc61b554,"Fruits Basket, Vol. 6 (Fruits Basket #6)",20.96,6,4,Sequential Art
+1a96e374-923c-418b-819c-6e2a02f9e6d4,"Death Note, Vol. 6: Give-and-Take (Death Note #6)",36.39,6,3,Sequential Art
+1dc1781e-6155-4cf1-bc08-99c79996f6d1,"Fruits Basket, Vol. 5 (Fruits Basket #5)",16.33,5,1,Sequential Art
+858dbbfb-8501-4cff-becb-ef974067cabc,"Death Note, Vol. 5: Whiteout (Death Note #5)",52.41,5,1,Sequential Art
+bd1419f4-de80-47af-8803-ba920af34c4a,"The Demon Prince of Momochi House, Vol. 4 (The Demon Prince of Momochi House #4)",27.88,4,2,Sequential Art
+705686d9-4a7b-41cb-8aae-bd24bd643253,"Fruits Basket, Vol. 4 (Fruits Basket #4)",50.44,4,4,Sequential Art
+16e34483-55e9-4b62-9268-5a35a2dfce85,"The Wicked + The Divine, Vol. 3: Commercial Suicide (The Wicked + The Divine)",14.41,3,3,Sequential Art
+39c82eac-9065-4a6e-b4d1-f43a303ff45c,"The Sandman, Vol. 3: Dream Country (The Sandman (volumes) #3)",55.55,3,5,Sequential Art
+060d2a3b-b33f-453c-ae36-b40e8270ae9b,"Saga, Volume 3 (Saga (Collected Editions) #3)",21.57,3,5,Sequential Art
+b23d08b8-11c6-473f-b5c8-fe4e94774b0f,Prodigy: The Graphic Novel (Legend: The Graphic Novel #2),43.63,3,3,Sequential Art
+1a6e2876-e10a-4c23-8b72-49ba7c42f5d0,Persepolis: The Story of a Childhood (Persepolis #1-2),39.13,3,1,Sequential Art
+7ff3954a-aa2e-4a2a-93d2-a7c2b1e63682,Original Fake,31.45,3,3,Sequential Art
+3a4ee743-7452-45bb-9a73-61fef7e8b750,"Grayson, Vol 3: Nemesis (Grayson #3)",42.72,3,1,Sequential Art
+4c84d92d-2c64-4971-ae09-21596390d9a8,"Fruits Basket, Vol. 3 (Fruits Basket #3)",45.17,3,2,Sequential Art
+21e1927c-a899-4324-bd5f-93b7e75c2b93,"Black Butler, Vol. 1 (Black Butler #1)",49.31,3,1,Sequential Art
+8fe8f4b0-af07-4a7d-8b90-6c57698063dc,Awkward,38.02,3,2,Sequential Art
+e3e64e61-1fd3-40d8-8322-fe4fe2b722aa,"The Sandman, Vol. 2: The Doll's House (The Sandman (volumes) #2)",54.81,2,1,Sequential Art
+56d457bd-f144-454d-b6c4-2ee30c89996f,"Saga, Volume 2 (Saga (Collected Editions) #2)",11.75,2,3,Sequential Art
+b6d395f6-fffe-4fde-9d52-833ad8865ba9,"Fruits Basket, Vol. 2 (Fruits Basket #2)",11.64,2,5,Sequential Art
+814a1c4b-19db-4062-aa20-4f546a1c0910,"Y: The Last Man, Vol. 1: Unmanned (Y: The Last Man #1)",18.51,1,4,Sequential Art
+63b0aaf3-d197-415f-a5a3-18419dd4b896,"The Wicked + The Divine, Vol. 1: The Faust Act (The Wicked + The Divine)",36.52,1,2,Sequential Art
+da79207c-a139-4e70-ac36-ec00cc92cac5,"The Sandman, Vol. 1: Preludes and Nocturnes (The Sandman (volumes) #1)",54.12,1,3,Sequential Art
+0ecc80d2-1391-416a-b7e8-fc05fc038f31,The Complete Maus (Maus #1-2),10.64,1,3,Sequential Art
+ad429c1e-b641-466d-810f-9a3bc102f730,"Skip Beat!, Vol. 01 (Skip Beat! #1)",42.12,1,3,Sequential Art
+1404649b-5721-4c6f-8e24-e2d047f8f945,"Saga, Volume 1 (Saga (Collected Editions) #1)",28.48,1,1,Sequential Art
+2c66a80a-9b39-4adb-8c53-a60ad91b6fb5,"Rat Queens, Vol. 1: Sass & Sorcery (Rat Queens (Collected Editions) #1-5)",46.96,1,5,Sequential Art
+aaeb9246-5a4e-4701-91f3-b00eb725955a,"Paper Girls, Vol. 1 (Paper Girls #1-5)",21.71,1,4,Sequential Art
+94296fd8-c4f4-48ef-8a57-f1a6a9eb1ef7,"Ouran High School Host Club, Vol. 1 (Ouran High School Host Club #1)",29.87,1,3,Sequential Art
+5da0953d-2464-44a9-9fc4-656353cd380e,"Ms. Marvel, Vol. 1: No Normal (Ms. Marvel (2014-2015) #1)",39.39,1,4,Sequential Art
+0cfbc780-0528-4701-bc20-4f2019549cf1,"Hawkeye, Vol. 1: My Life as a Weapon (Hawkeye #1)",45.24,1,3,Sequential Art
+1f258701-8316-4281-ad99-8c223cdefdc4,"Giant Days, Vol. 1 (Giant Days #1-4)",56.76,1,4,Sequential Art
+0926588e-60e9-4cde-8b4f-9bb77452a8f5,"Fruits Basket, Vol. 1 (Fruits Basket #1)",40.28,1,5,Sequential Art
+f1319e66-48fa-42a2-9c5e-6a6cdf96dc1b,"Bleach, Vol. 1: Strawberry and the Soul Reapers (Bleach #1)",34.65,1,5,Sequential Art
+520ce17b-9208-455e-8196-982a08aa7b71,"Ajin: Demi-Human, Volume 1 (Ajin: Demi-Human #1)",57.06,1,4,Sequential Art
+6f04704e-0cec-44b6-bce2-098bdbfc7d9a,The Secret Garden,15.08,5,4,Classics
+6e4067be-6b5b-4fa3-8c9b-c3624ebafed0,The Metamorphosis,28.58,5,1,Classics
+4f5770c1-b112-49a5-ba63-513de9708b08,The Pilgrim's Progress,50.26,4,2,Classics
+655182c2-0399-47d3-8549-945b673bf108,The Hound of the Baskervilles (Sherlock Holmes #5),14.82,4,2,Classics
+87557781-a4d2-4d73-b5f4-30cf753974bd,Little Women (Little Women #1),28.07,4,4,Classics
+c01f23ad-bae5-4dde-ba30-777a861743b5,Gone with the Wind,32.49,4,3,Classics
+b4fcc025-0049-455d-9ce3-c8e08f774f9f,Candide,58.63,4,3,Classics
+030f6015-f8d0-441d-a59d-42264e089fe0,Animal Farm,57.22,4,3,Classics
+995a7903-cdf3-4d2b-9888-28eaf1093c59,Wuthering Heights,17.73,3,3,Classics
+48dbe3c2-ab2b-490b-8f3b-ca6d81a77144,The Picture of Dorian Gray,29.7,3,2,Classics
+b42d0543-5d9c-4054-966d-dbd341c53da0,The Complete Stories and Poems (The Works of Edgar Allan Poe [Cameo Edition]),26.78,3,4,Classics
+ef9ef28c-d6a2-4001-9630-70954d4be175,Beowulf,38.35,3,2,Classics
+c265c8d4-489c-4176-9425-33118e619d35,And Then There Were None,35.01,3,2,Classics
+dc902b89-ec41-45b2-9b10-06080af6e4cf,The Story of Hong Gildong,43.19,1,4,Classics
+816175ea-1d07-4df3-b325-768e76eb8f42,The Little Prince,45.42,1,2,Classics
+62caebc2-c55f-44b9-b1a4-a12f9f6065b2,Sense and Sensibility,37.46,1,1,Classics
+b143b5db-8c5e-4659-9afc-bb93789bc350,Of Mice and Men,47.11,1,2,Classics
+288c002d-4ff7-42fc-970b-9ddbe98bc01f,Emma,32.93,1,2,Classics
+ab9f2577-494c-4eab-b176-52e3286ffd2e,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,1,1,Classics
+dab3d814-276a-48fe-a9c1-b8c476c825dd,Sophie's World,15.94,18,5,Philosophy
+a18ec688-3459-4a03-8746-f0b60a5c67fd,The Death of Humanity: and the Case for Life,58.11,16,4,Philosophy
+8654c9fe-aac7-4bdd-bcae-b35f678809eb,The Stranger,17.44,15,4,Philosophy
+eb449b9a-cbf3-4119-900f-5d8754fc6d1c,Proofs of God: Classical Arguments from Tertullian to Barth,54.21,8,1,Philosophy
+ebc786d0-3adb-43fc-af59-8d377de68745,Kierkegaard: A Christian Missionary to Christians,47.13,8,1,Philosophy
+09ce7443-8de7-4356-87be-ddf2ce855fa1,"At The Existentialist Café: Freedom, Being, and apricot cocktails with: Jean-Paul Sartre, Simone de Beauvoir, Albert Camus, Martin Heidegger, Edmund Husserl, Karl Jaspers, Maurice Merleau-Ponty and others",29.93,7,5,Philosophy
+d2d9d2b7-f842-4444-8fcd-5505b50b271b,Critique of Pure Reason,20.75,5,1,Philosophy
+817cd262-7940-42c0-8032-843a62f7baa9,"Run, Spot, Run: The Ethics of Keeping Pets",20.02,2,1,Philosophy
+c7fd6b0d-0521-4e3c-ab3d-babc3b7fb57a,The Nicomachean Ethics,36.34,1,1,Philosophy
+b557e480-b00a-462e-8dc1-f32178a6e6ca,Meditations,25.89,1,2,Philosophy
+57ae320e-3b1f-49b2-ae91-2b4cf55f8517,Beyond Good and Evil,43.38,1,1,Philosophy
+410100ea-4281-4228-8118-8958bc4a547e,Chase Me (Paris Nights #2),25.27,19,5,Romance
+77380185-d7b9-4311-9e37-ae4c7af422d5,Black Dust,34.53,19,5,Romance
+16363631-6c1a-4e08-82d2-20a9e9f90ec8,Her Backup Boyfriend (The Sorensen Family #1),33.97,16,1,Romance
+3454d81f-ab12-47c2-ac68-3161b617bc85,First and First (Five Boroughs #3),15.97,16,4,Romance
+30ec3215-4e65-4d80-a9ef-1bd0e3b77e73,Fifty Shades Darker (Fifty Shades #2),21.96,16,1,Romance
+30503670-90b2-40a8-99af-fc2ee4c6afe2,The Wedding Dress,24.12,15,1,Romance
+b872bf55-6b0a-421e-ac3a-683e7527ff36,Suddenly in Love (Lake Haven #1),55.99,15,2,Romance
+333fd199-7085-4d3d-bfee-fce8365a1b8e,Something More Than This,16.24,15,4,Romance
+223092a9-e295-4e41-b7ff-6c165bf58869,Doing It Over (Most Likely To #1),35.61,15,3,Romance
+8f0b6a32-eee3-4fd0-ac1b-ace83282a0d3,The Wedding Pact (The O'Malleys #2),32.61,14,3,Romance
+e7153038-9194-46b4-a0e7-16511c0f4973,Hold Your Breath (Search and Rescue #1),28.82,14,1,Romance
+22ae266d-8a80-4ab8-b9f8-060f17b6acc1,Dirty (Dive Bar #1),40.83,12,4,Romance
+1ff0c275-6e38-4119-b1b5-036f31aa9fa0,Take Me Home Tonight (Rock Star Romance #3),53.98,11,3,Romance
+d4b3c162-13f0-4636-839c-62dcf2fad8e0,Off the Hook (Fishing for Trouble #1),47.67,11,3,Romance
+e95209ee-ce4e-4366-b6ea-d79cdd72d063,A Gentleman's Position (Society of Gentlemen #3),14.75,11,5,Romance
+e88b1068-b0b5-42e9-8038-6a830514f9d5,"Sit, Stay, Love",20.9,7,3,Romance
+46877a23-c9d7-48ad-a0b2-7bd400fb469c,A Girl's Guide to Moving On (New Beginnings #2),31.3,5,1,Romance
+979282cf-ad5d-4a1b-829f-33543619f648,The Perfect Play (Play by Play #1),59.99,4,3,Romance
+13b7185f-f6dd-4090-a4e8-985e55200542,Dark Lover (Black Dagger Brotherhood #1),12.87,4,1,Romance
+bf9e8e45-8ee8-465f-a409-e64a897df46d,Changing the Game (Play by Play #2),13.38,4,3,Romance
+5eee15d3-d688-4429-80fb-df2c54616e59,A Walk to Remember,56.43,4,1,Romance
+e607b159-4fc8-4222-861c-a3f229dab814,The Purest Hook (Second Circle Tattoos #3),12.25,3,1,Romance
+99523aea-3721-4995-9deb-c240967e7032,The Obsession,45.43,3,1,Romance
+36a3dd89-b939-461f-a75c-896393eaac6e,Reservations for Two,11.1,3,3,Romance
+41469700-fccb-45a2-b964-c39abd3656f7,Best of My Love (Fool's Gold #20),27.41,3,2,Romance
+de284a4d-0332-48f1-b32d-1317c6fdcb56,Where Lightning Strikes (Bleeding Stars #3),39.77,1,3,Romance
+a278b6bc-d682-4e63-b8fb-1264a81d7ae0,This One Moment (Pushing Limits #1),48.71,1,1,Romance
+15dff475-5342-40ea-81d9-f77329056fdb,"Rhythm, Chord & Malykhin",28.34,1,2,Romance
+5b7d196a-b7f0-4729-a7ac-894237d3b7e2,My Perfect Mistake (Over the Top #1),38.92,1,2,Romance
+06beea27-4e91-45c4-a69f-17cfbd469d63,Listen to Me (Fusion #1),58.99,1,3,Romance
+2f5b24f2-a0a2-4556-8f93-95367d6d4090,Imperfect Harmony,34.74,1,4,Romance
+871c10ca-3ba7-440d-9f1a-306cc12b9fc5,Fighting Fate (Fighting #6),39.24,1,3,Romance
+756391c1-f07d-4b5e-b03f-aeda0f1c2ced,Deep Under (Walker Security #1),47.09,1,5,Romance
+26353f41-440a-4352-b546-c8deb23a62fc,Charity's Cross (Charles Towne Belles #4),41.24,1,1,Romance
+46c8f1be-4e4e-41f2-9f7d-7898404990d9,Bounty (Colorado Mountain #7),37.26,1,4,Romance
+b093e23d-31f4-4aa9-ac4d-332a34357048,I Had a Nice Time And Other Lies...: How to find love & sh*t like that,57.36,15,4,Womens Fiction
+3699821a-f47a-4ef0-90a1-67754a70b025,Will You Won't You Want Me?,13.86,12,3,Womens Fiction
+a484d22a-1f44-483a-a9ff-8d95618c8a2b,Keep Me Posted,20.46,11,4,Womens Fiction
+58198039-cbb2-42e8-9098-3c55b69d1830,Grey (Fifty Shades #4),48.49,11,4,Womens Fiction
+b81ea98c-7281-4b55-af00-d22fc87bc8f8,Meternity,43.58,7,3,Womens Fiction
+8c253e65-eadb-47f2-988a-164d1517e0ea,Some Women,13.73,4,5,Womens Fiction
+f3a2f100-04df-4f18-88a0-91caf38c59b3,Shopaholic Ties the Knot (Shopaholic #3),48.39,4,5,Womens Fiction
+fe5dbebf-610e-48d1-8593-56af9e137ff5,Can You Keep a Secret?,21.94,4,1,Womens Fiction
+5f41f454-2616-4f9e-9893-e688010be647,Twenties Girl,42.8,3,2,Womens Fiction
+777aefb0-5d95-4170-88a0-74fa1965e30f,The Undomestic Goddess,45.75,3,4,Womens Fiction
+252f0ed9-f30b-493a-9bbc-5f12b06e83a2,The Nanny Diaries (Nanny #1),52.53,3,5,Womens Fiction
+d0411509-78c0-483f-9036-80bc5580b67d,The Devil Wears Prada (The Devil Wears Prada #1),44.29,3,1,Womens Fiction
+95512b09-0760-4273-9af9-e0ff41547249,Something Borrowed (Darcy & Rachel #1),48.96,3,5,Womens Fiction
+f02326c0-7a4d-4e40-89e4-f3bb10684bbd,Something Blue (Darcy & Rachel #2),54.62,3,1,Womens Fiction
+ac9f3e05-273e-4145-be80-2421c08fa0db,I've Got Your Number,19.69,3,1,Womens Fiction
+6173553d-2809-4555-b19e-38761fdd973f,The Edge of Reason (Bridget Jones #2),19.18,1,4,Womens Fiction
+acc14a1c-5309-4d8f-901f-166ee6093f70,Bridget Jones's Diary (Bridget Jones #1),29.82,1,1,Womens Fiction
+665b4fd8-9cf2-4368-82de-6206f9cdc2f1,Soumission,50.1,20,1,Fiction
+4cae2b42-0a16-4099-9df9-117e073da9b0,Private Paris (Private #10),47.61,17,5,Fiction
+a82f62ce-e45a-4f47-8f72-862fc9efc034,"We Love You, Charlie Freeman",50.27,16,5,Fiction
+d067452c-b5d7-4463-a23a-c8f2c48b5bd1,Thirst,17.27,16,5,Fiction
+e20622e2-4ad8-4e66-af2f-32a47f2bd1f4,The Murder That Never Was (Forensic Instincts #5),54.11,16,3,Fiction
+cfe97eff-98c1-496e-998f-fb33f2d07ab2,Tuesday Nights in 1980,21.04,15,2,Fiction
+e844d4e2-ddf7-42cc-ac3d-3232cdb347fc,The Vacationers,42.15,15,4,Fiction
+f4614fd2-e021-4434-81c2-1e3cb764cb4f,The Regional Office Is Under Attack!,51.36,15,5,Fiction
+e4843ee4-be07-46b1-9436-fc6eb3aaed67,Finders Keepers (Bill Hodges Trilogy #2),53.53,15,5,Fiction
+422426d4-1f1b-49bc-9d72-aa771642b663,The Time Keeper,27.88,14,5,Fiction
+446aa56c-8947-4383-86f7-14f804bb9360,The Testament of Mary,52.67,14,4,Fiction
+4041b989-44fd-48bf-9bbd-1fc8361e5dd6,The First Hostage (J.B. Collins #2),25.85,14,3,Fiction
+a7e8d956-f667-4326-9f47-139d73a916cf,Take Me with You,45.21,14,3,Fiction
+b444f679-72d2-4a50-ac57-1c0bfa3f61cf,Still Life with Bread Crumbs,26.41,14,3,Fiction
+d5b52e6f-46fb-4b20-a668-cb5f19796c7e,Shtum,55.84,14,4,Fiction
+df07c395-936f-4818-8923-47a07a9c3cc9,My Name Is Lucy Barton,41.56,14,1,Fiction
+f7050f79-4fe7-4103-8486-3fa08d08680d,My Mrs. Brown,24.48,14,3,Fiction
+d2c954ec-47b1-48cd-a454-a1fed5ec54b0,Mr. Mercedes (Bill Hodges Trilogy #1),28.9,14,1,Fiction
+e8ee756e-f130-4ccf-85ad-dbc40250e287,I Am Pilgrim (Pilgrim #1),10.6,14,4,Fiction
+0fdad648-d624-4992-8092-683dc72dce98,Eligible (The Austen Project #4),27.09,14,3,Fiction
+06ca3a68-6916-4fc2-98ec-65cb14e9222b,Eight Hundred Grapes,14.39,14,4,Fiction
+7862a21d-1753-4c3c-aba0-158ea8a904ca,Dear Mr. Knightley,11.21,14,5,Fiction
+bc382c13-75a0-41ce-ae95-33c18e20f1d4,Cometh the Hour (The Clifton Chronicles #6),25.01,14,3,Fiction
+9f7508d1-e202-4917-9aa5-49f787cc5470,Balloon Animals,17.03,14,3,Fiction
+40410d43-7f97-45ec-90f6-9ac380449027,A Man Called Ove,39.72,14,1,Fiction
+a118bded-ade5-42dd-8ef3-8f55a8713148,The Silent Sister (Riley MacPherson #1),46.29,12,5,Fiction
+c03715bd-3965-4128-af83-e80d28a46e21,The Dinner Party,56.54,12,2,Fiction
+f21f96c5-0ea1-4d63-abef-e7d8b22bc7e1,The Improbability of Love,59.45,11,1,Fiction
+8a27d902-dfdb-4759-a2cb-5b0b3463e11f,Mothering Sunday,13.34,11,2,Fiction
+9e340d5f-1457-4f2c-9108-dbba4172859a,Lies and Other Acts of Love,45.14,11,1,Fiction
+354410dd-ce51-4653-89d5-61a2de55ce91,Daredevils,16.34,11,3,Fiction
+792b6725-df63-43d3-8c8f-0bab5a55ca54,11/22/63,48.48,11,3,Fiction
+c3ed4440-10db-4bc5-b0a6-24875449098d,The Shack,28.03,9,1,Fiction
+589abff8-93f7-41a0-aece-35e350aab02a,The High Mountains of Portugal,51.15,8,1,Fiction
+2ab500b2-115d-4f9c-b696-c1a4dbb0b608,Miller's Valley,58.54,8,2,Fiction
+592c1b43-bbdc-4e2c-b348-54fc5abec9ad,Hystopia: A Novel,21.96,8,4,Fiction
+298cfdaa-3b82-45c6-a18a-d056aee4f7db,The Bourne Identity (Jason Bourne #1),42.78,7,4,Fiction
+69625aa9-15ae-4cb1-9e44-391c4a4a281a,Sister Dear,40.2,7,4,Fiction
+dfdcf31e-c078-48b8-bca4-84368754a69e,Memoirs of a Geisha,49.67,7,3,Fiction
+89068237-0760-4590-80f1-68053352d9ed,Me Before You (Me Before You #1),19.02,6,1,Fiction
+bd84254b-c532-498f-b4e0-e9984f7ff40c,Deception Point,40.32,6,4,Fiction
+7dd5bdad-6c04-47ac-85f5-508afea3c3ea,The Little Paris Bookshop,24.73,5,3,Fiction
+2c9fc72d-6349-4eda-bdeb-da35263f15ec,The Firm,45.56,5,3,Fiction
+d742175c-4484-4d48-a96e-cdfe86f0280b,The Expatriates,44.58,5,2,Fiction
+c3db1977-2b64-4501-b85a-b3119c8cefac,Siddhartha,34.22,5,5,Fiction
+d4f9a7ae-aa7b-4cc2-9df3-4b2885de6ac6,Last One Home (New Beginnings #1),59.98,5,3,Fiction
+f2a82a01-2bc5-4e9a-826f-c9438f6135aa,Digital Fortress,58.0,5,5,Fiction
+6721e6f3-942d-4bce-86e6-1a170bbb881f,Atlas Shrugged,26.58,4,5,Fiction
+8bb9bcae-7291-46cd-8f20-58b34dd59479,Three-Martini Lunch,23.21,3,3,Fiction
+cbd8b7ab-5dd5-4e13-abbd-e443a73ee754,The Nightingale,26.26,3,4,Fiction
+cb71d5db-ee56-4f48-9134-00505c0de6ed,The Infinities,27.41,3,1,Fiction
+bced3e9a-4af2-4abd-bd44-17fa4416705f,The Husband's Secret,52.51,3,5,Fiction
+7e9233b3-a0c6-4f54-818f-5ec225e3409b,The Da Vinci Code (Robert Langdon #2),22.96,3,2,Fiction
+511d44cf-3d54-42e3-9410-a370dd985900,The Art of Fielding,22.1,3,1,Fiction
+268a2264-0ff0-492e-81c5-96803bd1f163,Lila (Gilead #3),12.47,3,3,Fiction
+b0086935-c3c0-4a04-bc38-268409c4dd46,Jurassic Park (Jurassic Park #1),44.97,3,1,Fiction
+6f5762cc-42ac-46ff-8140-d194516837ae,Inferno (Robert Langdon #4),41.0,3,5,Fiction
+e857f812-8e84-4b9e-a306-77aa191d7804,Crazy Rich Asians (Crazy Rich Asians #1),49.13,3,5,Fiction
+e8ac0436-89cc-4bc2-b699-a7bdb4811c57,Big Little Lies,22.11,3,1,Fiction
+6a4023b8-4659-48c7-849a-f10ceb110b17,The Course of Love,16.78,2,3,Fiction
+f8c2f2c4-a8a5-4b55-a97d-ddfac4ed4cb8,When I'm Gone,51.96,1,3,Fiction
+d2cd11b1-4207-4dbe-8be7-a04da5450595,The Silent Wife,12.34,1,5,Fiction
+dedb2866-0e75-4303-8f2c-4e8b82b47acf,The Bette Davis Club,30.66,1,3,Fiction
+ff73c4b2-5a85-4a2d-9844-d4593fee2e9a,Kitchens of the Great Midwest,57.2,1,5,Fiction
+539a2b72-4cd6-402d-9f6f-137087d6c3ad,Bright Lines,39.07,1,5,Fiction
+1a77fdef-5346-4ac8-bc70-0001fb318a4f,Birdsong: A Story in Pictures,54.64,19,3,Childrens
+e35eaa83-3609-4b0a-adf6-484b0ba47140,The Bear and the Piano,36.89,18,1,Childrens
+e2472070-3875-465b-8b58-3cf7766e0f55,The Secret of Dreadwillow Carse,56.13,16,1,Childrens
+c702b673-34af-44e1-8d01-ad6e1d7aeb77,The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”,58.08,15,4,Childrens
+61ab41f0-324f-4df5-b04e-5b62ab6a18bd,Little Red,13.47,15,3,Childrens
+35d13f76-d32c-462e-8d53-8d8d2dba8459,Walt Disney's Alice in Wonderland,12.96,14,5,Childrens
+8638e71a-f839-4b70-a421-2659dd5c3eb1,Twenty Yawns,22.08,14,2,Childrens
+79fc2160-c50e-4d86-aabb-82a6d0d20608,Rain Fish,23.57,14,3,Childrens
+358e3a25-6544-4b7a-92ea-738275f7abb5,Once Was a Time,18.28,14,2,Childrens
+c98991b4-8f43-4aa3-a737-718239c5785b,Luis Paints the World,53.95,14,3,Childrens
+38637285-3765-412c-a3b6-687819b9d62a,Nap-a-Roo,25.08,9,1,Childrens
+1d191eef-c389-43cc-9054-c498f1494bf8,The Whale,35.96,7,4,Childrens
+08f5e851-9cfe-4a7b-bb95-0245634e2652,"Shrunken Treasures: Literary Classics, Short, Sweet, and Silly",52.87,7,3,Childrens
+cc40aac8-5ddf-47e4-b4ea-de3a6e5191a3,Raymie Nightingale,34.41,7,2,Childrens
+4807c791-230d-4b8a-bed7-65f854103c20,Playing from the Heart,32.38,7,1,Childrens
+64502f5c-5e2e-472f-91f0-41646c0ecd18,Maybe Something Beautiful: How Art Transformed a Neighborhood,22.54,5,1,Childrens
+48f57530-7dce-493d-acdd-164a905163ea,The Wild Robot,56.07,3,3,Childrens
+f4c151fe-ca91-40cc-9a06-28fc95eba54c,The Thing About Jellyfish,48.77,3,1,Childrens
+5f6624d4-b7f6-4e3c-b545-8f42fbd2a9b2,The Lonely Ones,43.59,3,5,Childrens
+0aabf93f-438f-4533-8b13-7a926767fc99,The Day the Crayons Came Home (Crayons),26.33,3,5,Childrens
+0dcf7ba8-7996-4412-9852-99f30b9c2c0b,The Cat in the Hat (Beginner Books B-1),16.26,3,2,Childrens
+01fd566e-ec3b-4b9f-b9ef-ea5b6d56b91a,Red: The True Story of Red Riding Hood,28.54,3,3,Childrens
+6507becb-e6cd-415b-91db-c6b32427decc,Horrible Bear!,37.52,3,2,Childrens
+5134acc2-b8f6-4490-8706-48862c0d4ec3,Green Eggs and Ham (Beginner Books B-16),10.79,3,4,Childrens
+7456024d-4371-4cd5-9b2a-d72f39b7065f,Counting Thyme,10.62,3,1,Childrens
+ed1ed720-5fde-441f-b919-3e973570e63f,Are We There Yet?,10.66,3,3,Childrens
+26a9bfa2-3c1a-4ea1-ad9e-8b560e2569b1,Diary of a Minecraft Zombie Book 1: A Scare of a Dare (An Unofficial Minecraft Book),52.88,2,4,Childrens
+61af3a94-1ecc-4e3d-b64e-b5f8052ecb07,Matilda,28.34,1,1,Childrens
+2b1f550b-8bfc-482d-9074-809ff81ccb94,Charlie and the Chocolate Factory (Charlie Bucket #1),22.85,1,3,Childrens
+d784bdc8-0971-4999-9732-3a3e3e4faed0,"Don't Be a Jerk: And Other Practical Advice from Dogen, Japan's Greatest Zen Master",37.97,16,2,Religion
+b791ee05-e289-495c-a2ad-5bc52a258c81,You Are What You Love: The Spiritual Power of Habit,21.87,15,4,Religion
+9c874e69-6629-430a-8f83-d84f8a67b1bb,God: The Most Unpleasant Character in All Fiction,30.03,14,5,Religion
+339da894-9cbb-490c-9e4a-67c86d752fad,The Book of Mormon,24.57,9,3,Religion
+7ddbb80c-c56c-4141-a78c-c4c58c95f2ba,"A History of God: The 4,000-Year Quest of Judaism, Christianity, and Islam",27.62,4,1,Religion
+f4ee84e4-2e9e-45aa-acf0-bf1b2eaacdeb,The Bhagavad Gita,57.49,1,3,Religion
+7a8b9b59-181a-4ab8-bd23-b04a85cdc9a2,Choosing Our Religion: The Spiritual Lives of America's Nones,28.42,1,4,Religion
+9bbf19c4-83ef-4a60-8c7c-196ae1b75fab,Worlds Elsewhere: Journeys Around Shakespeare’s Globe,40.3,18,5,Nonfiction
+b03d829e-12d3-4609-a544-7449d1fe16d3,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,31.05,18,3,Nonfiction
+fd475db8-dafd-4a68-b732-501ac0aebe58,Reasons to Stay Alive,26.41,17,2,Nonfiction
+e54b7297-ebc9-4949-8209-30d69968395c,#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.,23.11,17,5,Nonfiction
+27faf512-9b73-46c7-8a98-e030cd660fca,"Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness",44.18,16,4,Nonfiction
+70f2b3c5-7d4b-4c48-93aa-ce668a19344f,Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity,31.12,16,3,Nonfiction
+76de9dec-d8fb-470c-b64d-a1b96aceb1b1,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,16.77,16,3,Nonfiction
+b3fcd89f-6850-4339-ac30-0c9888a1f031,The Gutsy Girl: Escapades for Your Life of Epic Adventure,37.13,16,1,Nonfiction
+d45937a2-d0d3-47e0-a811-4a40285598fc,The Electric Pencil: Drawings from Inside State Hospital No. 3,56.06,16,1,Nonfiction
+4a5b27be-5635-4291-bbf4-9f9a0a59cec1,Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up,41.83,16,4,Nonfiction
+263c7861-a1c8-4e06-9449-fb494982adf2,Reskilling America: Learning to Labor in the Twenty-First Century,19.83,16,2,Nonfiction
+bb8ce0d8-9549-4a6c-a76f-982929f04ecc,In the Country We Love: My Family Divided,22.0,16,4,Nonfiction
+efcf5db3-76b4-429e-a049-cea2198b3ed6,Everydata: The Misinformation Hidden in the Little Data You Consume Every Day,54.35,16,2,Nonfiction
+3587120b-3cf6-4783-9b5f-bdbf0dcdcdd5,Call the Nurse: True Stories of a Country Nurse on a Scottish Isle,29.14,16,5,Nonfiction
+1751cb39-cc49-44c7-9864-a27c0a4055b1,Algorithms to Live By: The Computer Science of Human Decisions,30.81,16,1,Nonfiction
+cf72020e-f2e7-430e-b29d-10905814cdcf,The Power of Now: A Guide to Spiritual Enlightenment,43.54,15,2,Nonfiction
+c58e2b70-ee85-4fec-a4a8-2edefde0a325,The Omnivore's Dilemma: A Natural History of Four Meals,38.21,15,2,Nonfiction
+94c8fbb7-4b6b-4e39-9ce0-8b336a02a95c,The Genius of Birds,17.24,15,1,Nonfiction
+06de1596-a5ff-4fd1-b6f5-1efb70b2c5d9,The Artist's Way: A Spiritual Path to Higher Creativity,38.49,15,5,Nonfiction
+f307fd5b-3bb2-413a-b8e4-87f0fff7e0a9,So You've Been Publicly Shamed,12.23,15,2,Nonfiction
+657869e7-3fee-487a-8a4f-d091b40ecc7b,"Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead",19.43,15,3,Nonfiction
+cddd8664-c33b-44e7-8130-66fe491d82eb,Big Magic: Creative Living Beyond Fear,30.8,15,3,Nonfiction
+5ebb49ef-5a3a-4716-adfe-9a213c19d063,Becoming Wise: An Inquiry into the Mystery and Art of Living,27.43,15,2,Nonfiction
+a0471cc4-09f1-4e6f-be54-abd601eba179,Agnostic: A Spirited Manifesto,12.51,15,5,Nonfiction
+6780b930-4439-4531-af0a-fad409cc442c,Whole Lotta Creativity Going On: 60 Fun and Unusual Exercises to Awaken and Strengthen Your Creativity,38.2,14,4,Nonfiction
+b11ae3c5-b42a-4835-ad6c-2ddd06574513,What's It Like in Space?: Stories from Astronauts Who've Been There,19.6,14,2,Nonfiction
+90d1fdb3-1435-4710-94dd-ecf9b7e310e5,The Year of Magical Thinking,43.04,14,2,Nonfiction
+53be92f7-5d54-45c5-a470-fe62a50d9ed0,The Literature Book (Big Ideas Simply Explained),17.43,14,3,Nonfiction
+4464a52b-154c-4b7b-92f5-ed8fbf4943c8,The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World’s Most Precious Manuscripts,15.77,14,1,Nonfiction
+bcd96d4a-4da2-47a9-b4b2-f2fafcd5dea0,Swell: A Year of Waves,45.58,14,1,Nonfiction
+7af281b7-615e-49e8-b1e9-da9b938ce7dc,No Dream Is Too High: Life Lessons From a Man Who Walked on the Moon,21.95,14,2,Nonfiction
+67e66ca7-fdfc-498d-b28b-95a6a4e99a4d,Looking for Lovely: Collecting the Moments that Matter,29.14,14,5,Nonfiction
+a0829a6d-7dc6-4943-a734-e7066be7380e,Let It Out: A Journey Through Journaling,26.79,14,5,Nonfiction
+6e35b6ed-81cc-45df-9544-aec0fd0bca43,Hamilton: The Revolution,58.79,14,3,Nonfiction
+2d8b883c-48aa-496c-b846-74ad212647bf,"Far & Away: Places on the Brink of Change: Seven Continents, Twenty-Five Years",15.06,14,4,Nonfiction
+39436f1d-d7c4-45a1-a5ef-2871da89caf6,"Eaternity: More than 150 Deliciously Easy Vegan Recipes for a Long, Healthy, Satisfied, Joyful Life",51.75,14,5,Nonfiction
+0beb2331-09e7-4065-91c6-130584c044c6,Buying In: The Secret Dialogue Between What We Buy and Who We Are,37.8,14,4,Nonfiction
+54631450-08cd-455f-8b01-c8389f790d87,Brain on Fire: My Month of Madness,49.32,14,5,Nonfiction
+198556ec-b02f-49a9-a222-f2f0d53e764c,Abstract City,56.37,14,5,Nonfiction
+43daac4e-e86d-45b2-a96f-22902c92c64e,13 Hours: The Inside Account of What Really Happened In Benghazi,27.06,13,1,Nonfiction
+0735b4c6-f16d-40bc-82ef-22d1af679237,The Lonely City: Adventures in the Art of Being Alone,33.26,12,2,Nonfiction
+f45f655f-c1f1-454b-bb20-64d44c77ea28,The Diary of a Young Girl,59.9,12,3,Nonfiction
+252aa516-2ada-4e3f-8aff-97980ae533b4,Snatched: How A Drug Queen Went Undercover for the DEA and Was Kidnapped By Colombian Guerillas,21.21,12,3,Nonfiction
+c6ef6fc0-549f-4e19-9df3-1b24eb7ef19c,Furiously Happy: A Funny Book About Horrible Things,41.46,12,4,Nonfiction
+c3d40976-3d28-43bf-b105-6ef3de0cda44,"The Sleep Revolution: Transforming Your Life, One Night at a Time",11.68,11,4,Nonfiction
+0604e435-0650-4547-b0cc-e98578782d4f,"Mother, Can You Not?",16.89,11,5,Nonfiction
+e4a645b2-2303-45be-a73e-a2bd76ac281a,A Mother's Reckoning: Living in the Aftermath of Tragedy,19.53,11,3,Nonfiction
+39f90c0b-7a76-4840-b9a5-4371c346d3e0,"10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works",24.57,10,2,Nonfiction
+a1547749-d104-4fe4-89f5-68992a07a928,Chernobyl 01:23:40: The Incredible True Story of the World's Worst Nuclear Disaster,35.92,9,2,Nonfiction
+4e7c354e-ccbf-407d-a86f-c849ee2e6a43,"Zero to One: Notes on Startups, or How to Build the Future",34.06,8,3,Nonfiction
+1f513244-7f12-4f31-bd57-a19f48a1b464,Why Not Me?,17.76,8,1,Nonfiction
+7e3a5ec7-db3f-4f8b-942b-c961e32e468c,When Breath Becomes Air,39.36,8,2,Nonfiction
+4ed63ed1-a3dc-4229-a06f-40a14daf2883,"The Midnight Assassin: Panic, Scandal, and the Hunt for America's First Serial Killer",28.45,8,4,Nonfiction
+51420464-27d9-49e7-8da7-a04c52a3e8a9,Smarter Faster Better: The Secrets of Being Productive in Life and Business,38.89,8,5,Nonfiction
+693baf9f-5beb-4414-be61-1b462beffe08,Rising Strong,21.82,8,3,Nonfiction
+e1dbc204-dcc0-4180-9c09-c6f60327dbbd,Man's Search for Meaning,29.48,8,3,Nonfiction
+7d909063-9a02-4e91-9f6b-7113b2e1ef96,"Love That Boy: What Two Presidents, Eight Road Trips, and My Son Taught Me About a Parent's Expectations",25.06,8,2,Nonfiction
+1b44926d-3a6d-401e-b145-2b2a7613ed9e,Living Forward: A Proven Plan to Stop Drifting and Get the Life You Want,12.55,8,3,Nonfiction
+3c9704a9-86b4-4f67-a891-f2bf4da89e43,I Will Find You,44.21,8,1,Nonfiction
+ae809666-43d0-4736-9ec7-93965eac102d,Brazen: The Courage to Find the You That's Been Hiding,19.22,8,2,Nonfiction
+8cb0d467-e41a-4ebe-815f-dfe04305910a,Between the World and Me,56.91,8,4,Nonfiction
+64a6f86b-0a7c-4a36-bf35-4d85262156cf,Being Mortal: Medicine and What Matters in the End,55.06,8,4,Nonfiction
+8fae5a56-99c1-4686-aebc-498519fd5a93,"A Murder Over a Girl: Justice, Gender, Junior High",13.2,8,3,Nonfiction
+34a92f05-14aa-4e74-9b51-b83f8ab5d8c3,For the Love: Fighting for Grace in a World of Impossible Standards,45.13,7,3,Nonfiction
+59e2bf07-2786-455e-ad14-6a6c8366f877,Finding God in the Ruins: How God Redeems Pain,46.64,7,2,Nonfiction
+70a5a554-2c04-4f83-a93a-26d94e4acc4f,The Man Who Mistook His Wife for a Hat and Other Clinical Tales,59.45,6,4,Nonfiction
+32c0f01c-48cc-45f3-99a7-e0ff2da96859,In Cold Blood,49.98,6,4,Nonfiction
+3e54e924-e400-45af-a88f-689f0fbf29d2,"Girl, Interrupted",42.14,6,3,Nonfiction
+11a477b3-6265-4290-b2d3-8fe564294dc6,Why Save the Bankers?: And Other Essays on Our Economic and Political Crisis,48.67,5,2,Nonfiction
+7678495a-145c-40d7-a5cd-b3e2eff35b44,Talking to Girls About Duran Duran: One Young Man's Quest for True Love and a Cooler Haircut,25.15,5,4,Nonfiction
+1fc11e1b-d90f-41d3-aa0b-c2849f475e96,My Mother Was Nuts,31.63,5,4,Nonfiction
+d70214b3-90ff-445b-b108-a53197c718b6,"Data, A Love Story: How I Gamed Online Dating to Meet My Match",32.35,5,3,Nonfiction
+0ddf5e63-6b35-4208-bec9-0b47b7eeaa08,The Jazz of Physics: The Secret Link Between Music and the Structure of the Universe,38.71,4,3,Nonfiction
+6b4c9e57-3f48-4452-bbae-3c0d4da88717,The Gunning of America: Business and the Making of American Gun Culture,16.81,4,4,Nonfiction
+e43ee21f-d92b-402a-8e8e-36b806b820c9,The Geography of Bliss: One Grump's Search for the Happiest Places in the World,28.23,4,2,Nonfiction
+d5e38b51-c489-4cc3-8bf3-a7022f616f06,God Is Not Great: How Religion Poisons Everything,27.8,4,1,Nonfiction
+2cbe7ffd-b709-4b3b-8c92-5a563d68529d,We the People: The Modern-Day Figures Who Have Reshaped and Affirmed the Founding Fathers' Vision of America,31.95,3,3,Nonfiction
+f2965cc8-fb21-44d4-afb9-862e9d98b30d,Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination,50.66,3,3,Nonfiction
+028f16a7-890e-4fff-b91b-55e0fad16134,"Unstuffed: Decluttering Your Home, Mind, and Soul",58.09,3,1,Nonfiction
+e8319c29-0e7d-417c-8a59-41c681287d4d,Under the Banner of Heaven: A Story of Violent Faith,30.0,3,1,Nonfiction
+0aa0bd71-6a34-4a41-a6c9-80b136d91cd3,"Trespassing Across America: One Man's Epic, Never-Done-Before (and Sort of Illegal) Hike Across the Heartland",53.51,3,1,Nonfiction
+38356521-84f4-4359-a69f-6229b1e1d54e,The Name of God is Mercy,37.25,3,2,Nonfiction
+30f45eea-eec6-4c02-a6ab-2990a0d86e60,Stiff: The Curious Lives of Human Cadavers,36.74,3,3,Nonfiction
+55567a21-f8ef-4fcc-b42a-1b74b7303d62,Spilled Milk: Based on a True Story,49.51,3,1,Nonfiction
+93f0bb6a-6123-4a93-9917-03652f3153b2,"Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars",41.67,3,4,Nonfiction
+2c4f0637-ac58-4b2b-838b-f29cbe5df5fb,Outliers: The Story of Success,14.16,3,1,Nonfiction
+34e5561d-56fc-4b4f-8741-4d6f71d55fb7,Notes from a Small Island (Notes From a Small Island #1),40.17,3,1,Nonfiction
+b0964487-db79-4dac-af66-f954352510e4,Night (The Night Trilogy #1),13.51,3,1,Nonfiction
+b1d64822-1d31-421e-928d-5c9ac6c916af,"Miracles from Heaven: A Little Girl, Her Journey to Heaven, and Her Amazing Story of Healing",57.83,3,1,Nonfiction
+87a5aded-5f19-4ab8-8ba2-93d7c73c8c1f,Letter to a Christian Nation,22.2,3,1,Nonfiction
+0c333120-4e51-4678-8fd3-0631ad41a40a,Let's Pretend This Never Happened: A Mostly True Memoir,45.11,3,1,Nonfiction
+66150a7d-6c29-448d-bc04-1d2f3835b75c,It's Never Too Late to Begin Again: Discovering Creativity and Meaning at Midlife and Beyond,42.38,3,1,Nonfiction
+784c4937-fad1-4bce-b9f4-e4bc9f73eff8,Into the Wild,56.7,3,5,Nonfiction
+8eb4c44d-3de0-424f-84fc-f9a46cad615a,"In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin",28.85,3,3,Nonfiction
+8f47993f-be56-4f93-b978-16d93b859116,I Am Malala: The Girl Who Stood Up for Education and Was Shot by the Taliban,28.88,3,2,Nonfiction
+7266cdc0-0d69-4dae-acbf-9b3b48604c4a,Gratitude,26.66,3,5,Nonfiction
+6eb23135-f613-4390-b0f1-a0df9cc745c0,Disrupted: My Misadventure in the Start-Up Bubble,15.28,3,5,Nonfiction
+86888cb3-d7f1-407b-b30a-2037a01141c5,Brave Enough,51.32,3,5,Nonfiction
+2384e4d1-fe8b-4e9f-8b36-e70d81652738,"Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen",27.35,3,2,Nonfiction
+a61c75d9-079c-49f6-bf4f-72bf54616797,Blink: The Power of Thinking Without Thinking,21.74,3,5,Nonfiction
+b490c8d6-f821-444a-87ee-d88072ca86b4,Black Flags: The Rise of ISIS,40.87,3,1,Nonfiction
+2d29f694-78b8-4d5f-83ea-95ef57ad107e,Are We Smart Enough to Know How Smart Animals Are?,56.58,3,1,Nonfiction
+c8e5f958-2d22-4b80-9a95-d8de2fcfb809,A Walk in the Woods: Rediscovering America on the Appalachian Trail,30.48,3,4,Nonfiction
+37e0111c-ac20-4067-a371-e8d443f91e76,"The Suffragettes (Little Black Classics, #96)",11.89,2,2,Nonfiction
+1185e2a6-1a6d-4d5e-92cb-d343e135e9cd,Kindle Paperwhite User's Guide,34.0,2,3,Nonfiction
+762f5042-77be-4dce-bacc-fe20faf7cab4,H is for Hawk,57.42,2,5,Nonfiction
+c8394f5d-646f-4a58-8be3-5c803978e5a7,Travels with Charley: In Search of America,57.82,1,5,Nonfiction
+9058b0b6-b2d5-4468-91ed-052d5e66a25b,The Tumor,41.56,1,5,Nonfiction
+e73597c9-e85b-494b-8d32-1a5f0142ca24,The End of the Jesus Era (An Investigation #1),14.4,1,1,Nonfiction
+c70f975e-25b2-439e-8766-4dd66d469ddd,"Eat, Pray, Love",51.32,1,3,Nonfiction
+f7887854-7688-4783-920b-e2c71ba33a56,Rip it Up and Start Again,35.02,19,5,Music
+7bf76e39-bff0-43ca-a36f-60f4506e325d,"Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",57.25,19,3,Music
+5ac74cfb-364d-47df-8678-84bd6cf64a17,How Music Works,37.32,19,2,Music
+1a292e6c-8565-4a28-8104-6c7dc1bbc19f,Love Is a Mix Tape (Music #1),18.03,14,1,Music
+7b2e981f-518c-4087-b798-3a123f494e93,Please Kill Me: The Uncensored Oral History of Punk,31.19,8,4,Music
+d0347cd3-cff7-4b33-bbbc-bd0826e0b847,Kill 'Em and Leave: Searching for James Brown and the American Soul,45.05,8,5,Music
+ddb72cbe-56b1-40f7-8eb1-46bfaa0c792e,"Chronicles, Vol. 1",52.6,7,2,Music
+680a1d96-3b43-4c81-879f-2096fc01e701,This Is Your Brain on Music: The Science of a Human Obsession,38.4,5,1,Music
+fa516f4e-16db-410e-8d51-24a617261579,"Orchestra of Exiles: The Story of Bronislaw Huberman, the Israel Philharmonic, and the One Thousand Jews He Saved from Nazi Horrors",12.36,4,3,Music
+b54dd0a3-bc27-4b1f-a414-fabb66ac1a37,No One Here Gets Out Alive,20.02,4,5,Music
+8e20de4f-234b-41aa-9f9d-9deb5cf7a4ce,Life,31.58,2,5,Music
+5be30909-bdb8-4750-b118-9e47a67fe695,Old Records Never Die: One Man's Quest for His Vinyl and His Past,55.66,1,2,Music
+a3443c84-4599-4fd9-905b-8b14df3fd8e1,Forever Rockers (The Rocker #12),28.8,1,3,Music
+dd7dd9ea-57cd-4748-96b9-e5d4999cec1e,"The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull",17.93,19,3,Default
+a302f099-c967-426c-9bda-b74b16d17a25,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,22.6,19,4,Default
+b3e38633-73be-425a-a59e-d66af797df5a,"Starving Hearts (Triangular Trade Trilogy, #1)",13.99,19,2,Default
+e73cedde-b714-485d-a3c0-3dd01f45f864,America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana,22.5,19,3,Default
+1c9f3b47-7bfe-4a6a-ac4f-24cbaa11ec93,Aladdin and His Wonderful Lamp,53.13,19,3,Default
+ccd5fd37-5842-447e-aa0e-f103f466683e,Penny Maybe,33.29,18,3,Default
+059189ff-1e1a-4441-8eb0-c5947bcf1264,Maude (1883-1993):She Grew Up with the country,18.02,18,2,Default
+6e3abcaa-de67-4ed6-94c8-cf3f0ce3d2e6,"The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer",20.59,16,5,Default
+08b79901-7d5d-4ae7-bb62-9ab71ff7688a,Soul Reader,39.58,16,2,Default
+09e925f9-4bb6-4ada-81ed-41817183ac5a,Bossypants,49.46,16,2,Default
+e3ab06bb-583a-4671-9350-ccc1761cef93,A World of Flavor: Your Gluten Free Passport,42.95,16,1,Default
+3bff5333-8c3d-4373-a18a-81b1d0e5f34b,"A Piece of Sky, a Grain of Rice: A Memoir in Four Meditations",56.76,16,5,Default
+34674f3b-acdb-4550-b01d-91e2c677738c,Tracing Numbers on a Train,41.6,15,3,Default
+e5ef18d5-edc6-4d99-9f60-578ec34e106a,Thirteen Reasons Why,52.72,15,1,Default
+2b5a6dd3-297d-4cf9-b627-172f0fcfe419,The Secret (The Secret #1),27.37,15,4,Default
+f6d79b06-25e9-4559-8718-48f1f19e7310,The Psychopath Test: A Journey Through the Madness Industry,36.0,15,2,Default
+5ee06737-ce37-4ed2-b7ca-d7f8a3f3097e,The Kite Runner,41.82,15,4,Default
+58f1f6ca-a938-4010-a514-2e1126c865bb,The Girl on the Train,55.02,15,2,Default
+3aa13ed6-a698-4723-9154-bc5c272ab4eb,The Emerald Mystery,23.15,15,2,Default
+ea7a9eb4-d142-4e6b-b946-0f01d474169f,The Bridge to Consciousness: I'm Writing the Bridge Between Science and Our Old and New Beliefs.,32.0,15,3,Default
+9268b8a3-a9e0-419d-86b4-54be0d744485,The Art of War,33.34,15,5,Default
+968a15b7-5d82-4350-89ef-77847d260376,Secrets and Lace (Fatal Hearts #1),20.27,15,1,Default
+ad1a32f2-cea2-46ec-837b-0d84e0521ed1,Romero and Juliet: A Tragic Tale of Love and Zombies,36.94,15,1,Default
+691c1507-ed27-4bad-9566-ee4b771f09a9,Poses for Artists Volume 1 - Dynamic and Sitting Poses: An Essential Reference for Figure Drawing and the Human Form,41.06,15,1,Default
+30b34e7b-32f5-4180-ba59-a484b2757bd4,Miss Peregrine’s Home for Peculiar Children (Miss Peregrine’s Peculiar Children #1),10.76,15,1,Default
+be3b7d9d-631f-4035-b87b-8627e472d976,Large Print Heart of the Pride,19.15,15,2,Default
+0cca305d-ae5b-484b-80a6-7173951b1156,Grumbles,22.16,15,2,Default
+4f293311-06fb-4d76-80b9-44e7dbd40821,First Steps for New Christians (Print Edition),29.0,15,1,Default
+9d2b12fa-be11-4d84-bc70-b860d59ba7b0,Eureka Trivia 6.0,54.59,15,4,Default
+b4cf96cd-0b48-496c-8111-b1594c031575,Drive: The Surprising Truth About What Motivates Us,34.95,15,4,Default
+96b4be25-2230-416e-af13-043d50780720,Done Rubbed Out (Reightman & Bailey #1),37.72,15,5,Default
+6c9ca289-a203-43c3-a040-ab3dfd004d54,Beauty Restored (Riley Family Legacy Novellas #3),11.11,15,2,Default
+419665a6-f024-40fa-b397-daeedd23a441,Ayumi's Violin,15.48,15,2,Default
+e79b181a-ff8d-4a7a-8e65-2c8896c46f33,Anonymous,46.82,15,4,Default
+de11de21-e464-4107-afc7-f16c00898beb,Amy Meets the Saints and Sages,18.46,15,3,Default
+c0afd38e-7820-494b-bf51-3c7f4f0f3f82,Amatus,50.54,15,5,Default
+5c989554-b60d-42c1-8f74-90ee1afba007,V for Vendetta (V for Vendetta Complete),37.1,14,4,Default
+4e47aff0-1b6c-416b-a08d-463502fa4801,"Unbroken: A World War II Story of Survival, Resilience, and Redemption",45.95,14,2,Default
+4b2e3b37-2750-4874-b7d0-c225a30606b0,The Wright Brothers,56.8,14,4,Default
+fe8a9bcc-1910-4a60-95fd-904c93cae47c,The Songs of the Gods,44.48,14,5,Default
+5af984af-23ab-47d2-b620-d184a928a731,The Rosie Project (Don Tillman #1),54.04,14,1,Default
+64cc7acd-1007-432d-98a7-21732b69cd97,The Power of Habit: Why We Do What We Do in Life and Business,16.88,14,3,Default
+9e4afd80-739a-4ac5-8d85-ad7fa4a8bade,Steve Jobs,39.5,14,5,Default
+c7e582f8-6f87-48b4-80f7-1466924f8531,Luckiest Girl Alive,49.83,14,3,Default
+d9816f69-7208-441c-9fe7-ad88e503c6d3,"Living Leadership by Insight: A Good Leader Achieves, a Great Leader Builds Monuments",46.91,14,4,Default
+6db51581-93b7-4e24-99d3-482ae7dabf85,Lady Midnight (The Dark Artifices #1),16.28,14,5,Default
+8368eda3-f904-4001-9ee6-5f33c3ec7c02,"Hush, Hush (Hush, Hush #1)",47.02,14,3,Default
+5b247a6d-9882-49a9-98b7-b188d46b9c57,Greek Mythic History,10.23,14,5,Default
+6b0d5b75-a2e3-4645-8a55-4a39e8ae9f1d,Every Last Word,46.47,14,3,Default
+fee4197c-4311-4ec3-8239-e9514d65eeb0,Daily Fantasy Sports,36.58,14,1,Default
+cdee5c84-d0aa-4d4d-bd8a-bba696b61309,Clockwork Angel (The Infernal Devices #1),44.14,14,1,Default
+0f5f923c-acc1-4a0e-9940-3aee1c75e249,City of Fallen Angels (The Mortal Instruments #4),11.23,14,4,Default
+049b3728-f989-468c-bae0-a033c6049089,City of Bones (The Mortal Instruments #1),43.28,14,1,Default
+eab4a8ab-64f6-4777-81cd-cd4136d9d9c0,City of Ashes (The Mortal Instruments #2),47.27,14,1,Default
+cdaa3287-909a-45fc-977e-bae647c0ff29,"Carry On, Warrior: Thoughts on Life Unarmed",31.85,14,3,Default
+162f1a39-b648-4d7f-bc50-76ac6f15bf31,Carrie,46.23,14,2,Default
+8a138786-135b-4350-8a47-d6c5cc4a268e,Angels & Demons (Robert Langdon #1),51.48,14,3,Default
+f73023fa-11d8-4823-8c00-a59a6c453f48,"The Three Searches, Meaning, and the Story",13.33,13,3,Default
+c08a1d06-cf97-40b4-9128-b6036cfc6d52,Raspberry Pi Electronics Projects for the Evil Genius,49.67,12,4,Default
+4cc768f7-e2c5-451c-89e5-4d2b089f2488,How to Speak Golf: An Illustrated Guide to Links Lingo,58.32,12,5,Default
+f482643c-75b0-4abf-aeba-85e84fcc4aab,Eleanor & Park,56.51,12,5,Default
+cd095664-ad26-4384-a868-ce0b85028b6b,Troublemaker: Surviving Hollywood and Scientology,48.39,11,2,Default
+584a5ea3-b659-4cd7-80f8-28ad1f0e7cd2,Adultery,20.88,11,5,Default
+3331a450-e46a-42c9-b04d-b4aceadb3384,Unlimited Intuition Now,58.87,9,4,Default
+c959df47-b83f-4551-b666-49221d251773,Underlying Notes,11.82,9,2,Default
+00a6baf0-c081-4b53-8ffb-8655912e80bd,The New Brand You: Your New Image Makes the Sale for You,44.05,9,5,Default
+43ffe0e3-4b51-47ee-965d-20af0cc3fd6a,The Flowers Lied,16.68,9,2,Default
+8f08b3f0-f559-4000-b881-95a9994b8a7d,"NaNo What Now? Finding your editing process, revising your NaNoWriMo book and building a writing career through publishing and beyond",10.41,9,4,Default
+7d0e9d36-b378-47c3-9ebd-96aef6310644,Modern Day Fables,47.44,9,2,Default
+31022416-edbc-4f78-a764-3407c4b6354b,The Unlikely Pilgrimage of Harold Fry (Harold Fry #1),43.62,8,5,Default
+7565b4e7-ee9b-47f4-9313-ab028bdabbc3,The Martian (The Martian #1),41.39,8,2,Default
+64003320-2db0-40eb-97f2-48c32d342f75,Left Behind (Left Behind #1),40.72,8,2,Default
+aed8dda3-6366-4b57-9e00-9d3f054f50f4,John Vassos: Industrial Design for Modern Life,20.22,8,4,Default
+169ae27b-d0e3-4808-a80b-facb6f0b11fb,I'll Give You the Sun,56.48,8,1,Default
+e5277341-ea1f-4d5e-8a9b-f018a738dd53,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,52.86,8,2,Default
+d0e9bfa0-13ef-435b-879c-aa7a92aa233f,Ender's Game (The Ender Quintet #1),43.64,8,1,Default
+dea0eeef-de7e-4a0a-bd79-01831df5ce29,Death by Leisure: A Cautionary Tale,37.51,8,4,Default
+b7ea3af0-06ef-45d0-9f10-491c0c5affb2,Wildlife of New York: A Five-Borough Coloring Book,22.14,7,2,Default
+d573ee8c-d533-44fd-a178-ce44bab8168f,The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible,34.72,7,1,Default
+a336cc6e-4afb-45c9-b525-4fe8ab3a2ac1,The Great Gatsby,36.05,7,4,Default
+ecebcf1c-5af9-4fca-8839-43a7e86b021e,The Good Girl,49.03,7,3,Default
+a944f90c-b321-4232-bd48-070711f72dc0,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,33.17,7,4,Default
+200e6d0d-9016-4bfa-b36b-a27f4236622e,Steal Like an Artist: 10 Things Nobody Told You About Being Creative,20.9,7,2,Default
+07ade7bf-dd2e-438a-ac7b-24b820e1f253,Life of Pi,13.22,7,4,Default
+4ff32861-7622-4a6c-aae9-057e1fd4ff3b,The Sound Of Love,57.84,6,5,Default
+3197620f-c7ef-4ab6-a332-6e9f6001672d,The Perks of Being a Wallflower,55.02,6,3,Default
+80e82bcd-36fb-4a08-af4a-03de96fa1c83,The Makings of a Fatherless Child,31.58,6,2,Default
+b594ea03-1411-477d-b73c-0d0cab426612,The Hobbit (Middle-Earth Universe),17.8,6,5,Default
+54c9e2bd-fd47-4a08-a446-1579388b5b8e,The Fellowship of the Ring (The Lord of the Rings #1),10.27,6,2,Default
+578c265d-5ffe-4e2d-b3ef-aa608a4f10d6,Ship Leaves Harbor: Essays on Travel by a Recovering Journeyman,30.6,6,3,Default
+2fb12b19-9df3-4e8f-8a7b-5fa828069fc5,Musicophilia: Tales of Music and the Brain,46.58,6,1,Default
+3b260f71-51bc-416b-9082-741c010d83e0,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,53.68,5,4,Default
+39a66594-36ba-4d39-9d49-4047cb998f89,The Fault in Our Stars,47.22,5,1,Default
+e3e3cd86-7517-46de-a7a6-1e796b383efa,The Dream Thieves (The Raven Cycle #2),34.5,5,1,Default
+cd846f70-a967-4c1d-9049-90b2f64dbdb8,The 5th Wave (The 5th Wave #1),11.83,5,2,Default
+7331f1fa-3ee6-4ea5-a26f-2a62cbd73ba7,Shiver (The Wolves of Mercy Falls #1),16.23,5,5,Default
+07270b02-177f-493d-92f0-1bfe0da82fda,Remember Me?,11.48,5,3,Default
+b4cb5699-0236-4307-beb0-0ded40b5f134,If I Stay (If I Stay #1),38.13,5,5,Default
+12f60e0b-64a1-4451-8eeb-e3d3705d2645,I Know Why the Caged Bird Sings (Maya Angelou's Autobiography #1),36.55,5,2,Default
+b16b73fd-0a22-4451-ace0-84716eddd036,Harry Potter and the Deathly Hallows (Harry Potter #7),23.32,5,1,Default
+3e50c8e2-1ac1-454f-9db6-dccac758511f,Fool Me Once,16.96,5,1,Default
+1cb9d431-c69a-4736-90ab-90adf7d2d595,Drama,38.7,5,2,Default
+452d2168-96d4-4036-849c-becd8a64ffeb,"Blue Lily, Lily Blue (The Raven Cycle #3)",34.13,5,5,Default
+64a3e4e8-5599-462d-ad34-55f6971c3a0e,Alight (The Generations Trilogy #2),58.59,5,4,Default
+52f52748-3f77-4fa1-9dc8-c0a5e017c5b4,Vogue Colors A to Z: A Fashion Coloring Book,52.35,4,4,Default
+395980a8-c825-447c-89de-4058299066df,The Shining (The Shining #1),27.88,4,3,Default
+d9b72797-3334-4507-8431-aad4f4969f9f,The Hunger Games (The Hunger Games #1),29.85,4,5,Default
+68053186-a4d5-4a65-8abc-2fb2acbddc37,Outlander (Outlander #1),19.67,4,5,Default
+37dddf31-4489-4314-9888-8ce85df47be2,Mockingjay (The Hunger Games #3),20.44,4,4,Default
+b465ef58-669d-4112-815d-925b5430478a,Harry Potter and the Sorcerer's Stone (Harry Potter #1),13.9,4,3,Default
+5faa7dc4-7fda-4166-9a24-b1cdf9d90115,Confessions of a Shopaholic (Shopaholic #1),48.94,4,2,Default
+a1c3fb7b-e947-4cfe-9784-efbd6a695765,Zero History (Blue Ant #3),34.77,3,1,Default
+8d304c65-2be4-4b1e-b14c-61aedcb604cf,World War Z: An Oral History of the Zombie War,21.8,3,1,Default
+e73eda99-9eee-4faa-8b1d-924c44b33baf,Wild: From Lost to Found on the Pacific Crest Trail,46.02,3,3,Default
+0e5ad454-20c1-40d8-a0e3-5c9fc6703337,"Where'd You Go, Bernadette",18.13,3,1,Default
+edc00c13-cdc9-4ebc-9baf-4e28a87b20ca,Twilight (Twilight #1),41.93,3,2,Default
+0c347170-735e-45f4-9115-001affb44a44,The Paris Wife,36.8,3,3,Default
+189983f8-e0e2-459f-99d9-977ed3144d69,The Maze Runner (The Maze Runner #1),20.93,3,1,Default
+c533d103-a374-40bf-a436-137fd1dfe84e,The Lover's Dictionary,58.09,3,2,Default
+3eb71542-dd87-4cfb-89ea-484fef63c9c1,The Goldfinch,43.58,3,3,Default
+b7c3e793-b82f-4e59-a8ef-830c7c0e56f2,The Giver (The Giver Quartet #1),12.3,3,1,Default
+143681ce-16b5-44f4-8e87-7cfdeaf58125,The Girl Who Played with Fire (Millennium Trilogy #2),22.14,3,2,Default
+1f5fef28-bdfc-4efb-94b0-d8bf318ce3e2,The Demon-Haunted World: Science as a Candle in the Dark,52.25,3,4,Default
+acf91c83-cc29-42ff-8cd3-051e8a0cbfd5,The Book Thief,53.49,3,2,Default
+9e51b1b7-a87e-4ebf-87c6-93fb5d9c9172,The Autobiography of Malcolm X,23.43,3,2,Default
+5ed27525-6475-439b-9dab-e54b6dbb7f2e,Shopaholic & Baby (Shopaholic #5),46.45,3,2,Default
+e122c327-af84-4059-8647-edef3fb21df4,Quiet: The Power of Introverts in a World That Can't Stop Talking,43.55,3,1,Default
+522927a2-1341-463d-a753-c29b8345fee1,Packing for Mars: The Curious Science of Life in the Void,56.68,3,2,Default
+1c2113e0-23fe-41db-a9c6-6a609286a068,Orange Is the New Black,24.61,3,2,Default
+f77ecad2-c1d6-4669-a4a6-31b395a39cc7,One for the Money (Stephanie Plum #1),32.87,3,2,Default
+f6fe1f29-be3e-431d-a506-86734d3a8ef6,Morning Star (Red Rising #3),29.4,3,1,Default
+d25c4ade-0b4a-4649-bd23-bac9f7128b58,Life After Life,26.13,3,2,Default
+69a826bf-0404-49f9-a67b-a489bcdb459e,"Lean In: Women, Work, and the Will to Lead",25.02,3,1,Default
+982794b5-f8e2-4274-aa1b-2596553d150b,Is Everyone Hanging Out Without Me? (And Other Concerns),20.11,3,3,Default
+09921f09-255f-4801-8bfa-3b894eab0873,Gone Girl,37.6,3,5,Default
+6992d90b-f0e5-42d5-a6cb-9ad7730dfb55,Fellside,38.62,3,1,Default
+31fec57b-271b-4e40-9f48-1b870366e762,Eclipse (Twilight #3),18.74,3,1,Default
+449329d2-b2a4-497d-8005-7c4620e89e45,Dracula,52.62,3,3,Default
+3e7f1b4b-9ccf-4f26-a3f7-29821f8ea8b1,Dead Wake: The Last Crossing of the Lusitania,39.24,3,5,Default
+9f112270-04ed-459d-ab01-84e0526f30bf,"David and Goliath: Underdogs, Misfits, and the Art of Battling Giants",17.81,3,1,Default
+6144943d-b51d-4608-9602-756e62852451,Dark Places,23.9,3,5,Default
+709d3cce-17ec-417e-8a72-109903244193,Breaking Dawn (Twilight #4),35.28,3,5,Default
+65a7f283-bda4-4cf8-a060-51465934c318,Beautiful Creatures (Caster Chronicles #1),21.55,3,5,Default
+321c3a7e-f04c-4e5e-94d2-763f38acb46b,A Visit from the Goon Squad,14.08,3,5,Default
+18ba3f04-ae3b-4180-97cb-72f4ccb62c69,The Zombie Room,19.69,1,5,Default
+755b9466-ed61-4477-96bd-4206accf89d4,The Name of the Wind (The Kingkiller Chronicle #1),50.59,1,3,Default
+df0a6d03-94fd-4d24-af48-2e2abcb61290,Taking Shots (Assassins #1),18.88,1,2,Default
+e54589ae-31b3-401a-bf43-121653d346df,Shatter Me (Shatter Me #1),42.4,1,1,Default
+12115aa7-011f-4e54-ae89-ed71f9effcf8,Paradise Lost (Paradise #1),24.96,1,1,Default
+cf6c02b6-102f-4ce4-aa09-91504d08aa94,On the Road (Duluoz Legend),32.36,1,3,Default
+15036cea-436c-4a2d-8710-092ddaa3adad,Jane Eyre,38.43,1,5,Default
+8e2f735d-4cd7-4950-af05-dffb0058c906,Frankenstein,38.0,1,2,Default
+bf976202-2d40-4f71-991a-cd21e15fa6ff,Mesaerion: The Best Science Fiction Stories 1800-1849,37.59,19,1,Science Fiction
+00ce4009-6532-401e-a50b-be1776c7ce59,Join,35.67,16,5,Science Fiction
+77420633-fe5a-406a-bdb3-75cbeae7d001,"William Shakespeare's Star Wars: Verily, A New Hope (William Shakespeare's Star Wars #4)",43.3,15,4,Science Fiction
+f4182b2c-7e26-4fb8-972b-1661c098c8fd,The Project,10.65,15,1,Science Fiction
+e5e2b60d-afda-497c-b8e5-c9a322071bc0,Soft Apocalypse,26.12,15,2,Science Fiction
+15e65bfe-5904-4493-9315-fd79adeeb3a1,Sleeping Giants (Themis Files #1),48.74,11,1,Science Fiction
+76a0c776-aa0f-4378-ac67-3cd3ecf6ab21,Arena,21.36,11,4,Science Fiction
+f609183f-0059-49cd-8cc6-dc680038a9b5,Foundation (Foundation (Publication Order) #1),32.42,5,1,Science Fiction
+34ece4ac-e361-4cf8-bafe-9f98978c43f9,The Restaurant at the End of the Universe (Hitchhiker's Guide to the Galaxy #2),10.92,3,1,Science Fiction
+dd270982-8190-4e13-a8bd-03d9c7a3e8dd,Ready Player One,19.07,3,4,Science Fiction
+a1721064-9526-4f86-a3b2-0c7ce752ac35,"Life, the Universe and Everything (Hitchhiker's Guide to the Galaxy #3)",33.26,3,2,Science Fiction
+80ad4e13-8cd2-4914-8ccf-d1f03e22012c,Dune (Dune #1),54.86,3,1,Science Fiction
+2afc24a2-0c91-4b05-b9c4-43eb436d7f4c,Do Androids Dream of Electric Sheep? (Blade Runner #1),51.48,3,1,Science Fiction
+1aea7ab2-7a62-4cf5-969f-3dca96838948,Three Wishes (River of Time: California #1),44.18,1,2,Science Fiction
+832ca187-da37-4ca0-86bc-fff5c7ad1aae,The Last Girl (The Dominion Trilogy #1),36.26,1,2,Science Fiction
+8a65d50c-ac11-4363-9313-3d93b0fdc3d5,Having the Barbarian's Baby (Ice Planet Barbarians #7.5),34.96,1,4,Science Fiction
+6ee22fa4-07bc-4e6b-8aba-9b2e4cbef54a,The Book of Basketball: The NBA According to The Sports Guy,44.84,3,5,Sports and Games
+bd7ac431-28e1-45ac-8899-15e2616ac581,"Friday Night Lights: A Town, a Team, and a Dream",51.22,3,3,Sports and Games
+d6bd7d18-aca2-4152-bd2e-a2ede6338f1b,Sugar Rush (Offensive Line #2),24.42,2,1,Sports and Games
+81f1de9d-893c-48a7-9cd3-cdb13346b18b,Settling the Score (The Summer Games #1),44.91,1,2,Sports and Games
+1532d955-10c0-4c8e-94fc-a775ca97c928,Icing (Aces Hockey #2),40.44,1,4,Sports and Games
+fd7dbba3-c17e-4a1a-9d0c-e49d7dcca17c,The Torch Is Passed: A Harding Family Story,19.09,16,1,Add a comment
+d95ed1fe-aec4-49ff-a974-c6daf317ec5a,"The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy",23.89,16,4,Add a comment
+a847e824-b053-4a1b-b4bf-38f832a03887,The Art Forger,40.76,16,3,Add a comment
+6ad42916-1a61-4b96-ab21-e9583bfa3e18,On a Midnight Clear,14.07,16,3,Add a comment
+eae09c08-1c30-45f0-9559-e6dc2ef48158,Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners),53.9,16,2,Add a comment
+1850dab1-6ead-402b-a28b-f5ad8618380c,"Shobu Samurai, Project Aryoku (#3)",29.06,15,3,Add a comment
+f6037f49-3c4c-4e98-b9b7-67bae6f27880,Modern Romance,28.26,15,5,Add a comment
+928ee5be-90e0-4a05-a7e5-6a45f703da21,The White Queen (The Cousins' War #1),25.91,14,5,Add a comment
+28b7a26f-e5a4-4fb7-aedd-83e01d6c20a2,The Song of Achilles,37.4,14,5,Add a comment
+7210d7f4-013f-47e3-9664-f96d94fa8413,The Immortal Life of Henrietta Lacks,40.67,14,2,Add a comment
+f7ce0558-7d3c-404c-acd9-b3806efd778f,The Dovekeepers,48.78,14,1,Add a comment
+f8a75736-9938-4237-a687-cc5f3a72d366,More Than Music (Chasing the Dream #1),37.61,14,2,Add a comment
+0a6c562b-1cc3-4a79-bd0f-02680e1229a9,Code Name Verity (Code Name Verity #1),22.13,14,4,Add a comment
+030ca522-5b07-4913-9ab5-0b276a6dca16,Cell,20.29,14,4,Add a comment
+050cf6f3-affa-44f6-b568-70b81e4c8528,Angels Walking (Angels Walking #1),34.2,14,2,Add a comment
+bbd2f69d-a235-4e70-be45-59e1a1b6822d,"A Series of Catastrophes and Miracles: A True Story of Love, Science, and Cancer",56.48,14,2,Add a comment
+49ef7437-c7e9-41aa-8033-dfc43719a454,A People's History of the United States,40.79,14,2,Add a comment
+de8d18fa-f87a-42fd-b673-5377144595c5,A Brush of Wings (Angels Walking #3),55.51,14,1,Add a comment
+72be5c71-bd24-4511-97e9-542493e2c760,Rook,37.86,13,4,Add a comment
+2598c340-42b1-430b-bce7-ac84d3636a55,The Midnight Watch: A Novel of the Titanic and the Californian,26.2,12,1,Add a comment
+f1b69180-befb-488b-99ec-9bf5bf08c838,The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore,59.15,12,4,Add a comment
+c7cae497-cbb1-4446-b3bd-1630b2faa226,The Children,11.88,12,3,Add a comment
+88b718d5-542d-4e88-9f08-ce85a954ef7a,One with You (Crossfire #5),15.71,12,4,Add a comment
+a8e34578-d6a0-4a96-8aa7-49aceb386066,Without Shame,48.27,9,5,Add a comment
+ff0b7a96-6359-408f-9d8c-97dfff56e1cf,Watchmen,58.05,9,4,Add a comment
+a43df1a1-6ef5-4c4f-8f62-dbbfd8c195df,A Hero's Curse (The Unseen Chronicles #1),50.49,9,3,Add a comment
+dadc1393-88be-4c44-aa25-53e421be1f9a,23 Degrees South: A Tropical Tale of Changing Whether...,35.79,9,2,Add a comment
+85a6f766-ccea-4019-92b6-31fb248209b9,The Glass Castle,16.24,7,1,Add a comment
+bee3aae6-859e-4225-a9a7-97ae3fa52fcc,The Drowning Girls,35.67,7,3,Add a comment
+4c4ab628-95f9-4273-bb1c-04062ce5fd96,Team of Rivals: The Political Genius of Abraham Lincoln,20.12,7,5,Add a comment
+50aa3870-6eda-47c3-b2f4-e5436a4bba88,John Adams,57.43,7,4,Add a comment
+961e54ce-68e9-4cab-b3b0-6af70b6ffa14,Good in Bed (Cannie Shapiro #1),37.05,7,5,Add a comment
+77f6c633-bf92-4da0-8cc1-d033b78886d4,The Joy of Cooking,43.27,6,4,Add a comment
+7f88d368-160f-4c86-a8e3-d7d585ca8f74,The Golden Compass (His Dark Materials #1),18.77,6,1,Add a comment
+1c7c9702-4851-4ca1-8946-d5e97c273f6f,The God Delusion,46.85,6,3,Add a comment
+f02ce1c5-485c-4adb-bc39-83049468e698,Pride and Prejudice,19.27,6,4,Add a comment
+6acb7fd1-a1da-4f68-9521-b842495de6ad,Mere Christianity,48.51,6,3,Add a comment
+963c5a7c-a45d-4921-8d6e-9196294029fa,Fun Home: A Family Tragicomic,56.59,6,4,Add a comment
+3453f583-eb32-40b5-991c-68fcea4f876d,The Raven King (The Raven Cycle #4),30.57,5,2,Add a comment
+cc0d69a2-51db-47e7-bb69-1de3a20de56b,Find Her (Detective D.D. Warren #8),22.37,5,1,Add a comment
+b46bdbf8-1928-4964-839f-e37dcd1aed77,Evicted: Poverty and Profit in the American City,42.27,5,1,Add a comment
+72ce0871-547e-4a7a-b695-b71efde43b86,A Game of Thrones (A Song of Ice and Fire #1),46.42,5,2,Add a comment
+d7cd5d68-501e-4e25-aff9-5b2152a0de40,A Clash of Kings (A Song of Ice and Fire #2),10.79,5,3,Add a comment
+c4f11224-af57-42b5-9a3b-7d0de420fa2f,The Tipping Point: How Little Things Can Make a Big Difference,10.02,3,2,Add a comment
+a6fd31de-496a-469d-b631-07168f8cf898,The Rest Is Noise: Listening to the Twentieth Century,34.77,3,1,Add a comment
+ef880383-d9f3-4d8c-9358-1846f0a3b28a,The Purpose Driven Life: What on Earth Am I Here for?,37.19,3,3,Add a comment
+aba1dc87-8389-40f5-a4e8-618be0b2fd90,The Hitchhiker's Guide to the Galaxy (Hitchhiker's Guide to the Galaxy #1),47.8,3,3,Add a comment
+01daa111-b1f8-4f1a-876d-0b60724e52f8,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy #3),57.48,3,1,Add a comment
+96040dd7-1525-464c-90e8-46d4bdac6121,"The End of Faith: Religion, Terror, and the Future of Reason",22.13,3,4,Add a comment
+7d1e7581-c11f-48cf-a32f-74996a6c0c68,The Complete Poems,41.32,3,5,Add a comment
+7e4e29db-28e6-40fa-800e-8bc5a38753e4,The Catcher in the Rye,24.55,3,1,Add a comment
+df622ede-ff7a-4a03-a980-880fa3be8b8e,The Case for Christ (Cases for Christianity),47.84,3,1,Add a comment
+8f32139c-2833-4c12-b275-b423cd621625,The Blind Side: Evolution of a Game,53.71,3,5,Add a comment
+d998a5a4-216d-46b8-8e34-635e519923c1,Seven Days in the Art World,52.33,3,2,Add a comment
+99b51f9b-4948-4b4e-881f-5abdeb803093,Sarah's Key,46.29,3,1,Add a comment
+ba0b8eaa-2800-428e-bfbf-3c406d8e3834,Rogue Lawyer (Rogue Lawyer #1),50.11,3,3,Add a comment
+c7079d08-e97d-4b3e-9f3a-2c021ef9fb2f,Manuscript Found in Accra,34.98,3,2,Add a comment
+e6da35e0-6d0d-4887-812a-b6ac19e9efe7,Fire Bound (Sea Haven/Sisters of the Heart #5),21.28,3,4,Add a comment
+c3afeeeb-4a37-4b9b-9f23-046a3b92f19b,Cosmos,36.17,3,2,Add a comment
+0313df4b-0791-49a9-9b9d-5be1807b4de9,#GIRLBOSS,50.96,3,1,Add a comment
+1548d48d-d107-425e-bf01-92aaeca007a1,The Sense of an Ending,31.38,2,3,Add a comment
+8925b018-174f-470f-b3a9-9e3333751974,The Republic,33.78,1,3,Add a comment
+5d4ae275-91c2-4946-8802-4985d165766e,The Odyssey,29.64,1,3,Add a comment
+1ae6f256-9cd5-4eec-b7cb-ccc34abe1ac9,The Light of the Fireflies,54.43,1,1,Add a comment
+67cd7a87-4405-434d-8ec9-ed1473f205c8,The Iliad,16.16,1,1,Add a comment
+9231db64-cde7-4c34-bcbc-db130b5fb568,The Communist Manifesto,14.76,1,3,Add a comment
+02a84c23-710a-47d9-9582-6026800aa1ed,Lord of the Flies,24.89,1,3,Add a comment
+5be668e9-af21-4d48-a2fe-cc6e171eb5fb,Unicorn Tracks,18.78,16,3,Fantasy
+c9f3f9e3-8916-47c3-90c1-87d39fd04166,"Saga, Volume 6 (Saga (Collected Editions) #6)",25.02,16,3,Fantasy
+87fa4e02-6b53-406d-9803-8e9842c76df4,Princess Between Worlds (Wide-Awake Princess #5),13.34,16,5,Fantasy
+01dd7f09-b414-423e-ad7b-9173a7edeff1,Masks and Shadows,56.4,16,2,Fantasy
+56de7038-b9e7-4f37-b68e-6b70d61019a9,Crown of Midnight (Throne of Glass #2),43.29,16,3,Fantasy
+f19c3d9f-8009-48ea-a67b-e2db4474619d,"Avatar: The Last Airbender: Smoke and Shadow, Part 3 (Smoke and Shadow #3)",28.09,16,2,Fantasy
+0bbd375e-2dc1-45f8-9f4d-c6530ad6b588,A Court of Thorns and Roses (A Court of Thorns and Roses #1),52.37,16,1,Fantasy
+24b57a22-47dd-4be8-9200-86cab69fe08c,Throne of Glass (Throne of Glass #1),35.07,15,3,Fantasy
+8ca943a9-7bee-488e-a2ff-887751b60576,The Glittering Court (The Glittering Court #1),44.28,15,1,Fantasy
+4e02aad4-646e-4e75-ae71-132e3e13f86c,Hollow City (Miss Peregrine’s Peculiar Children #2),42.98,15,1,Fantasy
+8fd2c7cf-5576-414a-b70b-3ba068bd2658,The Star-Touched Queen,46.02,14,5,Fantasy
+1d07e364-66f8-47f7-a3cb-23f453e922b6,The Hidden Oracle (The Trials of Apollo #1),52.26,14,2,Fantasy
+e30fa8ef-94a4-436d-9cb0-209c329034ad,The Bane Chronicles (The Bane Chronicles #1-11),44.73,14,4,Fantasy
+7da0e3d4-c4b6-4803-9808-4a5498c1d65f,Island of Dragons (Unwanteds #7),29.65,14,1,Fantasy
+8aa36d02-1e9c-427c-b2d1-e9a68290125e,Demigods & Magicians: Percy and Annabeth Meet the Kanes (Percy Jackson & Kane Chronicles Crossover #1-3),37.51,14,5,Fantasy
+37ec31d3-d198-4f14-a531-64de5e4250b2,City of Glass (The Mortal Instruments #3),56.02,14,4,Fantasy
+84efd978-c164-4b43-8702-44796733b04e,Searching for Meaning in Gailana,38.73,13,1,Fantasy
+e05d2868-78d8-486c-8379-59774b877d14,The Star-Touched Queen,32.3,12,5,Fantasy
+9444a7e9-6695-43a9-a2df-b3f7e96c081b,A Shard of Ice (The Black Symphony Saga #1),56.63,9,3,Fantasy
+be0a41bf-12c3-4121-8a47-0672a1772ac5,King's Folly (The Kinsman Chronicles #1),39.61,7,5,Fantasy
+ff49da8e-2625-4eac-ba25-6b95c536469a,Every Heart a Doorway (Every Heart A Doorway #1),12.16,7,5,Fantasy
+579f8287-78cc-416e-89e8-a3c2934ffd65,A Gathering of Shadows (Shades of Magic #2),44.81,7,4,Fantasy
+a5454cef-e352-4b74-8f5b-7b3dbe2dcdea,The Raven Boys (The Raven Cycle #1),57.74,5,4,Fantasy
+d67bee2e-2ce9-4c4d-af63-d2fcc6880feb,The False Prince (The Ascendance Trilogy #1),56.0,5,5,Fantasy
+c6af41f3-4da3-4a0b-a1e6-57cd5164c78f,Tell the Wind and Fire,45.51,5,3,Fantasy
+b470f99a-0de5-4bc7-87b8-f487729d4a7a,A Feast for Crows (A Song of Ice and Fire #4),17.21,5,4,Fantasy
+c38d5750-126d-436a-80fe-e324aaf4999d,The Demonists (Demonist #1),52.11,4,2,Fantasy
+326703b3-311f-4555-89cb-ed9d01c49e2b,The Beast (Black Dagger Brotherhood #14),46.08,4,5,Fantasy
+d9dd9cc0-a3de-4c67-9d14-f44c7d585d80,Paper and Fire (The Great Library #2),49.45,4,5,Fantasy
+f482c908-2eb4-44d6-bf9a-622371d33220,Harry Potter and the Order of the Phoenix (Harry Potter #5),31.63,4,4,Fantasy
+3123e83c-7ef9-4be5-8ed2-58b9cafd078e,Harry Potter and the Half-Blood Prince (Harry Potter #6),48.75,4,5,Fantasy
+0beab93d-b61d-4344-9948-3f14b0e6f9fe,Harry Potter and the Chamber of Secrets (Harry Potter #2),14.74,4,1,Fantasy
+81291b74-638a-4c73-b367-759333b50ee4,The Rose & the Dagger (The Wrath and the Dawn #2),58.64,3,4,Fantasy
+6f5d5e43-99ff-48a3-b72a-24d461468f36,Soldier (Talon #3),24.72,3,2,Fantasy
+26ac59c1-35da-419d-8e72-97f06f3fc835,Midnight Riot (Peter Grant/ Rivers of London - books #1),55.46,3,2,Fantasy
+dba57142-0890-467f-85de-086a51142e08,Heir to the Sky,44.07,3,4,Fantasy
+ca0bbf13-9241-4c31-9054-6994f7ba9f13,Eragon (The Inheritance Cycle #1),43.87,3,3,Fantasy
+ba45ed34-5778-4a7a-b9b6-2e43fe48d3a6,Darkfever (Fever #1),56.02,3,1,Fantasy
+007ad83b-2949-4f95-9c85-538ea8cfa34b,Ash,22.06,3,4,Fantasy
+430099c8-ab30-40da-909e-0db4b1b2d973,A Storm of Swords (A Song of Ice and Fire #3),31.22,3,2,Fantasy
+84a79705-2b18-4d3d-8128-e10760624588,Vampire Girl (Vampire Girl #1),53.82,1,2,Fantasy
+84c87ab8-a6c3-40d4-9d72-88c98b6594a3,The Silent Twin (Detective Jennifer Knight #3),36.25,1,3,Fantasy
+5cf40ee4-5913-4b6c-9637-7c2405a9fc06,The Mirror & the Maze (The Wrath and the Dawn #1.5),29.38,1,1,Fantasy
+2278b43c-cfdc-4d83-bcbb-adc0d25eb88a,Sister Sable (The Mad Queen #1),13.33,1,3,Fantasy
+06291b60-6c04-499b-95e4-1303d6d985c7,Shadow Rites (Jane Yellowrock #10),21.72,1,4,Fantasy
+06b7ae60-0eaf-4ddf-ae6c-a0626fcc44cf,Origins (Alphas 0.5),28.99,1,1,Fantasy
+019cf3fb-f77c-4596-96fe-5230957ebc75,One Second (Seven #7),52.94,1,2,Fantasy
+dd96ee9c-85a4-43a4-abf9-3ae53cc3a5d1,Myriad (Prentor #1),58.75,1,4,Fantasy
+61b02f68-f31b-4d27-b98a-dca3f9b8581a,Without Borders (Wanderlove #1),45.07,16,2,New Adult
+054ab520-fa2a-4814-8fda-4338ccfc8850,The Mistake (Off-Campus #2),43.29,15,3,New Adult
+59e1ac57-ddfe-49e8-9a13-288e552b5b32,The Matchmaker's Playbook (Wingmen Inc. #1),55.85,15,1,New Adult
+1ec0c45f-977a-429d-bd7f-4e7fff7d7b07,The Hook Up (Game On #1),36.29,1,5,New Adult
+420657e3-0ca1-47f9-9f26-30b28e494324,Shameless,58.35,1,3,New Adult
+67ebfc2f-2485-496a-8cf7-f054bf3f9cb3,Off Sides (Off #1),39.45,1,5,New Adult
+ea6a71c0-c994-4ee5-8320-5a5068faf5ac,The Requiem Red,22.65,19,1,Young Adult
+b41f52c0-ad5d-4b99-bb59-4c14d34abc36,Set Me Free,17.46,19,5,Young Adult
+b1715993-e59a-48c4-9e5c-c52ee5d15d23,The Natural History of Us (The Fine Art of Pretending #2),45.22,16,3,Young Adult
+3b1d9bae-b1d0-4a15-bf17-0b58d0e6faf3,Obsidian (Lux #1),14.86,16,2,Young Adult
+1492ad22-125b-4468-9171-a5560051e2f0,Burning,28.81,16,3,Young Adult
+9b3dfc1e-5526-4934-9ff1-e3ead2837d06,A Fierce and Subtle Poison,28.13,16,4,Young Adult
+a5f988ed-d990-43e1-a491-ec12910feadf,Scarlett Epstein Hates It Here,43.55,15,5,Young Adult
+9e4853ed-cd34-4884-940c-f5ab1408ba85,"Nightingale, Sing",38.28,15,1,Young Adult
+c1829cfc-7436-46e2-bbbf-dabe34d536b9,Library of Souls (Miss Peregrine’s Peculiar Children #3),48.56,15,5,Young Adult
+ae47d792-41c6-4ab9-8eff-187df39bd0b0,Frostbite (Vampire Academy #2),29.99,15,5,Young Adult
+40db557b-6ffb-491e-9582-169256ade56d,Wild Swans,14.36,14,2,Young Adult
+6274e859-d55c-40e6-80fc-3571ca7b412e,Until Friday Night (The Field Party #1),46.31,14,2,Young Adult
+d06d290c-53d6-484c-9eab-a51b0fb1862c,This Is Where It Ends,27.12,14,2,Young Adult
+399d4240-652a-473f-a2dc-a73e7ac69bfd,The Darkest Lie,35.35,14,5,Young Adult
+c3048dcb-7fa0-4012-b111-6b9bc4f53300,My Kind of Crazy,40.36,14,1,Young Adult
+7dca1a19-f429-4407-ab0c-4915ce2ccdd1,Don't Get Caught,55.35,14,1,Young Adult
+cdd7e70d-67e0-44de-a51c-81c10082fb2f,Catching Jordan (Hundred Oaks),50.83,14,3,Young Adult
+610e4a1c-ea13-466d-a7dc-b8a7d9f55960,Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1),58.14,14,4,Young Adult
+11dee4ac-24fe-4edd-b945-40d122dfce74,The Epidemic (The Program 0.6),14.44,12,5,Young Adult
+6fe6e0cf-0cad-4f88-935c-49b1aa626027,Stars Above (The Lunar Chronicles #4.5),48.05,12,2,Young Adult
+06fdf892-8f0d-45b0-b36f-7b6fa95831b7,No Love Allowed (Dodge Cove #1),54.65,12,4,Young Adult
+b654f0d0-09e3-4e24-97d4-9cdfcd223c20,"Exit, Pursued by a Bear",51.34,11,4,Young Adult
+93d16688-1021-4730-8e04-a01eba400633,The Alien Club,54.4,9,1,Young Adult
+eb8c15cb-7a56-418a-96d8-7954aa2e8d3e,Don't Forget Steven,33.23,9,1,Young Adult
+5ac8f228-b0a9-4a75-84c3-eff05ec7c9c6,South of Sunshine,28.93,8,1,Young Adult
+d01e1822-a3cd-4568-9f3c-37f9dc159199,My Life Next Door (My Life Next Door ),36.39,8,5,Young Adult
+4d8997db-4ddf-4db4-b4d3-70500d2d7787,Future Shock (Future Shock #1),55.65,8,5,Young Adult
+3133aff6-db62-405d-a112-1432177464fd,Nightstruck: A Novel,50.35,7,4,Young Adult
+301e8e33-7614-4e67-a850-19cd780cecce,Tell the Wolves I'm Home,50.96,6,2,Young Adult
+4481b134-df70-42bd-bebb-6ff5853e5247,"Will Grayson, Will Grayson (Will Grayson, Will Grayson)",47.31,5,4,Young Adult
+948b9e6c-8595-4047-ab92-2cdabf0a3760,Where She Went (If I Stay #2),41.73,5,4,Young Adult
+2d3535ef-9f3e-458f-bbde-acfd299d3964,Two Summers,14.64,5,1,Young Adult
+be5b579d-095b-420b-b715-a97c99862511,The Darkest Corners,11.33,5,5,Young Adult
+01c1268e-c109-49b0-a16f-360e84347657,Tell Me Three Things,41.81,5,1,Young Adult
+80128885-4182-434f-b9d8-2d6fad02a87c,Lola and the Boy Next Door (Anna and the French Kiss #2),23.63,5,4,Young Adult
+2a4b21d4-f0a6-49dd-bd62-e56d5c9b5612,Kill the Boy Band,15.52,5,5,Young Adult
+298df476-885d-46e7-a788-cc7443b8f484,Isla and the Happily Ever After (Anna and the French Kiss #3),48.13,5,5,Young Adult
+507f2c92-1fbc-4153-94a2-5927ea3bae59,An Abundance of Katherines,10.0,5,5,Young Adult
+bf5cc15f-64c1-4044-9b85-1db0dc4cbdc0,Harry Potter and the Prisoner of Azkaban (Harry Potter #3),24.17,4,4,Young Adult
+b4173f16-6642-4769-89e3-36e56b89f001,Walk the Edge (Thunder Road #2),32.36,3,3,Young Adult
+1c123513-9f60-4def-bf33-48af82f97212,Two Boys Kissing,32.74,3,2,Young Adult
+e80d3aee-667d-47f0-a11e-9057334a599a,The New Guy (and Other Senior Year Distractions),44.92,3,3,Young Adult
+a88564ce-b74e-4fc8-b237-4f15db4ab383,"The Land of 10,000 Madonnas",29.64,3,4,Young Adult
+7017997d-2b81-4751-929a-1310cf6196e8,Scarlet (The Lunar Chronicles #2),14.57,3,4,Young Adult
+a38686ad-c67a-49bb-b062-76a0dda3b293,Legend (Legend #1),43.69,3,4,Young Adult
+90962e96-ccad-4db2-ade9-5430419e2219,Lady Renegades (Rebel Belle #3),53.04,3,5,Young Adult
+f3ff58e4-b94a-4291-a764-a17b189acdad,Golden (Heart of Dread #3),42.21,3,4,Young Adult
+38d4b6bd-c521-4515-967d-52692b6bf4a2,Cinder (The Lunar Chronicles #1),26.09,3,1,Young Adult
+a72b4fd8-9511-4f54-9067-4c4f4f827303,Boy Meets Boy,21.12,3,3,Young Adult
+3e70aafd-c9b3-4b02-bb85-862ba3230278,Annie on My Mind,36.83,3,5,Young Adult
+b3d23358-7b63-4a94-b74a-6e06e272a9bb,New Moon (Twilight #2),12.86,2,4,Young Adult
+fc3a5d56-7f2d-4274-89c5-e4c3bbffc59d,Girl Online On Tour (Girl Online #2),53.47,2,1,Young Adult
+3acf5946-b401-4d86-b06b-8a8aca72f586,The Haters,27.89,1,5,Young Adult
+05861572-6315-4485-9daa-fa16b9f61263,The Art of Not Breathing,40.83,1,4,Young Adult
+8fcc7a70-6c01-49c2-a828-9768ce50371e,The Most Perfect Thing: Inside (and Outside) a Bird's Egg,42.96,16,4,Science
+7f3dd784-5b1a-465d-87ea-e88b02b492f2,Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine,57.36,16,5,Science
+1034de3b-c47f-4d7c-be59-5aabe26db866,Sorting the Beef from the Bull: The Science of Food Fraud Forensics,44.74,14,4,Science
+185e49ba-ad15-4868-a10c-a2cfa96844d9,Tipping Point for Planet Earth: How Close Are We to the Edge?,37.55,12,1,Science
+a8bc58d6-1634-443f-ac4a-6724d1f42ada,"The Fabric of the Cosmos: Space, Time, and the Texture of Reality",55.91,9,1,Science
+24eb3f38-272e-4d41-988a-0f6b15d15a9c,Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World,28.41,8,1,Science
+86d4e010-7fec-4f77-9526-144902551dbf,The Origin of Species,10.01,7,4,Science
+7c6c2f81-ab1f-47eb-a9ae-807b172a0523,The Grand Design,13.76,5,3,Science
+836cf9c1-eeb8-4609-8afa-cc0246f15009,Peak: Secrets from the New Science of Expertise,16.28,5,2,Science
+2ec78f58-29d8-48da-a450-4b10b00d1bbb,"The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory",13.03,3,4,Science
+3202c2e2-3737-4e2b-8687-985cb7dd3911,"The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements",57.35,3,5,Science
+c3651f54-b666-47e8-85d4-5df264d8e8c9,"Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character",25.83,3,2,Science
+e889991a-f233-4780-b1a8-c6761d59a662,Seven Brief Lessons on Physics,30.6,3,4,Science
+aa1da275-6027-4d54-b756-28a914d47bc2,The Selfish Gene,29.45,1,1,Science
+21a29288-f18f-4e68-8833-214c95230348,A Light in the Attic,51.77,22,3,Poetry
+3e78dba6-254f-4932-b0ed-395198d016b0,The Black Maria,52.15,19,1,Poetry
+b6d4dd02-af70-4069-9028-1a2bd97def74,Shakespeare's Sonnets,20.66,19,4,Poetry
+8a5398c6-d970-474d-ad6e-9e220571d5ea,Olio,23.88,19,1,Poetry
+c2606fca-17f6-42cb-b2fe-4cbe9f53bff6,You can't bury them all: Poems,33.63,17,2,Poetry
+acb9c0cb-4e67-41ba-b579-cfed55c24403,Slow States of Collapse: Poems,57.31,17,3,Poetry
+77f88229-315c-4667-aa8a-904fb8b04c7e,Untitled Collection: Sabbath Poems 2014,14.27,16,4,Poetry
+e6bad880-e8b8-4a25-bd17-075f93c6c195,Poems That Make Grown Women Cry,14.19,15,4,Poetry
+60740c02-21aa-49f4-8d9e-a0b749ef7460,Night Sky with Exit Wounds,41.05,15,1,Poetry
+d044e25c-c6bf-42fb-97b0-22a9e5793a94,salt.,46.78,14,4,Poetry
+04cbc727-a077-4f4b-8f81-6d77792ee9d0,"Quarter Life Poetry: Poems for the Young, Broke and Hangry",50.89,14,5,Poetry
+34447ff4-bc37-47e3-a258-ed27da8d7888,Out of Print: City Lights Spotlight No. 14,53.64,8,5,Poetry
+9902fae1-ebd3-4aa5-a043-770876820759,Les Fleurs du Mal,29.04,8,5,Poetry
+c9547bda-2bda-4163-8809-86668354269f,Howl and Other Poems,40.45,8,2,Poetry
+c7a3448c-40ff-47c0-89ae-4bd6a879c37b,Leave This Song Behind: Teen Poetry at Its Best,51.17,7,5,Poetry
+63a626da-fe75-4b28-8d8f-d56699e13d87,The Collected Poems of W.B. Yeats (The Collected Works of W.B. Yeats #1),15.42,6,5,Poetry
+231ef0d1-264d-492f-9191-cfb0dfe54e65,The Crossover,38.77,5,4,Poetry
+c26a06a9-09cf-4eb6-8f87-a926acf0d18f,Booked,17.49,5,5,Poetry
+00a251f6-f376-4067-895d-49b91bb65d45,Twenty Love Poems and a Song of Despair,30.95,1,4,Poetry
+638ae11f-50d2-450c-8a0b-534c8361f4d2,"Vampire Knight, Vol. 1 (Vampire Knight #1)",15.4,1,1,Paranormal
+2386c7b4-68e3-4740-a7eb-67c370f7b9a6,Wall and Piece,44.18,18,4,Art
+6e15d5f2-9a8b-4dbc-8161-ac34581b626f,Feathers: Displays of Brilliant Plumage,49.05,14,3,Art
+5f22e571-fbd5-4d8e-8dc1-2a58b26d2671,Art and Fear: Observations on the Perils (and Rewards) of Artmaking,48.63,9,4,Art
+eda89485-eb20-42f4-aeeb-7d000e88e4c0,The New Drawing on the Right Side of the Brain,43.02,8,3,Art
+044a5ea3-bae6-473e-addf-eb2300897710,History of Beauty,10.29,8,4,Art
+daf83047-0a30-452a-93b5-b83d4c766c24,The Story of Art,41.14,7,4,Art
+db1df18a-11ec-4e6a-8867-a7350bd9b635,The Art Book,32.34,7,2,Art
+346b39d5-c069-434e-8247-e4c1334f4349,Ways of Seeing,39.51,1,5,Art
+9008c002-e80a-4b29-824a-38acf0e2865c,The Lucifer Effect: Understanding How Good People Turn Evil,10.4,14,1,Psychology
+9e68c6d2-f0ed-4bc5-87df-8af0ab911ed7,The Golden Condom: And Other Essays on Love Lost and Found,39.43,12,1,Psychology
+06f89156-64e4-42a6-ad47-921f2d2c944e,It Didn't Start with You: How Inherited Family Trauma Shapes Who We Are and How to End the Cycle,56.27,11,3,Psychology
+34afb068-7943-4b7f-bd78-a41073b6a073,An Unquiet Mind: A Memoir of Moods and Madness,21.3,6,3,Psychology
+c0eb14b1-8d7d-4b33-8813-0e64ce9c628d,"Thinking, Fast and Slow",21.14,3,1,Psychology
+9e0c7aaa-02b3-4b42-9fcb-bbf9a0651f7d,Civilization and Its Discontents,59.95,3,2,Psychology
+ed892310-f54a-4050-8ea1-b19dedfafced,8 Keys to Mental Health Through Exercise,31.04,3,1,Psychology
+a99bffc3-c7ed-4dc0-a5d9-7d4cb8009750,The Argonauts,10.93,15,2,Autobiography
+cb9deafe-29bf-4f8e-8d16-c6fca3aff44b,M Train,27.18,11,1,Autobiography
+e37c4485-abc9-44fe-a039-8f2d50630429,Lab Girl,40.85,11,1,Autobiography
+dd7b6282-42c3-4c6e-9f20-2c104d123d04,Approval Junkie: Adventures in Caring Too Much,58.81,5,5,Autobiography
+8706d420-c8aa-406c-a176-521acc040c94,Running with Scissors,12.91,3,4,Autobiography
+7d294968-40b2-48c6-ae88-7ee0f59fa5da,Me Talk Pretty One Day,57.6,3,2,Autobiography
+e5de29d5-d6c4-4316-ab7f-7c635fc1b8f1,Lust & Wonder,11.87,3,2,Autobiography
+6b957a19-302d-4c75-bb2c-5406881efe52,Life Without a Recipe,59.04,3,5,Autobiography
+eb7413d4-9abc-413b-a036-77762624dcff,A Heartbreaking Work of Staggering Genius,54.29,3,5,Autobiography
+316cfca4-b0c5-45f7-ab25-7c62a37265c8,Catastrophic Happiness: Finding Joy in Childhood's Messy Years,37.35,3,2,Parenting
+87e5cb6a-23c2-49cb-ae01-bb2709fa70c5,Fifty Shades Freed (Fifty Shades #3),15.36,3,5,Adult Fiction
+e08d29ff-f3ba-479f-ae6f-fa65f25042ae,The Long Haul (Diary of a Wimpy Kid #9),44.07,14,1,Humor
+f9275d3a-3b99-49a9-b7ed-a749d5fb42f6,Old School (Diary of a Wimpy Kid #10),11.83,14,5,Humor
+9ad13d4f-c714-4cee-a42b-357ec6236dab,I Know What I'm Doing -- and Other Lies I Tell Myself: Dispatches from a Life Under Construction,25.98,14,4,Humor
+23533236-bc89-4729-9cb8-4c361e00d033,"Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened",14.75,14,5,Humor
+f71aa312-7455-4110-92c2-a30dc8b31788,Dress Your Family in Corduroy and Denim,43.68,9,3,Humor
+07e8b77b-dee8-45be-8796-537d5d33fab3,Toddlers Are A**holes: It's Not Your Fault,25.55,7,1,Humor
+83f986a5-bfbc-4844-a6e0-3e6f8f7a94b8,When You Are Engulfed in Flames,30.89,3,5,Humor
+f366d0f1-a714-46af-8bb0-06041a16c543,Naked,31.69,3,3,Humor
+e3197f34-9524-45fa-9848-a06c2ee90f36,"Lamb: The Gospel According to Biff, Christ's Childhood Pal",55.5,3,5,Humor
+b28f50b3-777c-4663-8e2b-000fe2bc6c03,Holidays on Ice,51.07,3,2,Humor
+5bd64a89-4943-4102-aaab-682271eb473a,Security,39.25,16,2,Horror
+125d22e5-0098-4136-8b31-69451eb09c4c,Follow You Home,21.36,15,1,Horror
+896b271d-713f-4934-a37f-d75f47214771,The Loney,23.4,14,1,Horror
+cd321b10-6751-4491-8e99-9c03026bf58b,Pet Sematary,10.56,14,3,Horror
+df77af71-70d6-4d61-8fd1-83481554f126,Doctor Sleep (The Shining #2),40.12,14,2,Horror
+b9910d25-5242-4df7-a48f-01188fdbcab1,Psycho: Sanitarium (Psycho #1.5),36.97,12,5,Horror
+83956413-7dbb-4888-a704-75570b56876b,Can You Keep a Secret? (Fear Street Relaunch #4),48.64,12,1,Horror
+84f85a5e-f7a3-4d76-902a-90410abdd4c4,Red Dragon (Hannibal Lecter #1),23.37,5,3,Horror
+64c19a29-729f-4634-9c43-6295442c54b0,Dracula the Un-Dead,35.63,5,5,Horror
+69277906-18a8-4969-8bdf-e0e22bc06f5a,Night Shift (Night Shift #1-20),12.75,4,4,Horror
+14e44a95-5dda-434e-b4f5-fb6c527a0119,Needful Things,47.51,4,4,Horror
+6b5983de-99ed-427f-a43f-a012ce71d857,Misery,34.79,4,2,Horror
+562f8bb2-c66f-4bef-b553-6b84952e426e,It,25.01,4,3,Horror
+9c7e610d-f3f3-4b8d-9825-fe5cec55d53a,'Salem's Lot,49.56,4,4,Horror
+e6b9b9b1-d10c-4b6b-a984-fc90283492a7,The Stand,57.86,3,2,Horror
+6e62e813-7f7b-4328-8614-fb5910d7ebfd,The Girl with All the Gifts,49.47,3,3,Horror
+b01764bc-c5bc-425a-b81d-df285b540cc3,House of Leaves,54.89,3,1,Horror
+335de067-fd62-49ac-b260-25527b122609,Sapiens: A Brief History of Humankind,54.23,20,5,History
+4ee0f378-21aa-4a62-beb8-55abba3b6fba,"Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink",25.52,16,1,History
+cecee99d-f0da-43b4-9ea4-c3ff3d5469f7,The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind,19.73,16,1,History
+3d9b1cfd-785a-4d1e-a7d8-2df89ac41d39,"Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics",36.28,16,2,History
+5d07651a-921f-462f-bc16-45ffe2b2c2c4,Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History,59.64,15,1,History
+568cb727-6bfe-4a40-9272-01d693d48263,Zealot: The Life and Times of Jesus of Nazareth,24.7,14,3,History
+845620dd-f9f7-46d3-888e-da8427756733,A Distant Mirror: The Calamitous 14th Century,14.58,14,3,History
+e5f49e06-239c-4a4c-a953-419f36e01066,1491: New Revelations of the Americas Before Columbus,21.8,14,3,History
+9969ae57-6eef-48bf-8c9a-ff8bef466d49,Brilliant Beacons: A History of the American Lighthouse,11.45,8,3,History
+081a76bb-b5e1-490a-b9b3-7adcc4e5cc61,"""Most Blessed of the Patriarchs"": Thomas Jefferson and the Empire of the Imagination",44.48,8,5,History
+5089be90-d3f6-4fa2-8136-2abe744e6227,A Short History of Nearly Everything,52.4,7,5,History
+7f53f594-1c9e-4d39-9824-d56c03ce1148,The Rise and Fall of the Third Reich: A History of Nazi Germany,39.67,6,2,History
+bdd8fa18-3e62-4f2b-a1a0-de64b5a65b10,Catherine the Great: Portrait of a Woman,58.55,6,4,History
+f3c036a1-1ec6-4492-aef1-7e1980087904,The Mathews Men: Seven Brothers and the War Against Hitler's U-boats,42.91,5,5,History
+ac0bc5a0-3a34-4626-a1c7-852158ef19b5,The Hiding Place,55.91,5,4,History
+3e6d6ed1-696c-4e55-a0fc-3225af16e14f,America's War for the Greater Middle East: A Military History,51.22,5,2,History
+e680034f-80dc-4e74-b496-8cdd677604ec,The Guns of August,14.54,3,2,History
+3e38ceb7-fb4c-4e64-b181-c9fb5ba1742e,"House of Lost Worlds: Dinosaurs, Dynasties, and the Story of Life on Earth",43.7,3,2,History
+eb81d6ea-b6ef-4c1a-b011-754d5a308d7e,"Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More",30.52,19,3,Food and Drink
+897e736c-101f-46db-9b3e-b25063b0625c,"The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!",56.41,16,1,Food and Drink
+d91c3d6e-6a34-4df4-8840-3837177fff92,My Paris Kitchen: Recipes and Stories,33.37,16,2,Food and Drink
+c6d7115a-4902-441d-8b20-92a3430b6559,"Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed",14.02,16,4,Food and Drink
+34ba7e9f-7f21-45b7-8565-ceafac94bf3f,"Layered: Baking, Building, and Styling Spectacular Cakes",40.11,16,1,Food and Drink
+d9156abb-b8de-403c-86c7-0a7ee783aaa6,The Nerdy Nummies Cookbook: Sweet Treats for the Geek in All of Us,37.34,15,5,Food and Drink
+6ebd19ba-6b23-4e85-ae9b-bf84e76d5874,The Love and Lemons Cookbook: An Apple-to-Zucchini Celebration of Impromptu Cooking,37.6,15,2,Food and Drink
+2a8f1dba-8007-4afb-affb-9bd7bb4e84ef,The Cookies & Cups Cookbook: 125+ sweet & savory recipes reminding you to Always Eat Dessert First,41.25,15,1,Food and Drink
+91ba4da1-319c-4b92-b7d6-45bf58a12958,"Deliciously Ella Every Day: Quick and Easy Recipes for Gluten-Free Snacks, Packed Lunches, and Simple Meals",42.16,15,3,Food and Drink
+2615fb2a-3fdf-4635-9711-75cf2744e370,The Help Yourself Cookbook for Kids: 60 Easy Plant-Based Recipes Kids Can Make to Stay Healthy and Save the Earth,28.77,14,3,Food and Drink
+c090fe46-8e9e-4775-bdfb-56f4344f8bb3,"It's All Easy: Healthy, Delicious Weeknight Meals in under 30 Minutes",19.55,14,1,Food and Drink
+ccaad21f-e7a8-4d4a-96b0-87ff4bd20ffd,Barefoot Contessa Back to Basics,28.01,14,1,Food and Drink
+c5b04145-65e3-4d20-91ed-0a45c5c70377,Barefoot Contessa at Home: Everyday Recipes You'll Make Over and Over Again,50.62,14,5,Food and Drink
+6f841ca6-4139-4ea7-9d5c-84a1c318b9fd,My Kitchen Year: 136 Recipes That Saved My Life,11.53,13,2,Food and Drink
+199fb12f-ce49-464a-b40b-f01c5483e883,Everyday Italian: 125 Simple and Delicious Recipes,20.1,12,5,Food and Drink
+0bd68064-08b5-4b15-8f90-8cce9e958842,"A la Mode: 120 Recipes in 60 Pairings: Pies, Tarts, Cakes, Crisps, and More Topped with Ice Cream, Gelato, Frozen Custard, and More",38.77,12,1,Food and Drink
+22ebdbd9-06da-4434-877d-477cd3851f34,Cravings: Recipes for What You Want to Eat,20.5,11,3,Food and Drink
+d9a721c3-2939-48e9-9989-5262905210f3,"The Moosewood Cookbook: Recipes from Moosewood Restaurant, Ithaca, New York",12.34,9,4,Food and Drink
+0783256b-4d39-4120-afa5-b666173ec0b8,32 Yolks,53.63,8,2,Food and Drink
+55170da4-efdf-4e96-af97-17831c1b1fdf,"Naturally Lean: 125 Nourishing Gluten-Free, Plant-Based Recipes--All Under 300 Calories",11.38,7,5,Food and Drink
+954c5832-f1c3-432a-b383-d8503d88a2e4,How to Cook Everything Vegetarian: Simple Meatless Recipes for Great Food (How to Cook Everything),46.01,7,4,Food and Drink
+8b229834-4834-4d49-9da3-12106b635cde,How to Be a Domestic Goddess: Baking and the Art of Comfort Cooking,28.25,7,2,Food and Drink
+47a48768-8e29-47e3-b776-985c09a79632,The Barefoot Contessa Cookbook,59.92,6,5,Food and Drink
+4d1cdea8-07a2-4214-9a1d-9580e7e84062,Better Homes and Gardens New Cook Book,39.61,6,3,Food and Drink
+1a4b2ffa-3a74-46db-b995-dd13f99c2121,The Power Greens Cookbook: 140 Delicious Superfood Recipes,11.05,5,5,Food and Drink
+80fa2a1f-c31b-4aa2-a51e-b6595c5773fc,Mexican Today: New and Rediscovered Recipes for Contemporary Kitchens,24.91,5,5,Food and Drink
+64831fb0-dc1a-4f38-b6e3-376a4143af80,Vegan Vegetarian Omnivore: Dinner for Everyone at the Table,13.66,3,2,Food and Drink
+909be545-457e-4160-baeb-7de4235d449e,The Smitten Kitchen Cookbook,23.59,3,1,Food and Drink
+17a9ae81-2396-46d0-8057-7e370ce0791a,"The Art of Simple Food: Notes, Lessons, and Recipes from a Delicious Revolution",34.32,3,3,Food and Drink
+2d88ff76-74a6-406e-a63e-36014d4b8d79,Hungry Girl Clean & Hungry: Easy All-Natural Recipes for Healthy Eating in the Real World,33.14,3,3,Food and Drink
+57b78955-45e0-4e43-abbe-033ef8bf0cd3,Redeeming Love,20.47,15,5,Christian Fiction
+5d253231-1eea-454f-a627-9d7a52352e4f,Close to You,49.46,15,4,Christian Fiction
+c9b13762-0974-4023-bd92-bcab59df7c34,Shadows of the Past (Logan Point #1),39.67,8,5,Christian Fiction
+3f239ff8-f7df-4b1b-b747-5bfc844ece74,Like Never Before (Walker Family #2),28.77,7,2,Christian Fiction
+cc1fa81a-6a44-4a73-af5f-248a9838f4c7,Counted With the Stars (Out from Egypt #1),17.97,7,5,Christian Fiction
+9c485891-f8a6-4e1f-a453-4719e8c22ddf,If I Run (If I Run #1),49.97,3,4,Christian Fiction
+d298a47b-6dfe-4db1-9923-f5732550b125,The Dirty Little Secrets of Getting Your Dream Job,33.34,19,4,Business
+9fe6b28f-9d07-4b51-b795-cd2823e533cc,The Third Wave: An Entrepreneur’s Vision of the Future,12.61,15,5,Business
+566203c8-a0c4-454b-99ba-d68fe6d2ff50,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,15,3,Business
+b59bef47-8ccb-4411-bc3b-af1f7a535de3,Shoe Dog: A Memoir by the Creator of NIKE,23.99,15,2,Business
+54d6b448-1d13-48de-a65e-2015286a9eb2,Made to Stick: Why Some Ideas Survive and Others Die,38.85,14,5,Business
+41c62e6c-ffd9-4323-a7ff-4a58f9c06f7a,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,12,1,Business
+04d182ec-6e56-425e-9350-dee327aa39b7,The Art of Startup Fundraising,21.0,11,3,Business
+73018620-4898-4885-9153-2362fb2c2fa3,Born for This: How to Find the Work You Were Meant to Do,21.59,11,5,Business
+0bf6d801-7110-4ebc-a12f-3d36ca8ba062,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,8,1,Business
+867e5bbd-abc7-4095-bfce-e87e356cf8ba,"Rich Dad, Poor Dad",51.74,7,1,Business
+d236e2da-39ed-4821-b35d-d20a3579b428,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3,3,Business
+ef5babf6-d4ea-43df-b1ff-d68d49cc36bd,Rework,44.88,3,2,Business
+d602cf9f-4feb-451b-b050-d77ceaeda05e,Louisa: The Extraordinary Life of Mrs. Adams,16.85,15,2,Biography
+55ec0144-3257-4ec1-a09d-182890ce34e2,"Setting the World on Fire: The Brief, Astonishing Life of St. Catherine of Siena",21.15,11,2,Biography
+e4755ab8-01a3-498a-8cb3-56b77624a100,The Faith of Christopher Hitchens: The Restless Soul of the World's Most Notorious Atheist,39.55,7,1,Biography
+29e6fdd2-f0d9-46d1-b0fe-3a99bfa03cac,Benjamin Franklin: An American Life,48.19,7,3,Biography
+aa7ae186-8904-4b4f-90cb-0aa6115ca4b5,The Rise of Theodore Roosevelt (Theodore Roosevelt #1),42.57,3,3,Biography
+bde9d086-9ed5-4741-8de3-e1f340a62878,In Her Wake,12.84,19,1,Thriller
+be235cb9-13a1-44af-a691-45688e1e5fdf,The Elephant Tree,23.82,18,5,Thriller
+97c02b76-6094-4397-9d5d-00c8d8144d0b,Behind Closed Doors,52.22,18,4,Thriller
+a505743f-843c-4f68-aace-c696f9ab3704,You (You #1),43.61,14,5,Thriller
+c288c869-b28b-4f06-8f0b-b836b27883c9,The Guilty (Will Robie #4),13.82,14,2,Thriller
+06fcbfce-e315-44c0-99bc-c78bff8d673a,The 14th Colony (Cotton Malone #11),39.24,14,1,Thriller
+3a815063-cf87-421d-a4c4-74ab3927ac7d,Give It Back,18.32,6,2,Thriller
+e0ba3e6b-f972-477d-987c-fc098a876c9b,Killing Floor (Jack Reacher #1),31.49,5,4,Thriller
+5c3c670c-008e-42c6-87af-e882b09e92fc,The Bone Hunters (Lexy Vaughan & Steven Macaulay #2),59.71,4,3,Thriller
+44175de2-5b95-4036-a4ba-4d0f0390441c,Far From True (Promise Falls Trilogy #2),34.93,4,2,Thriller
+861d0204-dade-4b1a-a91f-4920b26f0e67,The Travelers,15.77,3,1,Thriller
+1f11d3ef-76fb-4ff2-baf0-36680a2746f7,When We Collided,31.77,16,1,Contemporary
+24782327-7e12-44c5-8e93-3f5d8e783c19,Someone Like You (The Harrisons #2),52.79,14,5,Contemporary
+aaa46b72-9521-473d-87a9-204487cb9033,We Are All Completely Beside Ourselves,24.04,3,1,Contemporary
+4884fce2-207e-47d8-8305-b6d856a3a63b,The Four Agreements: A Practical Guide to Personal Freedom,17.66,18,5,Spirituality
+fdc5c52f-59f4-468c-a26a-88f215e6c8cb,The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution,32.24,16,5,Spirituality
+5b2ae66d-4cf8-4bc0-a04c-984dbd71a411,Chasing Heaven: What Dying Taught Me About Living,37.8,15,2,Spirituality
+6e14ccdb-2944-483b-aae4-d466ee56017e,If I Gave You God's Phone Number....: Searching for Spirituality in America,20.91,9,1,Spirituality
+6922b6ea-5c75-43f5-93de-96a4cc9c10e1,Unreasonable Hope: Finding Faith in the God Who Brings Purpose to Your Pain,46.33,7,2,Spirituality
+3778d234-ca9a-4a59-912b-c677dece70f3,A New Earth: Awakening to Your Life's Purpose,55.65,4,5,Spirituality
+f688aa79-16ea-428b-b411-f9c4306a5c51,Logan Kade (Fallen Crest High #5.5),13.12,5,2,Academic
+bee6fe1f-2cb7-445a-92b7-1326cf0dc1b8,Online Marketing for Busy Authors: A Step-By-Step Guide,46.35,16,1,Self Help
+3ebdee23-c270-48f6-a385-60f17f164ee8,How to Be Miserable: 40 Strategies You Already Use,46.03,16,1,Self Help
+f5e5d120-4d64-4dec-8559-cfadf25885d1,"Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",52.15,14,3,Self Help
+58b69d4b-3047-42ac-b34b-ecce213006c8,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,12.08,7,3,Self Help
+0bcbfcb7-f107-4b1a-aee8-a452ccefc372,How to Stop Worrying and Start Living,46.49,6,5,Self Help
+fa972190-506d-43b1-8943-a08fe5312ac5,All the Light We Cannot See,29.87,14,5,Historical
+49c32377-a645-42d5-9420-fd5df8edad67,The Girl You Left Behind (The Girl You Left Behind #1),15.79,6,1,Historical
+fb1b4ad6-1b46-413d-b923-903ee06eb086,(Un)Qualified: How God Uses Broken People to Do Big Things,54.0,16,5,Christian
+c3008c99-debe-462f-8ee7-1a5870b0e81b,Crazy Love: Overwhelmed by a Relentless God,47.72,14,2,Christian
+847c5c3a-3005-4104-bb0d-e1a545ad0950,Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality,25.77,7,1,Christian
+08ce3b19-816c-4a90-b131-46543f30252e,Silence in the Dark (Logan Point #4),58.33,8,3,Suspense
+0288708e-5002-4c02-ba4e-5c199281a5aa,The Grownup,35.88,8,1,Short Stories
+a0f975e8-c788-4bda-a07f-1209676a4201,Suzie Snowflake: One beautiful flake (a self-esteem story),54.81,9,5,Novels
+856de972-aef5-461f-bbe3-28d6bb2507b2,"The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life",49.05,16,3,Health
+e80de862-f4c1-445c-a28c-68b3415fcc9d,"Eat Fat, Get Thin",54.07,14,2,Health
+297eab51-764f-461e-9fa9-b2a44284adb5,10-Day Green Smoothie Cleanse: Lose Up to 15 Pounds in 10 Days!,49.71,10,5,Health
+39763288-34bc-4f5d-a042-c56d370d24fa,The Art and Science of Low Carbohydrate Living,52.98,9,5,Health
+32b8f35b-0f57-4ed3-b7b6-d952340d3241,Libertarianism for Beginners,51.33,19,2,Politics
+e4de1a9d-bff8-47f2-be72-e6e485d0e64e,Why the Right Went Wrong: Conservatism--From Goldwater to the Tea Party and Beyond,52.65,14,4,Politics
+18c440f8-c8a8-46c1-b7cd-fc6cceea6959,Equal Is Unfair: America's Misguided Fight Against Income Inequality,56.86,12,1,Politics
+33bc45ea-0af4-4e82-9b57-09d4b5a2a3c3,Amid the Chaos,36.58,15,1,Cultural
+81812f51-91e2-4ddc-af3d-0335dfa6ac3e,Dark Notes,19.19,15,5,Erotica
+d8f7539e-6c36-404f-acbb-a28c67e53d7c,The Long Shadow of Small Ghosts: Murder and Memory in an American City,10.97,15,1,Crime
